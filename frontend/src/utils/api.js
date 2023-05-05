@@ -1,7 +1,8 @@
 import axios from 'axios';
 
 export const api = async (url, method, body = null, headers = {}) => {
-  const URL_BACKEND = window.location.hostname === 'job-link.netlify.app' ? 'https://job-link.up.railway.app/' : 'http://localhost:3001/';
+  const URL_BACKEND = window.location.hostname === 'aiswtool.netlify.app' ? 'https://aisw.up.railway.app/' : 'http://localhost:3001/';
+  
 
   const token = (localStorage.getItem('user-session') || '')
   .replace(/"/g, "") // Elimina todas las comillas
