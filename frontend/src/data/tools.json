@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Search Intent Tool",
+        "description": "Detecta facilmente la intención de búsqueda y la fase del funnel en el que se encuentran las keywords de un listado.",
+        "link": "/tools/search-intent",
+        "tag": "seo",
+        "icon": "BsTable",
+        "available": true
+      },
+      {
+        "title": "Opportunity Kw Tool",
+        "description": "Analiza un texto mediante URL contra un listado de KW de oportunidad. La herramienta reescribirá aquellos párrafos que lo precisen.",
+        "link": "/tools/opportunity-kw",
+        "tag": "seo",
+        "icon": "BsTable",
+        "available": false
+      },
+      {
+        "title": "Clustering Kw Tool",
+        "description": "Clusteriza fácilmente un listado de KW con los clusters que tú elijas.",
+        "link": "/tools/clustering-kw",
+        "tag": "seo",
+        "icon": "BsTable",
+        "available": true
+      },
+      {
+        "title": "Clustering URL Tool",
+        "description": "Clusteriza fácilmente un listado de URL's que le pasemos con los clusters que tú elijas.",
+        "link": "/tools/clustering-urls",
+        "tag": "seo",
+        "available": false
+      },
+      {
+        "title": "Product Cat. Tool",
+        "description": "Categoriza los productos de un ecommerce con los parámetros que decidas.",
+        "link": "/tools/product-category",
+        "tag": "seo",
+        "icon": "BsTable",
+        "available": true
+      },
+      {
+        "title": "Quality Rater Tool",
+        "description": "Valora el contenido de un artículo como lo haría un Quality Rater de Google.",
+        "link": "/tools/quality-rater",
+        "tag": "seo",
+        "icon": "BsReverseListColumnsReverse",
+        "available": false
+      },
+      {
+        "title": "FAQ Schema",
+        "description": "Crea rápidamente un marcado Schema para FAQS.",
+        "link": "/tools/schema",
+        "tag": "seo",
+        "icon":"BsCodeSquare",
+        "available": true
+      },
+      {
+        "title": "Media Category",
+        "description": "Clasifica dominios por tipología y categoría.",
+        "link": "/tools/media-category",
+        "tag": "growwer",
+        "icon": "BsTable",
+        "available": true
+      },
+
+      {
+        "title": "El prospector",
+        "description": "Realiza una prospección dada una KW semilla",
+        "link": "/tools/prospector",
+        "tag": "growwer",
+        "icon": "BsReverseListColumnsReverse",
+        "available": true
+      },
+      
+
+      {
+        "title": "Title, Meta & Headings Tool",
+        "description": "Crea titles, descripciones y encabezados según los TOP de Google.",
+        "link": "/tools/serp-titles",
+        "tag": "seo",
+        "icon": "BsReverseListColumnsReverse",
+        "available": true
+      }
+    
+    
+    ]
