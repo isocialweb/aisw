@@ -52,7 +52,7 @@ export default function Clustering() {
     }
     processPrompts(index + 1, newData, prompts);
   } catch (error) {
-    console.log("Error:", error);
+    
     setButtonState("error");
   }
 }
@@ -67,7 +67,7 @@ export default function Clustering() {
     // Cuando FinalPrompts renderice parsearemos la String resultate a objeto de JS
     useEffect(() => {
       setResponse(parseString(finalPrompts))
-      console.log()
+      
     }, [finalPrompts])
 
     
