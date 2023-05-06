@@ -141,7 +141,7 @@ export default function SerpTitle() {
   }
 
   console.clear()
-  console.log(loadSteps)
+  
   
 
   return (

@@ -34,7 +34,7 @@ async function getData() {
     const res = await api("chat", "POST", { prompt });
     console.timeEnd(`Fetch Time`)
     setRes(res.response.replace((/([\}\]\>])/g, '$1\n')))
-    console.log(res)
+    
     setButtonState("done")
       }
       catch(error) {
