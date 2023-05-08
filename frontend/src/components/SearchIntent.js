@@ -66,7 +66,7 @@ export default function SearchIntent() {
     // Cuando FinalPrompts renderice parsearemos la String resultate a objeto de JS
     useEffect(() => {
       setResponse(parseString(finalPrompts, setButtonState))
-      console.log()
+      
     }, [finalPrompts])
 
     
@@ -74,7 +74,7 @@ export default function SearchIntent() {
     function hadleReload() {
       window.location.reload()
     }
-    console.log(buttonState)
+   
   
 
   return (

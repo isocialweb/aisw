@@ -26,7 +26,7 @@ function Prospector() {
 
     } catch (err) {
       setControlState('error')
-      console.log(err)
+      
     }
 
 

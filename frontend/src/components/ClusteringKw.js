@@ -67,6 +67,7 @@ export default function Clustering() {
     
     // Cuando FinalPrompts renderice parsearemos la String resultate a objeto de JS
     useEffect(() => {
+
       const result = parseString(finalPrompts);
       if (result === null) {
         setButtonState("error");
@@ -74,6 +75,7 @@ export default function Clustering() {
         setResponse(result);
       }
     }, [finalPrompts]);
+
     
 
     function hadleReload() {

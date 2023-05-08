@@ -19,6 +19,7 @@ useEffect(() => {
   const response = await api(`user/${id}`)
    setData (response)
 
+
 }
  getData()
 }, [])
