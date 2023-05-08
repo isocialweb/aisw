@@ -26,7 +26,7 @@ setCredentials({
 async function fetchInfo() {
   try {
     const response = await api("user/login", "POST", credentials)
-    console.log(response)
+    
     setUserSession(response)
     router.push('/tools')
     return response
@@ -41,8 +41,7 @@ async function handleSubmit(e){
   e.preventDefault()
   try {
     const response = await fetchInfo()
-    console.log(response)
-    console.log(credentials)
+    
   } catch (error) {
     setError("Usuario o contraseña incorrectos")
   }

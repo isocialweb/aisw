@@ -51,15 +51,15 @@ const scraper_ppaa = async (query, depth = 0, maxDepth = 3, limit=8 ) => {
     const organic_results = 50
     
       const ppaa_results = await run_scraper_ppaa(query, 2, ppaa_limit);
-      console.log(`Resultados: ${ppaa_results.length}`)
-      console.log(ppaa_limit)
+      // console.log(`Resultados: ${ppaa_results.length}`)
+      // console.log(ppaa_limit)
       if(ppaa_results.length > ppaa_limit || ppaa_results.length == ppaa_limit ){
-        console.log('PPAA scraping terminado');
-        console.log(ppaa_results)
+        // console.log('PPAA scraping terminado');
+        // console.log(ppaa_results)
         for (const element of ppaa_results) {
           const newUrls = await scraper_organic_urls(element, organic_results)
           urls.push(...newUrls)
-          console.log(`Organic scraping para ${element} terminado`);
+          // console.log(`Organic scraping para ${element} terminado`);
              
           }
       }
@@ -68,7 +68,7 @@ const scraper_ppaa = async (query, depth = 0, maxDepth = 3, limit=8 ) => {
   
       const uniqueUrls = [...new Set(urls)]
       try {
-       console.log(uniqueUrls)
+      //  console.log(uniqueUrls)
              } catch (error) {
         console.error('Error al guardar el archivo:', error);
       }

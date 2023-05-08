@@ -55,7 +55,7 @@ export default async function scraper(url) {
 
 
 
-  console.log(results)
+  // console.log(results)
   return(results)
 
 

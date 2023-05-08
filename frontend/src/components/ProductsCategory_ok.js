@@ -55,7 +55,7 @@ export default function ProductsCategory() {
       }
       processPrompts(index + 1, newData, prompts);
     } catch (error) {
-      console.log("Error:", error);
+      
       setButtonState("error");
     }
       
@@ -70,7 +70,7 @@ export default function ProductsCategory() {
     // Cuando FinalPrompts renderice parsearemos la String resultate a objeto de JS
     useEffect(() => {
       setResponse(parseString(finalPrompts, setButtonState))
-      console.log()
+   
     }, [finalPrompts])
 
     
