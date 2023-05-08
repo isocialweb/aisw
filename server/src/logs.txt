@@ -10,3 +10,6 @@
 {"keyword":"zapatillas de calistenia", "intention":"Informacional","etapa":"Descubrimiento"}
 {"keyword":"tiendas de deporte cerca de mi", "intention":"Navegacional","etapa":"Conversión"}
  | Total Tokens: 266
+
+2023-05-08T13:08:24.363Z - Clustering KW -  Total Fetch: /1: {"keyword":"Galgo","topic":"Perro"}{"keyword":"podenco","topic":"Perro"}{"keyword":"setter","topic":"Perro"}{"keyword":"labrador","topic":"Perro"}{"keyword":"Sphynx","topic":"Gato"}{"keyword":"siamés","topic":"Gato"}{"keyword":"Yorkshire","topic":"Perro"}
+ | Total Tokens: 173
