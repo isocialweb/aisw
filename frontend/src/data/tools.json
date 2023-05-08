@@ -55,7 +55,7 @@
         "available": true
       },
       {
-        "title": "Media Category",
+        "title": "Media Category (Beta)",
         "description": "Clasifica dominios por tipología y categoría.",
         "link": "/tools/media-category",
         "tag": "growwer",
