@@ -10,7 +10,7 @@ import { api } from '@/utils/api';
 export default function ProductsCategory() {
   const [products, setProducts] = useState("")
   const [topics, setTopics] = useState("")
-  const [eCategory, setEcategory] = useState("")
+ 
   const cleanProducts = products.split(/\r?\n/)
   const cleanTopics = topics.split(/\r?\n/)
 
@@ -25,8 +25,8 @@ export default function ProductsCategory() {
 
     
   async function createSplitPrompts() {
-    const groups = splitArrayIntoGroups(cleanProducts, 15);
-    const prompts = groups.map(group => `Clasifica los siguientes productos de una tienda online: ${group} en una de las siguientes categorías:${cleanTopics} y devuelve únicamente el nombre de la categoría elegida Habrá una palabra por línea con el formato: producto | categoria. El formato de tu respuesta SIEMPRE debe ser un objeto por keyword como este {"producto":"valor","categoria":"valor"} sin saltos de linea, sin [], sin comas entre }{ ni ninguna información extra `);
+    const groups = splitArrayIntoGroups(cleanProducts, 20);
+    const prompts = groups.map(group => `Clasifica los siguientes productos de una tienda online: ${group} en una de las siguientes categorías:${cleanTopics} y devuelve la respuesta ESTRICTAMENE en el formato solicitado:  {"producto":"nombre del producto","categoria":"categoría"}. El formato de tu respuesta SIEMPRE debe ser un objeto por keyword sin saltos de linea, sin [], sin comas entre }{ ni ninguna información extra `);
     setFetchIndex(prompts.length)
     return prompts;
   }
@@ -43,8 +43,9 @@ export default function ProductsCategory() {
    
     //Por cada índice del prompt realizaremos un fetch
     const prompt = prompts[index];
+    const functionName = "productsCategory";
     try {
-      const res = await api("chat", "POST", { prompt });
+      const res = await api("chat", "POST", { prompt,fetchIndex:prompts.length,functionName });
       // console.log(`Fetch ${index + 1} result:`, res);
       const newData = accumulatedData.concat(res.response);
       setResponse(newData);
@@ -78,7 +79,7 @@ export default function ProductsCategory() {
       window.location.reload()
     }
 
-
+console.log(fetchCount)
     // if (buttonState=== 'done'){console.log(response)}
 
 

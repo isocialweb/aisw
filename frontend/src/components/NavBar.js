@@ -12,12 +12,12 @@ const [data,setData] =  useState([])
 
 const id = tokenDecoder()
 
-console.log(id)
+
 
 useEffect(() => {
   async function getData() {
   const response = await api(`user/${id}`)
-  console.log(response)
+ 
   setData (response)
 
 }
