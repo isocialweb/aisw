@@ -32,3 +32,22 @@ export function splitArrayIntoGroups(array, groupSize) {
     
     
   }
+
+
+  // export function parseString(data) {
+  //   try {
+  //     const firstregex = /},/g;
+  //     const a = data.replace(firstregex, "}");
+  //     const secondRegex = /}/g;
+  //     const b = a.replace(secondRegex, "},");
+  //     const c = b.replace(/,$/g, "");
+  //     const d = c.replace(/^/g, "[");
+  //     const final = d.replace(/$/g, "]");
+  
+  //     return { result: JSON.parse(final), error: false };
+  //   } catch (error) {
+  //     // console.log("Ha fallado parseString");
+  //     return null
+  //   }
+  // }
+  

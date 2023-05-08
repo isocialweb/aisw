@@ -24,7 +24,7 @@ export default function Clustering() {
   //Esta función convierte las cleanKeywords en paquetes de n que queramos y luego los mapea para separar los prompts en tantos como larga sea la array de grupos de KW  
   async function createSplitPrompts() {
     const groups = splitArrayIntoGroups(cleanKeywords, 20);
-    const prompts = groups.map(group => `Para el siguiente listado de palabras: "${group}", asigna la kw a alguna de estas categorías ${cleanTopics}. Habrá una palabra por línea con el formato: topic | keyword. El formato de tu respuesta SIEMPRE debe ser un objeto por keyword como este {"keyword":"valor","topic":"valor"} sin saltos de linea, sin [], sin comas entre }{ ni ninguna información extra `);
+    const prompts = groups.map(group => `Para el siguiente listado de palabras: "${group}", asigna la kw a alguna de estas categorías ${cleanTopics}. Devuelve la respuesta ESTRICTAMENE en el formato solicitado: {"keyword":"valor","topic":"valor"} sin saltos de linea, sin [], sin comas entre }{ ni ninguna información extra`);
     setFetchIndex(prompts.length)
     return prompts;
   }
@@ -40,9 +40,10 @@ export default function Clustering() {
    
     //Por cada índice del prompt realizaremos un fetch
     const prompt = prompts[index];
+    const functionName= 'Clustering KW'
  
   try {
-    const res = await api("chat", "POST", { prompt });
+    const res = await api("chat", "POST", { prompt,fetchIndex:prompts.length,functionName });
     // console.log(`Fetch ${index + 1} result:`, res);
     const newData = accumulatedData.concat(res.response);
     setResponse(newData);
@@ -52,7 +53,7 @@ export default function Clustering() {
     }
     processPrompts(index + 1, newData, prompts);
   } catch (error) {
-    console.log("Error:", error);
+    
     setButtonState("error");
   }
 }
@@ -66,10 +67,13 @@ export default function Clustering() {
     
     // Cuando FinalPrompts renderice parsearemos la String resultate a objeto de JS
     useEffect(() => {
-      setResponse(parseString(finalPrompts))
-      console.log()
-    }, [finalPrompts])
-
+      const result = parseString(finalPrompts);
+      if (result === null) {
+        setButtonState("error");
+      } else {
+        setResponse(result);
+      }
+    }, [finalPrompts]);
     
 
     function hadleReload() {

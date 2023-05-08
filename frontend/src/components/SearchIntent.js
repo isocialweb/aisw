@@ -24,7 +24,7 @@ export default function SearchIntent() {
   //Esta función convierte las cleanKeywords en paquetes de n que queramos y luego los mapea para separar los prompts en tantos como larga sea la array de grupos de KW  
   async function createSplitPrompts() {
     const groups = splitArrayIntoGroups(cleanKeywords, 20);
-    const prompts = groups.map(group => `Para el siguiente listado de palabras:${group}, devuelve por cada una de las keywords la intención de búsqueda (Informacional, Transaccional o Navegacional) y la etapa del embudo de conversión (Descubrimiento, Consideración o Conversión). Habrá una palabra por línea con el formato: keyword | intention | etapa. El formato de tu respuesta SIEMPRE debe ser un objeto por keyword como este {"keyword":"valor", "intention":"valor","etapa":"valor"} sin saltos de linea, sin [], sin comas entre }{ ni ninguna información extra `);
+    const prompts = groups.map(group => `Para el siguiente listado de palabras:${group}, devuelve por cada una de las keywords la intención de búsqueda (Informacional, Transaccional o Navegacional) y la etapa del embudo de conversión (Descubrimiento, Consideración o Conversión).devuelve la respuesta ESTRICTAMENE en el formato solicitado:  {"keyword":"valor", "intention":"valor","etapa":"valor"}. El formato de tu respuesta SIEMPRE debe ser un objeto por keyword sin saltos de linea, sin [], sin comas entre }{ ni ninguna información extra   `);
     setFetchIndex(prompts.length)
     return prompts;
   }
@@ -41,9 +41,9 @@ export default function SearchIntent() {
    
     //Por cada índice del prompt realizaremos un fetch
     const prompt = prompts[index];
-   
+    const functionName= 'SearchIntent'
     try {
-      const res = await api("chat", "POST", { prompt });
+      const res = await api("chat", "POST", { prompt,fetchIndex:prompts.length,functionName });
       const newData = accumulatedData.concat(res.response);
       setResponse(newData);
       setFetchCount(fetchCount + 1);
@@ -91,7 +91,7 @@ export default function SearchIntent() {
         onChange={(e) => setKeywords(e.target.value)}
       />
 
-  <RenderButton state={buttonState} getData={handleProcessPrompts} handleReload={hadleReload} />
+  <RenderButton state={buttonState} getData={handleProcessPrompts} handleReload={hadleReload} fetchCount={fetchCount} fetchIndex={fetchIndex} />
 
   </div>
 

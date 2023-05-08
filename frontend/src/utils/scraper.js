@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio';
-import fetch from 'node-fetch';
+
 
 export default async function scraper(url) {
   try {
