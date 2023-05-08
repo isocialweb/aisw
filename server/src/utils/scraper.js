@@ -8,6 +8,9 @@ async function scraper(url) {
   const html = await response.text();
   const $ = cheerio.load(html);
   const bodyArticle = $('article').text()
+  function removeTags(text) {
+    return text.replace(/<[^>]*>/g, '').replace(/[\r\n]+/g, ' ').trim();
+  }
 
   const regexDomain = /^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n]+)/;
   const domain = url.match(regexDomain)[1];
@@ -17,7 +20,8 @@ async function scraper(url) {
   const limitWords = bodyArticleWords.slice(0,maxWords)
   const bodySumedUp = limitWords.join(' ')
   const regex = /[\n\t]+|\s{2,}/g
-  const body = bodySumedUp.replace(regex,"")
+  
+  const body = removeTags(bodySumedUp.replace(regex, ""));
   
   const H1 = $('h1').text().replace(regex,"");
   const H2  = [];
@@ -47,9 +51,9 @@ async function scraper(url) {
     H3,
     title,
     description,
-    // body,
-    domain,
-    altTexts
+    body,
+    domain
+    // altTexts
   }
 
 
