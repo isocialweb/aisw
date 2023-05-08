@@ -17,7 +17,8 @@ const id = tokenDecoder()
 useEffect(() => {
   async function getData() {
   const response = await api(`user/${id}`)
-  setData (response)
+   setData (response)
+
 
 }
  getData()

@@ -1,0 +1,15 @@
+
+2023-05-08T12:56:02.264Z - SearchIntent -  Total Fetch: /2: {"keyword":"Mejores zapatillas deportivas", "intention":"Informacional","etapa":"Consideración"}
+{"keyword":"comparativa nike y asics", "intention":"Informacional","etapa":"Consideración"}
+{"keyword":"zapatillas de calistenia", "intention":"Informacional","etapa":"Consideración"}
+{"keyword":"tiendas de deporte cerca de mi", "intention":"Navegacional","etapa":"Descubrimiento"}
+ | Total Tokens: 395
+
+2023-05-08T12:56:11.059Z - SearchIntent -  Total Fetch: /2: {"keyword":"Mejores zapatillas deportivas", "intention":"Informacional","etapa":"Descubrimiento"}
+{"keyword":"comparativa nike y asics", "intention":"Informacional","etapa":"Consideración"}
+{"keyword":"zapatillas de calistenia", "intention":"Informacional","etapa":"Descubrimiento"}
+{"keyword":"tiendas de deporte cerca de mi", "intention":"Navegacional","etapa":"Conversión"}
+ | Total Tokens: 266
+
+2023-05-08T13:08:24.363Z - Clustering KW -  Total Fetch: /1: {"keyword":"Galgo","topic":"Perro"}{"keyword":"podenco","topic":"Perro"}{"keyword":"setter","topic":"Perro"}{"keyword":"labrador","topic":"Perro"}{"keyword":"Sphynx","topic":"Gato"}{"keyword":"siamés","topic":"Gato"}{"keyword":"Yorkshire","topic":"Perro"}
+ | Total Tokens: 173

@@ -55,7 +55,7 @@ export default function MediaCategory() {
   //Esta función convierte las cleanKeywords en paquetes de n que queramos y luego los mapea para separar los prompts en tantos como larga sea la array de grupos de KW  
   async function createSplitPrompts() {
     const groups = splitArrayIntoGroups(cleanDomains, 20);
-    const prompts = groups.map(group => `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Con la clasificación anterior, asigna alguna de estas categorías (esta clave se llamará category) ${categories} a cada tipo. Tu respuesta debe tener el porcentaje de seguridad en que tu respuesta es correcta, por ejemplo elpais.com al 80% seguro que es un medio generalista. Si tu seguridad de respuesta es inferior al 70%, clasifíca como duda el type o category según donde tengas la duda (esta clave ser llamará accuracy). Si tu seguridad es 83% dilo, no redondees a 80% u 85%. El formato de tu respuesta SIEMPRE y UNICAMENTE debe ser un objeto por web como estos: {"web": "valor", "type":"valor", "category":"valor", "accuracy":"valor" }{"web": "valor", "type":"valor", "category":"valor", "accuracy":"valor(siempre con %)" } sin saltos de linea, sin [], sin comas entre }{ NO ME DEVUELVAS NADA QUE NO SEA ESTE FORMATO `);
+    const prompts = groups.map(group => `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Con la clasificación anterior, asigna alguna de estas categorías (esta clave se llamará category) ${categories} a cada tipo. Tu respuesta debe tener el porcentaje de seguridad en que tu respuesta es correcta, por ejemplo elpais.com al 80% seguro que es un medio generalista. Si tu seguridad de respuesta es inferior al 70%, clasifíca como duda el type o category según donde tengas la duda (esta clave ser llamará accuracy). Si tu seguridad es 83% dilo, no redondees a 80% u 85%. Devuelve la respuesta ESTRICTAMENTE en el formato solicitado: {"web": "valor", "type":"valor", "category":"valor", "accuracy":"valor" }{"web": "valor", "type":"valor", "category":"valor", "accuracy":"valor(siempre con %)" } sin saltos de linea, sin [], sin comas entre }{ NO ME DEVUELVAS NADA QUE NO SEA ESTE FORMATO `);
     setFetchIndex(prompts.length)
     return prompts;
   }
@@ -72,9 +72,10 @@ export default function MediaCategory() {
 
     //Por cada índice del prompt realizaremos un fetch
     const prompt = prompts[index];
+    const functionName= 'Media_Category'
     
     try {
-      const res = await api("chat", "POST", { prompt });
+      const res = await api("chat", "POST", { prompt,fetchIndex:prompts.length,functionName });
       const newData = accumulatedData.concat(res.response);
       setResponse(newData);
       setFetchCount(fetchCount + 1);
