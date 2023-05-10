@@ -16,22 +16,25 @@ const createPrompt = async (req,res) =>{
         } = body
 
         const user = await User.findById(userId)
-
+        console.log(user)
         const data = {
             prompt,
             user:user._id,
             userName:user.name
+            
         }    
 
-
+        
         const newPrompt = new PromptModel(data)
         await newPrompt.save()
         res.status(200).json(newPrompt)
-
+       
 
     }catch(err){
         return res.status(500).send({ status: "ERROR TRYCATCH CREATE", message: err });
     }
+
+    
 }
 
 

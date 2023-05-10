@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const api = async (url, method, body = null, headers = {}) => {
+export const api = async (url, method="get", body = null, headers = {}) => {
   const URL_BACKEND = window.location.hostname === 'aiswtool.netlify.app' ? ('https://aisw.up.railway.app/') : ('http://localhost:3001/');
   
 
