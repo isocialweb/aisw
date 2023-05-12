@@ -43,7 +43,7 @@ useEffect(() => {
     <ul className="menu menu-horizontal px-1 font-medium text-white bg-transparent">
       <li><Link href="/tools">Tools</Link></li>
       <li><Link href="/suggestions">Suggestions</Link></li>
-      <li><a>Prompts</a></li>
+      <li><Link href="/prompts">Prompts</Link></li>
       <li></li>
       
     </ul>

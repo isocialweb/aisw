@@ -11,7 +11,9 @@ const createPrompt = async (req,res) =>{
         const body = req.body
         const {
             prompt,
-            userId
+            userId,
+            department,
+            promptTitle
 
         } = body
 
@@ -20,7 +22,10 @@ const createPrompt = async (req,res) =>{
         const data = {
             prompt,
             user:user._id,
-            userName:user.name
+            userName:user.name,
+            userEmail:user.email,
+            department,
+            promptTitle
             
         }    
 

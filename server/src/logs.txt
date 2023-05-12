@@ -42,3 +42,28 @@
    <h3 class="text-sm">Alternar entre dos pares de zapatillas</h3>
    <h3 class="text-sm">Reemplazar tus zapatillas según el desgaste y uso</h3>
  | Total Tokens: 1106
+
+2023-05-11T13:36:01.142Z - undefined -  Total Fetch: /undefined: [{"title":"Las mejores zapatillas para yoga y pilates"},{"title":"Zapatillas de calidad para practicar yoga y pilates"},{"title":"Encuentra las mejores zapatillas para tus clases de yoga"},{"title":"Zapatillas de pilates-yoga para una mayor comodidad"},{"title":"Mejores opciones en zapatillas para practicar yoga y pilates"}]
+ | Total Tokens: 454
+
+2023-05-11T13:36:22.855Z - undefined -  Total Fetch: /undefined: [{"metadescription": "Encuentra las mejores zapatillas para tus clases de yoga. ¡Entra y descubre YA nuestros mejores modelos!"}, {"metadescription": "Zapatillas especializadas para yoga y pilates. Descubre nuestras opciones antideslizantes y cómodas para mujer y hombre"}, {"metadescription": "Incrementa la seguridad de tus pisadas en Pilates y Yoga con nuestros zapatos especializados. Descúbrelos ya"}, {"metadescription": "Mejores zapatillas de yoga para entrenar en suelo o esterilla sin riesgo. Descubre nuestros modelos antideslizantes y cómodos"}, {"metadescription": "Zapatillas antideslizantes y cómodas para tus clases de yoga. Encuentra nuestros modelos variedad de tenis, botas y calzado especializado"}]
+ | Total Tokens: 510
+
+2023-05-11T13:37:58.900Z - undefined -  Total Fetch: /undefined: <h1 class="my-5 text-2xl">Encuentra las mejores zapatillas para tus clases de yoga</h1>
+<h2 class="mt-5 text-lg">Beneficios de utilizar zapatillas especializadas en yoga y pilates</h2>
+   <h3 class="text-sm">Mayor seguridad y estabilidad al realizar posturas</h3>
+   <h3 class="text-sm">Prevenir deslizamientos y lesiones</h3>
+   <h3 class="text-sm">Protección y comodidad para tus pies</h3>
+<h2 class="mt-5 text-lg">Factores a considerar al elegir tus zapatillas de yoga</h2>
+   <h3 class="text-sm">Material y diseño antideslizante</h3>
+   <h3 class="text-sm">Soporte y ajuste adecuado al pie</h3>
+   <h3 class="text-sm">Transpirabilidad y facilidad de limpieza</h3>
+<h2 class="mt-5 text-lg">Comparativa de las mejores zapatillas de yoga disponibles</h2>
+   <h3 class="text-sm">Zapatilla de yoga A: características y ventajas</h3>
+   <h3 class="text-sm">Zapatilla de yoga B: características y ventajas</h3>
+   <h3 class="text-sm">Zapatilla de yoga C: características y ventajas</h3>
+<h2 class="mt-5 text-lg">Consejos para el cuidado y mantenimiento de tus zapatillas de yoga</h2>
+  <h3 class="text-sm">Limpieza y lavado adecuado</h3>
+  <h3 class="text-sm">Almacenamiento y transporte correcto</h3>
+  <h3 class="text-sm">Reemplazo y renovación del calzado</h3>
+ | Total Tokens: 1321
