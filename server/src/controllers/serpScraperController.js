@@ -37,7 +37,7 @@ console.log(error);
 
 }
 
-const scraper_news = async (query, results) => {
+const scraper_news_domain = async (query, results) => {
   console.log(colors.bgGreen("Inicio Petición News"));
   const params = {
     api_key: api_key,
@@ -69,6 +69,46 @@ const scraper_news = async (query, results) => {
   }
 };
 
+
+
+const scraper_news = async (query, results) => {
+  console.log(colors.bgGreen("Inicio Petición News"));
+  const params = {
+    api_key: api_key,
+    search_type: "news",
+    q: query,
+    google_domain: "google.es",
+    gl: "es",
+    hl: "es",
+    num: results,
+  };
+
+  try {
+    const responsePromise = axios.get("https://api.valueserp.com/search", {
+      params,
+    });
+    const timeoutPromise = new Promise((_, reject) =>
+      setTimeout(() => reject("Timeout error"), 58000)
+    );
+    const response = await Promise.race([responsePromise, timeoutPromise]);
+
+    const news_results = response.data.news_results;
+    const regex = /^(https?:\/\/(?:www\.)?[^/]+)/;
+    const map_news = news_results.map((result) => result.link.match(regex)[0])
+    
+
+    console.log(colors.yellow(map_news));
+    console.log(colors.bgGreen("Fin Petición News"));
+    return map_news;
+  } catch (error) {
+    console.log(error);
+    return [];
+  }
+};
+
+
+
+
 async function newsScraper(req, res) {
     const { query } = req.body;
   
@@ -89,6 +129,34 @@ async function newsScraper(req, res) {
 
 
 
+  
+
+  const scraper_organic_domains = async (query, results = 80) => {
+    console.log(colors.bgGreen("Inicio Petición Organic Urls"))
+      const params = {
+          api_key: api_key,
+          q: query,
+          location: "Spain",
+          gl: "es",
+          hl: "es",
+          num: results,
+          output: "json"
+      }
+  
+      try {
+          const response = await axios.get('https://api.valueserp.com/search', { params });
+          const organic_results = response.data.organic_results;
+
+          
+           const map_results = organic_results.map((result) => result.domain)
+
+     
+          return map_results;
+      } catch (error) {
+          console.log(error);
+      }
+  };
+
  
   
   const scraper_organic_urls = async (query, results = 80) => {
@@ -106,7 +174,11 @@ async function newsScraper(req, res) {
       try {
           const response = await axios.get('https://api.valueserp.com/search', { params });
           const organic_results = response.data.organic_results;
-          const map_results = organic_results.map(result => result.domain);
+
+          const regex = /^(https?:\/\/(?:www\.)?[^/]+)/;
+           const map_results = organic_results.map((result) => result.link.match(regex)[0])
+
+     
           return map_results;
       } catch (error) {
           console.log(error);
