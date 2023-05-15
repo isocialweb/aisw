@@ -80,7 +80,17 @@
         "tag": "seo",
         "icon": "BsReverseListColumnsReverse",
         "available": true
+      },
+
+      {
+        "title": "Bulk Title, Meta & h1",
+        "description": "Dado un listado de KW Crea titles, descripciones y H1",
+        "link": "/tools/bulk-title-meta",
+        "tag": "seo",
+        "icon": "BsTable",
+        "available": true
       }
+    
     
     
     ]
