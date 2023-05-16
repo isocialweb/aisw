@@ -23,7 +23,7 @@ export default function BulkTitleMeta() {
 
   //Esta función convierte las cleanKeywords en paquetes de n que queramos y luego los mapea para separar los prompts en tantos como larga sea la array de grupos de KW  
   async function createSplitPrompts() {
-    const groups = splitArrayIntoGroups(cleanKeywords, 10);
+    const groups = splitArrayIntoGroups(cleanKeywords, 15);
     const prompts = groups.map(group => `Eres un especialista SEO. Para el siguiente listado de palabras clave:${group}, devuelve por cada una de las keywords un titulo, una metadescripción y un h1 que sin ser el mismo que el title ataque a la misma intencionalidad de búsqueda y keyword.devuelve la respuesta ESTRICTAMENE en el formato solicitado:  {"keyword":"valor", "title":"valor","metadescription":"valor","H1":"valor",}. El formato de tu respuesta SIEMPRE debe ser un objeto por keyword sin saltos de linea, sin [], sin comas entre }{ ni ninguna información extra como omentarios adicionales`);
     setFetchIndex(prompts.length)
     return prompts;
@@ -84,7 +84,7 @@ export default function BulkTitleMeta() {
 
         <ToolInfo
           title="Bulk Title Meta & H1"
-          description={"Analiza las intenciones de búsqueda y la etapa del funnel de tus palabras clave. Solo necesitas introducir un listado de hasta 100 palabras clave en el área de texto y nuestra herramienta clasificará cada palabra por intención de búsqueda y etapa del funnel. Cuando estés listo, haz clic en el botón Analizar.Después de unos segundos, podrás ver los resultados en una tabla fácil de leer. Recuerda que la herramienta clasifica las palabras clave según tres intenciones de búsqueda (Informacional, Transaccional o Navegacional) y tres etapas del funnel (Descubrimiento, Consideración o Conversión)."}
+          description="La herramienta de IA crea títulos, meta descripciones y encabezados (h1) personalizados para palabras clave. Con solo un listado de KW, genera contenido optimizado para SEO, brindando soluciones rápidas y efectivas para mejorar la visibilidad en buscadores. Ahorra tiempo y obtén resultados convincentes para cada término clave en solo unos clics."
         />
 
         <textarea placeholder="Introduce un listado de keywords. Debe haber una Kw por linea" className="textarea textarea-bordered w-3/5 h-[250px] mb-14 text-white"
