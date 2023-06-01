@@ -59,7 +59,7 @@ async function scraper(url) {
 
 
 
-  console.log(results)
+  
   return(results)
 
 

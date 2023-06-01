@@ -1,0 +1,709 @@
+
+2023-05-30T12:26:51.272Z - Media_Category -  Total Fetch: /4: {"web": "https://www.esquire.com", "type":"informacional"}
+{"web": "https://www.expansion.com", "type":"informacional"}
+{"web": "https://www.cosmopolitan.com", "type":"informacional"}
+{"web": "https://www.elle.com", "type":"informacional"}
+{"web": "https://www.terra.com.mx", "type":"informacional"}
+{"web": "https://www.mujerhoy.com", "type":"informacional"}
+{"web": "https://www.clara.es", "type":"informacional"}
+{"web": "https://www.listisima.com", "type":"informacional"}
+{"web": "https://woman.elperiodico.com", "type":"informacional"}
+{"web": "https://www.vogue.mx", "type":"informacional"}
+{"web": "https://www.neo2.com", "type":"informacional"}
+{"web": "https://www.revistagq.com", "type":"informacional"}
+{"web": "https://www.metroworldnews.com", "type":"informacional"}
+{"web": "https://thehappening.com", "type":"informacional"}
+{"web": "https://www.telva.com", "type":"informacional"}
+{"web": "https://www.vogue.es", "type":"informacional"}
+{"web": "https://www.show.com.es", "type":"informacional"}
+{"web": "https://www.abc.es", "type":"informacional"}
+{"web": "https://graziamagazine.com", "type":"informacional"}
+{"web": "https://www.druni.es", "type":"transaccional"}
+{"web": "https://blog.primor.eu", "type":"informacional"}
+{"web": "https://www.harpersbazaar.com", "type":"informacional"}
+{"web": "https://tendenzias.com", "type":"informacional"}
+{"web": "https://elpais.com", "type":"informacional"}
+{"web": "https://enriqueortegaburgos.com", "type":"informacional"}
+{"web": "https://cnnespanol.cnn.com", "type":"informacional"}
+{"web": "https://www.elmundo.es", "type":"informacional"}
+{"web": "https://www.elconfidencial.com", "type":"informacional"}
+{"web": "https://www.forbes.com.mx", "type":"informacional"}
+{"web": "https://www.esenzzia.com", "type":"transaccional"}
+{"web": "https://www.perfumesclub.com", "type":"transaccional"}
+{"web": "https://decoracionesdomesticas.com", "type":"transaccional"}
+{"web": "https://divainparfums.mx", "type":"transaccional"}
+{"web": "https://www.somosfalabella.com", "type":"transaccional"}
+{"web": "https://www.ohbsparfums.com", "type":"transaccional"}
+{"web": "https://superhonesta.com", "type":"transaccional"}
+{"web": "https://perfumesjyt.es", "type":"transaccional"}
+{"web": "https://www.elespectador.com", "type":"informacional"}
+{"web": "https://www.heraldobinario.com.mx", "type":"informacional"}
+{"web": "http://www.brasty.es", "type":"transaccional"}
+{"web": "https://blog.belletica.com", "type":"informacional"}
+{"web": "https://blog.pacoperfumerias.com", "type":"informacional"}
+{"web": "https://www.glamour.es", "type":"informacional"}
+{"web": "https://2trendies.com", "type":"informacional"}
+{"web": "https://www.amazon.es", "type":"transaccional"}
+{"web": "https://rosaledabeauty.es", "type":"transaccional"}
+{"web": "https://www.smartlistz.es", "type":"transaccional"}
+{"web": "https://muycosmopolitas.com", "type":"informacional"}
+{"web": "https://brushermagazine.com", "type":"informacional"}
+{"web": "https://www.hola.com", "type":"informacional"}
+{"web": "https://perfumative.es", "type":"transaccional"}
+{"web": "https://danaperfumerias.com", "type":"transaccional"}
+{"web": "https://www.notino.es", "type":"transaccional"}
+{"web": "http://perfumeriasrougeblog.com", "type":"informacional"}
+{"web": "https://fueradelsistema.co", "type":"informacional"}
+{"web": "https://www.elnuevoherald.com", "type":"informacional"}
+{"web": "https://modayjoyas.com", "type":"informacional"}
+{"web": "https://es.loccitane.com", "type":"transaccional"}
+{"web": "https://www.instyle.es", "type":"informacional"}
+{"web": "https://www.marie-claire.es", "type":"informacional"}
+{"web": "https://www.elespanol.com", "type":"informacional"}
+{"web": "https://www.glamstar.news", "type":"informacional"}
+{"web": "https://www.periodistadigital.com", "type":"informacional"}
+{"web": "https://espanadiario.tips", "type":"informacional"}
+{"web": "https://blog.perfumeriasunidas.com", "type":"informacional"}
+{"web": "https://www.parquearauco.cl", "type":"transaccional"}
+{"web": "https://www.trendencias.com", "type":"informacional"}
+{"web": "https://heraldodemexico.com.mx", "type":"informacional"}
+{"web": "https://shinemag.do", "type":"informacional"}
+{"web": "https://www.arenal.com", "type":"transaccional"}
+{"web": "https://blog.lacentraldelperfume.com", "type":"informacional"}
+{"web": "https://newsfragancias.com", "type":"informacional"}
+{"web": "https://arome.mx", "type":"transaccional"}
+{"web": "https://blog.tiendamia.com", "type":"informacional"}
+{"web": "https://www.bellaroma.mx", "type":"transaccional"}
+ | Total Tokens: 2162
+
+2023-05-30T12:28:58.508Z - Media_Category -  Total Fetch: /4: {"web": "https://www.mundodeportivo.com", "type": "informacional"}
+{"web": "https://www.soycarmin.com", "type": "informacional"}
+{"web": "https://tusmejoresperfumes.com", "type": "transaccional"}
+{"web": "https://buenavibra.es", "type": "informacional"}
+{"web": "https://www.revistavanityfair.es", "type": "informacional"}
+{"web": "https://www.arosas.es", "type": "transaccional"}
+{"web": "https://www.princesadreams.com", "type": "transaccional"}
+{"web": "https://beautytrendblog.com", "type": "informacional"}
+{"web": "https://www.samparfums.es", "type": "transaccional"}
+{"web": "https://www.infobae.com", "type": "informacional"}
+{"web": "https://emporiodutyfree.com", "type": "transaccional"}
+{"web": "https://yauras.cl", "type": "transaccional"}
+{"web": "https://losperfumesdeclarayalex.com", "type": "transaccional"}
+{"web": "https://www.harpersbazaar.mx", "type": "informacional"}
+{"web": "https://el-mejor.com", "type": "transaccional"}
+{"web": "https://www.thebest5.es", "type": "informacional"}
+{"web": "https://thetopperfumes.com", "type": "transaccional"}
+{"web": "https://www.pinterest.es", "type": "informacional"}
+{"web": "https://stylelovely.com", "type": "informacional"}
+{"web": "https://www.joyeriaparejo.com", "type": "transaccional"}
+{"web": "https://pl-pl.facebook.com", "type": "informacional"}
+{"web": "https://www.elcorteingles.es", "type": "transaccional"}
+{"web": "https://www.epe.es", "type": "informacional"}
+{"web": "https://estilogenuino.com", "type": "transaccional"}
+{"web": "https://www.libertaddigital.com", "type": "informacional"}
+{"web": "https://www.estarguapas.com", "type": "informacional"}
+{"web": "https://www.tiktok.com", "type": "informacional"}
+{"web": "https://www.gastrolabweb.es", "type": "informacional"}
+{"web": "https://www.20minutos.es", "type": "informacional"}
+{"web": "https://www.objetivobienestar.com", "type": "informacional"}
+{"web": "https://www.perfumarte.com", "type": "transaccional"}
+{"web": "https://blogcosmeticaperfumes.com", "type": "informacional"}
+{"web": "https://belcorp.esika.com", "type": "transaccional"}
+{"web": "https://www.debate.com.mx", "type": "informacional"}
+{"web": "https://www.fragrantica.es", "type": "informacional"}
+{"web": "https://mejores.com", "type": "transaccional"}
+{"web": "https://panabel.com", "type": "transaccional"}
+{"web": "https://www.perfumeriassanremo.es", "type": "transaccional"}
+{"web": "https://www.somosmamas.com.ar", "type": "informacional"}
+{"web": "https://www.univision.com", "type": "informacional"}
+{"web": "https://www.diariodesevilla.es", "type": "informacional"}
+{"web": "https://www.laboticadelosperfumes.com", "type": "transaccional"}
+{"web": "https://www.youtube.com", "type": "informacional"}
+{"web": "https://www.lecturas.com", "type": "informacional"}
+{"web": "https://www.murcia.com", "type": "informacional"}
+{"web": "https://www.eltiempo.com", "type": "informacional"}
+{"web": "https://www.jolumara.com", "type": "transaccional"}
+{"web": "https://www.bloomberglinea.com", "type": "informacional"}
+{"web": "https://www.stanpa.com", "type": "informacional"}
+{"web": "https://murcianoticias.es", "type": "informacional"}
+{"web": "https://cadenaser.com", "type": "informacional"}
+{"web": "https://comprarenchile.cl", "type": "transaccional"}
+{"web": "https://gironanoticies.com", "type": "informacional"}
+{"web": "https://www.mugler.es", "type": "transaccional"}
+{"web": "https://www.facebook.com", "type": "informacional"}
+{"web": "https://www.menshealth.com", "type": "informacional"}
+{"web": "https://www.heraldousa.com", "type": "informacional"}
+{"web": "http://www.diariosigloxxi.com", "type": "informacional"}
+{"web": "https://risbelmagazine.es", "type": "informacional"}
+{"web": "https://www.cantabriaeconomica.com", "type": "informacional"}
+{"web": "https://www.que.es", "type": "informacional"}
+{"web": "https://www.elcorreogallego.es", "type": "informacional"}
+{"web": "https://es.scribd.com", "type": "informacional"}
+{"web": "https://as.com", "type": "informacional"}
+{"web": "https://www.elplural.com", "type": "informacional"}
+{"web": "https://www.semana.com", "type": "informacional"}
+{"web": "https://publimetro.com.ar", "type": "informacional"}
+{"web": "https://majadahondamagazin.es", "type": "informacional"}
+{"web": "https://www.sptc.edu.bd", "type": "informacional"}
+{"web": "https://femenino.net", "type": "informacional"}
+{"web": "https://theluxonomist.es", "type": "informacional"}
+{"web": "https://www.pacoperfumerias.com", "type": "transaccional"}
+{"web": "https://www.marca.com", "type": "informacional"}
+{"web": "https://www.reasonwhy.es", "type": "informacional"}
+{"web": "https://similarparfum.com", "type": "transaccional"}
+ | Total Tokens: 2275
+
+2023-05-30T12:33:04.194Z - Media_Category -  Total Fetch: /3: {"web": "https://www.esquire.com", "type":"informacional"}
+{"web": "https://www.expansion.com", "type":"informacional"}
+{"web": "https://www.cosmopolitan.com", "type":"informacional"}
+{"web": "https://www.elle.com", "type":"informacional"}
+{"web": "https://www.terra.com.mx", "type":"informacional"}
+{"web": "https://www.mujerhoy.com", "type":"informacional"}
+{"web": "https://www.clara.es", "type":"informacional"}
+{"web": "https://www.listisima.com", "type":"informacional"}
+{"web": "https://woman.elperiodico.com", "type":"informacional"}
+{"web": "https://www.vogue.mx", "type":"informacional"}
+{"web": "https://www.neo2.com", "type":"informacional"}
+{"web": "https://www.revistagq.com", "type":"informacional"}
+{"web": "https://www.metroworldnews.com", "type":"informacional"}
+{"web": "https://thehappening.com", "type":"informacional"}
+{"web": "https://www.telva.com", "type":"informacional"}
+{"web": "https://www.vogue.es", "type":"informacional"}
+{"web": "https://www.show.com.es", "type":"informacional"}
+{"web": "https://www.abc.es", "type":"informacional"}
+{"web": "https://graziamagazine.com", "type":"informacional"}
+{"web": "https://www.druni.es", "type":"transaccional"}
+{"web": "https://blog.primor.eu", "type":"informacional"}
+{"web": "https://www.harpersbazaar.com", "type":"informacional"}
+{"web": "https://tendenzias.com", "type":"informacional"}
+{"web": "https://elpais.com", "type":"informacional"}
+{"web": "https://enriqueortegaburgos.com", "type":"informacional"}
+{"web": "https://cnnespanol.cnn.com", "type":"informacional"}
+{"web": "https://www.elmundo.es", "type":"informacional"}
+{"web": "https://www.elconfidencial.com", "type":"informacional"}
+{"web": "https://www.forbes.com.mx", "type":"informacional"}
+{"web": "https://www.esenzzia.com", "type":"transaccional"}
+{"web": "https://www.perfumesclub.com", "type":"transaccional"}
+{"web": "https://decoracionesdomesticas.com", "type":"transaccional"}
+{"web": "https://divainparfums.mx", "type":"transaccional"}
+{"web": "https://www.somosfalabella.com", "type":"transaccional"}
+{"web": "https://www.ohbsparfums.com", "type":"transaccional"}
+{"web": "https://superhonesta.com", "type":"transaccional"}
+{"web": "https://perfumesjyt.es", "type":"transaccional"}
+{"web": "https://www.elespectador.com", "type":"informacional"}
+{"web": "https://www.heraldobinario.com.mx", "type":"informacional"}
+{"web": "http://www.brasty.es", "type":"transaccional"}
+{"web": "https://blog.belletica.com", "type":"informacional"}
+{"web": "https://blog.pacoperfumerias.com", "type":"informacional"}
+{"web": "https://www.glamour.es", "type":"informacional"}
+{"web": "https://2trendies.com", "type":"informacional"}
+{"web": "https://www.amazon.es", "type":"transaccional"}
+{"web": "https://rosaledabeauty.es", "type":"transaccional"}
+{"web": "https://www.smartlistz.es", "type":"transaccional"}
+{"web": "https://muycosmopolitas.com", "type":"informacional"}
+{"web": "https://brushermagazine.com", "type":"informacional"}
+{"web": "https://www.hola.com", "type":"informacional"}
+{"web": "https://perfumative.es", "type":"transaccional"}
+{"web": "https://danaperfumerias.com", "type":"transaccional"}
+{"web": "https://www.notino.es", "type":"transaccional"}
+{"web": "http://perfumeriasrougeblog.com", "type":"informacional"}
+{"web": "https://fueradelsistema.co", "type":"informacional"}
+{"web": "https://www.elnuevoherald.com", "type":"informacional"}
+{"web": "https://modayjoyas.com", "type":"informacional"}
+{"web": "https://es.loccitane.com", "type":"transaccional"}
+{"web": "https://www.instyle.es", "type":"informacional"}
+{"web": "https://www.marie-claire.es", "type":"informacional"}
+{"web": "https://www.elespanol.com", "type":"informacional"}
+{"web": "https://www.glamstar.news", "type":"informacional"}
+{"web": "https://www.periodistadigital.com", "type":"informacional"}
+{"web": "https://espanadiario.tips", "type":"informacional"}
+{"web": "https://blog.perfumeriasunidas.com", "type":"informacional"}
+{"web": "https://www.parquearauco.cl", "type":"transaccional"}
+{"web": "https://www.trendencias.com", "type":"informacional"}
+{"web": "https://heraldodemexico.com.mx", "type":"informacional"}
+{"web": "https://shinemag.do", "type":"informacional"}
+{"web": "https://www.arenal.com", "type":"transaccional"}
+{"web": "https://blog.lacentraldelperfume.com", "type":"informacional"}
+{"web": "https://newsfragancias.com", "type":"informacional"}
+{"web": "https://arome.mx", "type":"transaccional"}
+{"web": "https://blog.tiendamia.com", "type":"informacional"}
+{"web": "https://www.bellaroma.mx", "type":"transaccional"}
+{"web": "https://www.mundodeportivo.com", "type":"informacional"}
+{"web": "https://www.soycarmin.com", "type":"informacional"}
+{"web": "https://tusmejoresperfumes.com", "type":"transaccional"}
+{"web": "https://buenavibra.es", "type":"informacional"}
+{"web": "https://www.revistavanityfair.es", "type":"informacional"}
+{"web": "https://www.arosas.es", "type":"transaccional"}
+{"web": "https://www.princesadreams.com", "type":"transaccional"}
+{"web": "https://beautytrendblog.com", "type":"informacional"}
+{"web": "https://www.samparfums.es", "type":"transaccional"}
+{"web": "https://www.infobae.com", "type":"informacional"}
+{"web": "https://emporiodutyfree.com", "type":"transaccional"}
+{"web": "https://yauras.cl", "type":"transaccional"}
+{"web": "https://losperfumesdeclarayalex.com", "type":"transaccional"}
+{"web": "https://www.harpersbazaar.mx", "type":"informacional"}
+{"web": "https://el-mejor.com", "type":"informacional"}
+{"web": "https://www.thebest5.es", "type":"informacional"}
+{"web": "https://thetopperfumes.com", "type":"transaccional"}
+{"web": "https://www.pinterest.es", "type":"informacional"}
+{"web": "https://stylelovely.com", "type":"informacional"}
+{"web": "https://www.joyeriaparejo.com", "type":"transaccional"}
+{"web": "https://pl-pl.facebook.com", "type":"informacional"}
+{"web": "https://www.elcorteingles.es", "type":"transaccional"}
+{"web": "https://www.epe.es", "type":"informacional"}
+{"web": "https://estilogenuino.com", "type":"informacional"}
+{"web": "https://www.libertaddigital.com", "type":"informacional"}
+{"web": "https://www.estarguapas.com", "type":"informacional"}
+{"web": "https://www.tiktok.com", "type":"informacional"}
+{"web": "https://www.gastrolabweb.es", "type":"informacional"}
+{"web": "https://www.20minutos.es", "type":"informacional"}
+{"web": "https://www.objetivobienestar.com", "type":"informacional"}
+{"web": "https://www.perfumarte.com", "type":"transaccional"}
+{"web": "https://blogcosmeticaperfumes.com", "type":"informacional"}
+{"web": "https://belcorp.esika.com", "type":"transaccional"}
+{"web": "https://www.debate.com.mx", "type":"informacional"}
+{"web": "https://www.fragrantica.es", "type":"informacional"}
+ | Total Tokens: 3140
+
+2023-05-30T12:36:08.120Z - Media_Category -  Total Fetch: /3: {"web": "https://mejores.com", "type": "transaccional"}
+{"web": "https://panabel.com", "type": "transaccional"}
+{"web": "https://www.perfumeriassanremo.es", "type": "transaccional"}
+{"web": "https://www.somosmamas.com.ar", "type": "informacional"}
+{"web": "https://www.univision.com", "type": "informacional"}
+{"web": "https://www.diariodesevilla.es", "type": "informacional"}
+{"web": "https://www.laboticadelosperfumes.com", "type": "transaccional"}
+{"web": "https://www.youtube.com", "type": "informacional"}
+{"web": "https://www.lecturas.com", "type": "informacional"}
+{"web": "https://www.murcia.com", "type": "informacional"}
+{"web": "https://www.eltiempo.com", "type": "informacional"}
+{"web": "https://www.jolumara.com", "type": "transaccional"}
+{"web": "https://www.bloomberglinea.com", "type": "informacional"}
+{"web": "https://www.stanpa.com", "type": "informacional"}
+{"web": "https://murcianoticias.es", "type": "informacional"}
+{"web": "https://cadenaser.com", "type": "informacional"}
+{"web": "https://comprarenchile.cl", "type": "transaccional"}
+{"web": "https://gironanoticies.com", "type": "informacional"}
+{"web": "https://www.mugler.es", "type": "transaccional"}
+{"web": "https://www.facebook.com", "type": "informacional"}
+{"web": "https://www.menshealth.com", "type": "informacional"}
+{"web": "https://www.heraldousa.com", "type": "informacional"}
+{"web": "http://www.diariosigloxxi.com", "type": "informacional"}
+{"web": "https://risbelmagazine.es", "type": "informacional"}
+{"web": "https://www.cantabriaeconomica.com", "type": "informacional"}
+{"web": "https://www.que.es", "type": "informacional"}
+{"web": "https://www.elcorreogallego.es", "type": "informacional"}
+{"web": "https://es.scribd.com", "type": "informacional"}
+{"web": "https://as.com", "type": "informacional"}
+{"web": "https://www.elplural.com", "type": "informacional"}
+{"web": "https://www.semana.com", "type": "informacional"}
+{"web": "https://publimetro.com.ar", "type": "informacional"}
+{"web": "https://majadahondamagazin.es", "type": "informacional"}
+{"web": "https://www.sptc.edu.bd", "type": "informacional"}
+{"web": "https://femenino.net", "type": "informacional"}
+{"web": "https://theluxonomist.es", "type": "informacional"}
+{"web": "https://www.pacoperfumerias.com", "type": "transaccional"}
+{"web": "https://www.marca.com", "type": "informacional"}
+{"web": "https://www.reasonwhy.es", "type": "informacional"}
+{"web": "https://similarparfum.com", "type": "transaccional"}
+{"web": "https://www.brasty.es", "type": "transaccional"}
+{"web": "http://contrapiel.com", "type": "informacional"}
+{"web": "https://elrobleperfumado.com", "type": "transaccional"}
+{"web": "https://www.a24.es", "type": "informacional"}
+{"web": "https://www.glamour.mx", "type": "informacional"}
+{"web": "https://diariofinanciero.com", "type": "informacional"}
+{"web": "https://www.msn.com", "type": "informacional"}
+{"web": "https://www.vanitatis.elconfidencial.com", "type": "informacional"}
+{"web": "https://www.hogarmania.com", "type": "informacional"}
+{"web": "https://www.elnacional.cat", "type": "informacional"}
+{"web": "https://lasuiteperfumeria.com", "type": "transaccional"}
+{"web": "https://www.perfumeriajulia.es", "type": "transaccional"}
+{"web": "https://www.perfumeriaslaguna.com", "type": "transaccional"}
+{"web": "https://divainparfums.es", "type": "transaccional"}
+{"web": "https://www.pinterest.com", "type": "informacional"}
+{"web": "https://blog.mibelleza.uy", "type": "informacional"}
+{"web": "https://www.jeanpaulgaultier.com", "type": "informacional"}
+{"web": "https://md-leparfumsecret.es", "type": "transaccional"}
+{"web": "https://bienbonita.com", "type": "transaccional"}
+{"web": "https://www.nuevamujer.com", "type": "informacional"}
+{"web": "https://www.larazon.es", "type": "informacional"}
+{"web": "https://m.es.aliexpress.com", "type": "transaccional"}
+{"web": "https://trends.lbel.com", "type": "informacional"}
+{"web": "https://altfragrances.com", "type": "transaccional"}
+{"web": "https://www.ebay.es", "type": "transaccional"}
+{"web": "https://www.perfumare.es", "type": "transaccional"}
+{"web": "https://resultadosdeprobarproductos.blogspot.com", "type": "informacional"}
+{"web": "https://www.lancome.es", "type": "transaccional"}
+{"web": "https://www.idealo.es", "type": "transaccional"}
+{"web": "https://www.lavanguardia.com", "type": "informacional"}
+{"web": "https://www.thetrendyman.com", "type": "informacional"}
+{"web": "https://smellme.es", "type": "transaccional"}
+{"web": "https://www.gq.com.mx", "type": "informacional"}
+{"web": "https://www.trendenciashombre.com", "type": "informacional"}
+{"web": "https://www.quien.com", "type": "informacional"}
+{"web": "https://www.magazinehorse.com", "type": "informacional"}
+{"web": "https://belletia.com", "type": "transaccional"}
+{"web": "https://www.plazamayor.es", "type": "transaccional"}
+{"web": "https://www.caravanfragancias.es", "type": "transaccional"}
+{"web": "https://www.perfumesideal.com", "type": "transaccional"}
+{"web": "https://rdlasamericas.cl", "type": "transaccional"}
+{"web": "https://uruguay.lucatmi.com", "type": "transaccional"}
+{"web": "https://www.entrebrochasypaletas.com", "type": "informacional"}
+{"web": "https://www.laguiadelvaron.com", "type": "informacional"}
+{"web": "https://beautyfreeshop.com.mx", "type": "transaccional"}
+{"web": "https://es.oriflame.com", "type": "transaccional"}
+{"web": "https://www.elperiodico.com", "type": "informacional"}
+{"web": "https://www.perfumesoutletmx.com", "type": "transaccional"}
+{"web": "https://bcncoolhunter.com", "type": "informacional"}
+{"web": "https://www.laboratoriosnatuaromatic.com", "type": "transaccional"}
+{"web": "https://www.eldiariodelamoda.com", "type": "informacional"}
+{"web": "https://www.centrovallereal.com", "type": "transaccional"}
+{"web": "https://bellezaactiva.com", "type": "informacional"}
+{"web": "https://verdecora.es", "type": "transaccional"}
+{"web": "https://www.fraganciastextiles.com", "type": "transaccional"}
+{"web": "https://www.thebeautyeffect.com", "type": "informacional"}
+{"web": "https://es-us.deportes.yahoo.com", "type": "informacional"}
+{"web": "https://www.abeautyandhealthylife.com", "type": "informacional"}
+{"web": "https://www.publimetro.pe", "type": "informacional"}
+{"web": "https://www.revistainteriores.es", "type": "informacional"}
+{"web": "https://www.youngliving.com", "type": "transaccional"}
+{"web": "https://vanidad.es", "type": "informacional"}
+{"web": "https://wokii.com", "type": "informacional"}
+{"web": "https://www.ambiseint.com", "type": "transaccional"}
+{"web": "https://perfumescalzafino.com", "type": "transaccional"}
+{"web": "https://www.mujerypunto.com", "type": "transaccional"}
+{"web": "https://www.perfume-man.com", "type": "transaccional"}
+{"web": "https://www.latteandcloset.com", "type": "informacional"}
+{"web": "https://mi-belleza.com", "type": "informacional"}
+{"web": "http://theadonislab.com", "type": "transaccional"}
+ | Total Tokens: 3334
+
+2023-05-30T12:37:18.164Z - Media_Category -  Total Fetch: /3: {"web": "https://es.wikihow.com", "type":"informacional"}
+{"web": "https://www.eurofragance.com", "type":"transaccional"}
+{"web": "https://blog.marvimundo.com", "type":"informacional"}
+{"web": "https://theobjective.com", "type":"informacional"}
+{"web": "https://novoargento.com", "type":"transaccional"}
+{"web": "https://www.perfumeriascoqueteo.com", "type":"transaccional"}
+{"web": "https://douglas.es", "type":"transaccional"}
+{"web": "https://pafory.com", "type":"transaccional"}
+{"web": "https://silviafoz.com", "type":"transaccional"}
+{"web": "https://lbeaute.mx", "type":"transaccional"}
+{"web": "https://aromasfenpal.com", "type":"transaccional"}
+{"web": "https://perfumesprouve.com", "type":"transaccional"}
+{"web": "https://maisonniche.cl", "type":"transaccional"}
+{"web": "https://www.eluniverso.com", "type":"informacional"}
+{"web": "https://blog.equivalenza.com", "type":"informacional"}
+{"web": "https://www.etsy.com", "type":"transaccional"}
+{"web": "https://beautinow.com", "type":"transaccional"}
+{"web": "https://blog.perfumesparis.com", "type":"informacional"}
+{"web": "https://www.mixerpack.es", "type":"transaccional"}
+{"web": "https://maarfragrances.com", "type":"transaccional"}
+{"web": "https://www.semana.es", "type":"informacional"}
+{"web": "https://www.entrenosotras.cl", "type":"informacional"}
+{"web": "https://formacionenperfumeria.com", "type":"transaccional"}
+{"web": "https://parfums.cl", "type":"transaccional"}
+{"web": "http://www.getglam.com.ar", "type":"informacional"}
+{"web": "https://www.diezminutos.es", "type":"informacional"}
+{"web": "https://www.esenciadeperfume.org", "type":"informacional"}
+{"web": "https://www.sephora.es", "type":"transaccional"}
+{"web": "https://www.tvazteca.com", "type":"informacional"}
+{"web": "https://sorianoticias.com", "type":"informacional"}
+{"web": "https://mdperfumes.es", "type":"transaccional"}
+{"web": "https://laverdadnoticias.com", "type":"informacional"}
+{"web": "https://www.misessencias.es", "type":"transaccional"}
+{"web": "https://omcperfumes.es", "type":"transaccional"}
+{"web": "https://pulseras10.com", "type":"transaccional"}
+{"web": "https://www.loval.com.ar", "type":"transaccional"}
+{"web": "https://perfumeriaclass.com", "type":"transaccional"}
+{"web": "http://www.sinabrochar.com", "type":"informacional"}
+{"web": "https://www.enfemenino.com", "type":"informacional"}
+{"web": "https://cosmeticaaccion.blogspot.com", "type":"informacional"}
+{"web": "https://aromasartesanales.es", "type":"transaccional"}
+{"web": "https://www.menzig.style", "type":"transaccional"}
+{"web": "https://www.lanacion.com.ar", "type":"informacional"}
+ | Total Tokens: 1304
+
+2023-05-30T12:56:22.340Z - Media_Category -  Total Fetch: /3: {"web": "esquire.com", "type": "informacional"}
+{"web": "expansion.com", "type": "informacional"}
+{"web": "cosmopolitan.com", "type": "informacional"}
+{"web": "elle.com", "type": "informacional"}
+{"web": "terra.com.mx", "type": "informacional"}
+{"web": "mujerhoy.com", "type": "informacional"}
+{"web": "clara.es", "type": "informacional"}
+{"web": "listisima.com", "type": "informacional"}
+{"web": "woman.elperiodico.com", "type": "informacional"}
+{"web": "vogue.mx", "type": "informacional"}
+{"web": "neo2.com", "type": "informacional"}
+{"web": "revistagq.com", "type": "informacional"}
+{"web": "metroworldnews.com", "type": "informacional"}
+{"web": "thehappening.com", "type": "informacional"}
+{"web": "telva.com", "type": "informacional"}
+{"web": "vogue.es", "type": "informacional"}
+{"web": "show.com.es", "type": "informacional"}
+{"web": "abc.es", "type": "informacional"}
+{"web": "graziamagazine.com", "type": "informacional"}
+{"web": "druni.es", "type": "transaccional"}
+{"web": "blog.primor.eu", "type": "informacional"}
+{"web": "harpersbazaar.com", "type": "informacional"}
+{"web": "tendenzias.com", "type": "informacional"}
+{"web": "elpais.com", "type": "informacional"}
+{"web": "enriqueortegaburgos.com", "type": "informacional"}
+{"web": "cnnespanol.cnn.com", "type": "informacional"}
+{"web": "elmundo.es", "type": "informacional"}
+{"web": "elconfidencial.com", "type": "informacional"}
+{"web": "forbes.com.mx", "type": "informacional"}
+{"web": "esenzzia.com", "type": "transaccional"}
+{"web": "perfumesclub.com", "type": "transaccional"}
+{"web": "decoracionesdomesticas.com", "type": "transaccional"}
+{"web": "divainparfums.mx", "type": "transaccional"}
+{"web": "somosfalabella.com", "type": "transaccional"}
+{"web": "ohbsparfums.com", "type": "transaccional"}
+{"web": "superhonesta.com", "type": "transaccional"}
+{"web": "perfumesjyt.es", "type": "transaccional"}
+{"web": "elespectador.com", "type": "informacional"}
+{"web": "heraldobinario.com.mx", "type": "informacional"}
+{"web": "brasty.es", "type": "transaccional"}
+{"web": "blog.belletica.com", "type": "informacional"}
+{"web": "blog.pacoperfumerias.com", "type": "informacional"}
+{"web": "glamour.es", "type": "informacional"}
+{"web": "2trendies.com", "type": "informacional"}
+{"web": "amazon.es", "type": "transaccional"}
+{"web": "rosaledabeauty.es", "type": "transaccional"}
+{"web": "smartlistz.es", "type": "transaccional"}
+{"web": "muycosmopolitas.com", "type": "informacional"}
+{"web": "brushermagazine.com", "type": "informacional"}
+{"web": "hola.com", "type": "informacional"}
+{"web": "perfumative.es", "type": "transaccional"}
+{"web": "danaperfumerias.com", "type": "transaccional"}
+{"web": "notino.es", "type": "transaccional"}
+{"web": "perfumeriasrougeblog.com", "type": "informacional"}
+{"web": "fueradelsistema.co", "type": "informacional"}
+{"web": "elnuevoherald.com", "type": "informacional"}
+{"web": "modayjoyas.com", "type": "informacional"}
+{"web": "es.loccitane.com", "type": "transaccional"}
+{"web": "instyle.es", "type": "informacional"}
+{"web": "marie-claire.es", "type": "informacional"}
+{"web": "elespanol.com", "type": "informacional"}
+{"web": "glamstar.news", "type": "informacional"}
+{"web": "periodistadigital.com", "type": "informacional"}
+{"web": "espanadiario.tips", "type": "informacional"}
+{"web": "blog.perfumeriasunidas.com", "type": "informacional"}
+{"web": "parquearauco.cl", "type": "transaccional"}
+{"web": "trendencias.com", "type": "informacional"}
+{"web": "heraldodemexico.com.mx", "type": "informacional"}
+{"web": "shinemag.do", "type": "informacional"}
+{"web": "arenal.com", "type": "transaccional"}
+{"web": "blog.lacentraldelperfume.com", "type": "informacional"}
+{"web": "newsfragancias.com", "type": "informacional"}
+{"web": "arome.mx", "type": "transaccional"}
+{"web": "blog.tiendamia.com", "type": "informacional"}
+{"web": "bellaroma.mx", "type": "transaccional"}
+{"web": "mundodeportivo.com", "type": "informacional"}
+{"web": "soycarmin.com", "type": "informacional"}
+{"web": "tusmejoresperfumes.com", "type": "transaccional"}
+{"web": "buenavibra.es", "type": "informacional"}
+{"web": "revistavanityfair.es", "type": "informacional"}
+{"web": "arosas.es", "type": "transaccional"}
+{"web": "princesadreams.com", "type": "transaccional"}
+{"web": "beautytrendblog.com", "type": "informacional"}
+{"web": "samparfums.es", "type": "transaccional"}
+{"web": "infobae.com", "type": "informacional"}
+{"web": "emporiodutyfree.com", "type": "transaccional"}
+{"web": "yauras.cl", "type": "transaccional"}
+{"web": "losperfumesdeclarayalex.com", "type": "transaccional"}
+{"web": "harpersbazaar.mx", "type": "informacional"}
+{"web": "el-mejor.com", "type": "informacional"}
+{"web": "thebest5.es", "type": "informacional"}
+{"web": "thetopperfumes.com", "type": "transaccional"}
+{"web": "pinterest.es", "type": "informacional"}
+{"web": "stylelovely.com", "type": "informacional"}
+{"web": "joyeriaparejo.com", "type": "transaccional"}
+{"web": "pl-pl.facebook.com", "type": "informacional"}
+{"web": "elcorteingles.es", "type": "transaccional"}
+{"web": "epe.es", "type": "informacional"}
+{"web": "estilogenuino.com", "type": "informacional"}
+{"web": "libertaddigital.com", "type": "informacional"}
+{"web": "estarguapas.com", "type": "informacional"}
+{"web": "tiktok.com", "type": "informacional"}
+{"web": "gastrolabweb.es", "type": "informacional"}
+{"web": "20minutos.es", "type": "informacional"}
+{"web": "objetivobienestar.com", "type": "informacional"}
+{"web": "perfumarte.com", "type": "transaccional"}
+{"web": "blogcosmeticaperfumes.com", "type": "informacional"}
+{"web": "belcorp.esika.com", "type": "transaccional"}
+{"web": "debate.com.mx", "type": "informacional"}
+{"web": "fragrantica.es", "type": "informacional"}
+ | Total Tokens: 2620
+
+2023-05-30T12:59:01.234Z - Media_Category -  Total Fetch: /3: {"web": "mejores.com", "type": "transaccional"}
+{"web": "panabel.com", "type": "transaccional"}
+{"web": "perfumeriassanremo.es", "type": "transaccional"}
+{"web": "somosmamas.com.ar", "type": "informacional"}
+{"web": "univision.com", "type": "informacional"}
+{"web": "diariodesevilla.es", "type": "informacional"}
+{"web": "laboticadelosperfumes.com", "type": "transaccional"}
+{"web": "youtube.com", "type": "informacional"}
+{"web": "lecturas.com", "type": "informacional"}
+{"web": "murcia.com", "type": "informacional"}
+{"web": "eltiempo.com", "type": "informacional"}
+{"web": "jolumara.com", "type": "transaccional"}
+{"web": "bloomberglinea.com", "type": "informacional"}
+{"web": "stanpa.com", "type": "informacional"}
+{"web": "murcianoticias.es", "type": "informacional"}
+{"web": "cadenaser.com", "type": "informacional"}
+{"web": "comprarenchile.cl", "type": "transaccional"}
+{"web": "gironanoticies.com", "type": "informacional"}
+{"web": "mugler.es", "type": "transaccional"}
+{"web": "facebook.com", "type": "informacional"}
+{"web": "menshealth.com", "type": "informacional"}
+{"web": "heraldousa.com", "type": "informacional"}
+{"web": "diariosigloxxi.com", "type": "informacional"}
+{"web": "risbelmagazine.es", "type": "informacional"}
+{"web": "cantabriaeconomica.com", "type": "informacional"}
+{"web": "que.es", "type": "informacional"}
+{"web": "elcorreogallego.es", "type": "informacional"}
+{"web": "es.scribd.com", "type": "informacional"}
+{"web": "as.com", "type": "informacional"}
+{"web": "elplural.com", "type": "informacional"}
+{"web": "semana.com", "type": "informacional"}
+{"web": "publimetro.com.ar", "type": "informacional"}
+{"web": "majadahondamagazin.es", "type": "informacional"}
+{"web": "sptc.edu.bd", "type": "informacional"}
+{"web": "femenino.net", "type": "informacional"}
+{"web": "theluxonomist.es", "type": "informacional"}
+{"web": "pacoperfumerias.com", "type": "transaccional"}
+{"web": "marca.com", "type": "informacional"}
+{"web": "reasonwhy.es", "type": "informacional"}
+{"web": "similarparfum.com", "type": "transaccional"}
+{"web": "brasty.es", "type": "transaccional"}
+{"web": "contrapiel.com", "type": "transaccional"}
+{"web": "elrobleperfumado.com", "type": "transaccional"}
+{"web": "a24.es", "type": "informacional"}
+{"web": "glamour.mx", "type": "informacional"}
+{"web": "diariofinanciero.com", "type": "informacional"}
+{"web": "msn.com", "type": "informacional"}
+{"web": "vanitatis.elconfidencial.com", "type": "informacional"}
+{"web": "hogarmania.com", "type": "informacional"}
+{"web": "elnacional.cat", "type": "informacional"}
+{"web": "lasuiteperfumeria.com", "type": "transaccional"}
+{"web": "perfumeriajulia.es", "type": "transaccional"}
+{"web": "perfumeriaslaguna.com", "type": "transaccional"}
+{"web": "divainparfums.es", "type": "transaccional"}
+{"web": "pinterest.com", "type": "informacional"}
+{"web": "blog.mibelleza.uy", "type": "informacional"}
+{"web": "jeanpaulgaultier.com", "type": "informacional"}
+{"web": "md-leparfumsecret.es", "type": "transaccional"}
+{"web": "bienbonita.com", "type": "transaccional"}
+{"web": "nuevamujer.com", "type": "informacional"}
+{"web": "larazon.es", "type": "informacional"}
+{"web": "m.es.aliexpress.com", "type": "transaccional"}
+{"web": "trends.lbel.com", "type": "informacional"}
+{"web": "altfragrances.com", "type": "transaccional"}
+{"web": "ebay.es", "type": "transaccional"}
+{"web": "perfumare.es", "type": "transaccional"}
+{"web": "resultadosdeprobarproductos.blogspot.com", "type": "informacional"}
+{"web": "lancome.es", "type": "transaccional"}
+{"web": "idealo.es", "type": "transaccional"}
+{"web": "lavanguardia.com", "type": "informacional"}
+{"web": "thetrendyman.com", "type": "informacional"}
+{"web": "smellme.es", "type": "transaccional"}
+{"web": "gq.com.mx", "type": "informacional"}
+{"web": "trendenciashombre.com", "type": "informacional"}
+{"web": "quien.com", "type": "informacional"}
+{"web": "magazinehorse.com", "type": "informacional"}
+{"web": "belletia.com", "type": "transaccional"}
+{"web": "plazamayor.es", "type": "transaccional"}
+{"web": "caravanfragancias.es", "type": "transaccional"}
+{"web": "perfumesideal.com", "type": "transaccional"}
+{"web": "rdlasamericas.cl", "type": "informacional"}
+{"web": "uruguay.lucatmi.com", "type": "transaccional"}
+{"web": "entrebrochasypaletas.com", "type": "informacional"}
+{"web": "laguiadelvaron.com", "type": "informacional"}
+{"web": "beautyfreeshop.mx", "type": "transaccional"}
+{"web": "es.oriflame.com", "type": "transaccional"}
+{"web": "elperiodico.com", "type": "informacional"}
+{"web": "perfumesoutletmx.com", "type": "transaccional"}
+{"web": "bcncoolhunter.com", "type": "informacional"}
+{"web": "laboratoriosnatuaromatic.com", "type": "transaccional"}
+{"web": "eldiariodelamoda.com", "type": "informacional"}
+{"web": "centrovallereal.com", "type": "transaccional"}
+{"web": "bellezaactiva.com", "type": "informacional"}
+{"web": "verdecora.es", "type": "transaccional"}
+{"web": "fraganciastextiles.com", "type": "transaccional"}
+{"web": "thebeautyeffect.com", "type": "informacional"}
+{"web": "es-us.deportes.yahoo.com", "type": "informacional"}
+{"web": "abeautyandhealthylife.com", "type": "informacional"}
+{"web": "publimetro.pe", "type": "informacional"}
+{"web": "revistainteriores.es", "type": "informacional"}
+{"web": "youngliving.com", "type": "transaccional"}
+{"web": "vanidad.es", "type": "informacional"}
+{"web": "wokii.com", "type": "informacional"}
+{"web": "ambiseint.com", "type": "transaccional"}
+{"web": "perfumescalzafino.com", "type": "transaccional"}
+{"web": "mujerypunto.com", "type": "informacional"}
+{"web": "perfume-man.com", "type": "transaccional"}
+{"web": "latteandcloset.com", "type": "informacional"}
+{"web": "mi-belleza.com", "type": "informacional"}
+{"web": "theadonislab.com", "type": "transaccional"}
+ | Total Tokens: 2669
+
+2023-05-30T13:00:02.015Z - Media_Category -  Total Fetch: /3: {"web": "es.wikihow.com", "type": "informacional"}
+{"web": "eurofragance.com", "type": "transaccional"}
+{"web": "blog.marvimundo.com", "type": "informacional"}
+{"web": "theobjective.com", "type": "informacional"}
+{"web": "novoargento.com", "type": "transaccional"}
+{"web": "perfumeriascoqueteo.com", "type": "transaccional"}
+{"web": "douglas.es", "type": "transaccional"}
+{"web": "pafory.com", "type": "transaccional"}
+{"web": "silviafoz.com", "type": "informacional"}
+{"web": "lbeaute.mx", "type": "transaccional"}
+{"web": "aromasfenpal.com", "type": "transaccional"}
+{"web": "perfumesprouve.com", "type": "transaccional"}
+{"web": "maisonniche.cl", "type": "transaccional"}
+{"web": "eluniverso.com", "type": "informacional"}
+{"web": "blog.equivalenza.com", "type": "informacional"}
+{"web": "etsy.com", "type": "transaccional"}
+{"web": "beautinow.com", "type": "informacional"}
+{"web": "blog.perfumesparis.com", "type": "informacional"}
+{"web": "mixerpack.es", "type": "transaccional"}
+{"web": "maarfragrances.com", "type": "transaccional"}
+{"web": "semana.es", "type": "informacional"}
+{"web": "entrenosotras.cl", "type": "informacional"}
+{"web": "formacionenperfumeria.com", "type": "transaccional"}
+{"web": "parfums.cl", "type": "transaccional"}
+{"web": "getglam.com.ar", "type": "transaccional"}
+{"web": "diezminutos.es", "type": "informacional"}
+{"web": "esenciadeperfume.org", "type": "informacional"}
+{"web": "sephora.es", "type": "transaccional"}
+{"web": "tvazteca.com", "type": "informacional"}
+{"web": "sorianoticias.com", "type": "informacional"}
+{"web": "mdperfumes.es", "type": "transaccional"}
+{"web": "laverdadnoticias.com", "type": "informacional"}
+{"web": "misessencias.es", "type": "transaccional"}
+{"web": "omcperfumes.es", "type": "transaccional"}
+{"web": "pulseras10.com", "type": "transaccional"}
+{"web": "loval.com.ar", "type": "transaccional"}
+{"web": "perfumeriaclass.com", "type": "transaccional"}
+{"web": "sinabrochar.com", "type": "informacional"}
+{"web": "enfemenino.com", "type": "informacional"}
+{"web": "cosmeticaaccion.blogspot.com", "type": "informacional"}
+{"web": "aromasartesanales.es", "type": "transaccional"}
+{"web": "menzig.style", "type": "transaccional"}
+{"web": "lanacion.com.ar", "type": "informacional"}
+ | Total Tokens: 1117
+
+2023-05-30T14:25:32.880Z - BulkTitleMeta -  Total Fetch: /1: {"keyword":"como mejorar el seo", "title":"10 consejos para mejorar el SEO de tu página web","metadescription":"Aprende cómo mejorar el SEO de tu sitio web con estos 10 sencillos consejos. Mejora tu posicionamiento en buscadores y atrae más tráfico a tu sitio web.","H1":"Mejora el SEO de tu página web con estos 10 consejos"}
+
+{"keyword":"mejorar seo wordpress", "title":"Guía básica para mejorar el SEO de tu sitio web en WordPress","metadescription":"Aprende cómo mejorar el SEO de tu sitio web hecho en WordPress con esta guía básica. Consigue mejores resultados en los buscadores y atrae más visitas a tu web.","H1":"Mejora el SEO de tu sitio web en WordPress con esta guía básica"}
+
+{"keyword":"posicionamiento seo de mi web", "title":"Consejos para mejorar el posicionamiento SEO de tu web","metadescription":"Mejora el posicionamiento SEO de tu sitio web con estos consejos prácticos. Consigue mejores resultados en los buscadores y atrae más tráfico a tu web.","H1":"Mejora el posicionamiento SEO de tu sitio web con estos consejos"}
+
+{"keyword":"como mejorar el posicionamiento en google", "title":"Consejos prácticos para mejorar el posicionamiento de tu sitio web en Google","metadescription":"Mejora el posicionamiento de tu sitio web en Google con estos consejos prácticos. Aprende cómo conseguir mejores resultados en los buscadores y atraer más tráfico a tu web.","H1":"Mejora el posicionamiento de tu sitio web en Google con estos consejos prácticos"}
+
+{"keyword":"como hacer seo en mi página web", "title":"Cómo hacer SEO en tu página web en 5 pasos sencillos","metadescription":"Aprende cómo hacer SEO en tu página web con estos 5 sencillos pasos. Consigue mejores resultados en los buscadores y atrae más tráfico a tu sitio web.","H1":"Aprende cómo hacer SEO en tu página web en 5 pasos"}
+
+{"keyword":"trucos seo web", "title":"Los mejores trucos de SEO para tu sitio web","metadescription":"Aprende los mejores trucos de SEO para mejorar el posicionamiento de tu sitio web en los buscadores. Atrae más tráfico y consigue mejores resultados.","H1":"Mejora el posicionamiento de tu sitio web con estos trucos de SEO"}
+
+{"keyword":"como posicionar tu página web en los buscadores", "title":"Cómo posicionar tu página web en los buscadores en 5 pasos sencillos","metadescription":"Aprende cómo posicionar tu página web en los buscadores con estos 5 sencillos pasos. Consigue mejores resultados y atrae más tráfico a tu sitio web.","H1":"Aprende cómo posicionar tu página web en los buscadores en 5 pasos"}
+
+{"keyword":"como posicionar mi web en google gratis", "title":"Cómo posicionar tu web en Google gratis en 5 pasos sencillos","metadescription":"Aprende cómo posicionar tu sitio web en Google de forma gratuita con estos 5 sencillos pasos. Consigue mejores resultados y atrae más tráfico a tu sitio web.","H1":"Aprende cómo posicionar tu web en Google gratis en 5 pasos"}
+ | Total Tokens: 943
