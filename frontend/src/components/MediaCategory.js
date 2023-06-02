@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import RenderButton from "./toolsComponents/RenderButton";
 import ToolInfo from "./toolsComponents/ToolInfo";
 import DownloadCsvTable from "./toolsComponents/DownloadCsvTable";
-import { splitArrayIntoGroups, parseString } from "@/utils/textUtils";
+import { splitArrayIntoGroups, parseString, parseStringMediaCategory } from "@/utils/textUtils";
 import { api } from "@/utils/api";
 export default function MediaCategory() {
   //Variables principales (keywords, topics, urls, etc..)
@@ -47,6 +47,7 @@ export default function MediaCategory() {
         functionName,
       });
       const newData = accumulatedData.concat(res.response);
+      console.log("New Data",newData)
       setResponse(newData);
       setFetchCount(fetchCount + 1);
       if (index === prompts.length - 1) {
@@ -54,7 +55,7 @@ export default function MediaCategory() {
       }
       processPrompts(index + 1, newData, prompts);
     } catch (error) {
-      console.log("Error:", error);
+      // console.log("Error:", error);
       setButtonState("error");
     }
   }
@@ -65,11 +66,19 @@ export default function MediaCategory() {
   }
   // Cuando FinalPrompts renderice parsearemos la String resultate a objeto de JS
   useEffect(() => {
-    setResponse(parseString(finalPrompts, setButtonState));
+    console.log("preParse",finalPrompts)
+    const regexFormat = /\{\"web\":\s*\".*?\",\s*\"type\":\".*?\"\}/g
+    const cleanedFinalPrompts = finalPrompts.replace(regexFormat,"")
+    setResponse(parseString(cleanedFinalPrompts, setButtonState));
+    // console.log("finalPrompt:", finalPrompts)
   }, [finalPrompts]);
+
+  
   function hadleReload() {
     window.location.reload();
   }
+
+  // if(response.length>0){console.log("response",response)}
   return (
     <div className="mb-24">
       <div className="mb-5">
