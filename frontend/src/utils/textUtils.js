@@ -22,6 +22,7 @@ export function splitArrayIntoGroups(array, groupSize) {
     const c = b.replace(/,$/g, "");
     const d = c.replace(/^/g, "[");
     const final = d.replace(/$/g, "]");
+   
     
     return JSON.parse(final);
     }catch(error){
@@ -32,6 +33,29 @@ export function splitArrayIntoGroups(array, groupSize) {
     
     
   }
+
+
+  export function parseStringMediaCategory(data,setButtonState) {
+    try {
+      const regexFormat = /\{\"web\":\s*\".*?\",\s*\"type\":\".*?\"\}/g
+    
+      
+      // Extraemos todos los matches de la respuesta
+      const matches = data.match(regexFormat);
+      if(matches) {
+        return { success: true, data: JSON.parse("[" + matches.join(",") + "]") };
+      } else {
+        console.log("No se encontraron objetos válidos en la respuesta.");
+        return { success: false, error: "No se encontraron objetos válidos en la respuesta." };
+      }
+    } catch (error) {
+      console.log("Ha fallado parseString");
+      return { success: false, error: "Ha fallado parseString" };
+    }
+    
+    
+  }
+
 
 
   // export function parseString(data) {

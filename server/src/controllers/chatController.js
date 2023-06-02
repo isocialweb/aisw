@@ -35,8 +35,9 @@ async function chat(req, res) {
     });
 
     console.timeEnd("chat");
-    console.log(response.data);
-  } catch(error) {
+    console.log("Data Fetched:", response.data);
+    console.log("Response:", response.data.choices[0].message.content)
+    } catch(error) {
     res.status(500).json({error: error.message});
   }
 }
@@ -68,7 +69,8 @@ async function chat4(req, res) {
     });
 
     console.timeEnd("chat");
-    console.log(response.data);
+    console.log("Data Fetched:", response.data);
+    console.log("Response:", response.data.choices[0].message.content)
   } catch(error) {
     res.status(500).json({error: error.message});
   }
