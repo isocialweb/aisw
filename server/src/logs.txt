@@ -707,3 +707,1590 @@
 
 {"keyword":"como posicionar mi web en google gratis", "title":"Cómo posicionar tu web en Google gratis en 5 pasos sencillos","metadescription":"Aprende cómo posicionar tu sitio web en Google de forma gratuita con estos 5 sencillos pasos. Consigue mejores resultados y atrae más tráfico a tu sitio web.","H1":"Aprende cómo posicionar tu web en Google gratis en 5 pasos"}
  | Total Tokens: 943
+
+2023-06-02T10:32:17.450Z - Media_Category -  Total Fetch: /4: {"web": "diezminutos.es", "type": "informacional"}{"web": "elmundo.es", "type": "informacional"}{"web": "elperiodico.com", "type": "informacional"}{"web": "diariodesevilla.es", "type": "informacional"}{"web": "mejorconsalud.as.com", "type": "informacional"...
+ | Total Tokens: 825
+
+2023-06-02T10:35:51.513Z - Media_Category -  Total Fetch: /4: {"web": "kidslife.it", "type": "informacional"}
+{"web": "lne.es", "type": "informacional"}
+{"web": "impactotic.co", "type": "informacional"}
+{"web": "es.digitaltrends.com", "type": "informacional"}
+{"web": "cronica.com.mx", "type": "informacional"}
+{"web": "elpasein.es", "type": "informacional"}
+{"web": "noticiasbarquisimeto.com", "type": "informacional"}
+{"web": "diarioconvos.com", "type": "informacional"}
+{"web": "pocket-lint.com", "type": "informacional"}
+{"web": "elclarin.cl", "type": "informacional"}
+{"web": "diarimes.com", "type": "informacional"}
+{"web": "elcorreo.com", "type": "informacional"}
+{"web": "elindependiente.com", "type": "informacional"}
+{"web": "interempresas.net", "type": "informacional"}
+{"web": "salaguamotors.com", "type": "transaccional"}
+{"web": "valenciablog.com", "type": "informacional"}
+{"web": "milenio.com", "type": "informacional"}
+{"web": "laverdad.es", "type": "informacional"}
+{"web": "revistaespejo.com", "type": "informacional"}
+{"web": "es-es.facebook.com", "type": "informacional"}
+{"web": "luisgyg.com", "type": "informacional"}
+{"web": "20minutos.es", "type": "informacional"}
+{"web": "es.statista.com", "type": "informacional"}
+{"web": "regalosydetalles.es", "type": "transaccional"}
+{"web": "marketingnews.es", "type": "informacional"}
+{"web": "lego.com", "type": "transaccional"}
+{"web": "perfil.com", "type": "informacional"}
+{"web": "infobae.com", "type": "informacional"}
+{"web": "mag.elcomercio.pe", "type": "informacional"}
+{"web": "expansion.com", "type": "informacional"}
+{"web": "lafm.com.co", "type": "informacional"}
+{"web": "rtve.es", "type": "informacional"}
+{"web": "semana.com", "type": "informacional"}
+{"web": "mejorescomparativas.es", "type": "informacional"}
+{"web": "compradvisor.com", "type": "transaccional"}
+{"web": "blog.bosquedefantasias.com", "type": "informacional"}
+{"web": "juguetescarrion.com", "type": "transaccional"}
+{"web": "amazon.com", "type": "transaccional"}
+{"web": "masola.org", "type": "informacional"}
+{"web": "biobiochile.cl", "type": "informacional"}
+{"web": "tiktok.com", "type": "informacional"}
+{"web": "planesconhijos.com", "type": "informacional"}
+{"web": "listado.mercadolibre.com.co", "type": "transaccional"}
+{"web": "lavozdechile.com", "type": "informacional"}
+{"web": "carrefour.es", "type": "transaccional"}
+{"web": "m.facebook.com", "type": "informacional"}
+{"web": "autonomico.elconfidencialdigital.com", "type": "informacional"}
+{"web": "tothewild.es", "type": "transaccional"}
+{"web": "timbitoys.com", "type": "transaccional"}
+{"web": "saposyprincesas.elmundo.es", "type": "informacional"}
+{"web": "malagahoy.es", "type": "informacional"}
+{"web": "sdpnoticias.com", "type": "informacional"}
+{"web": "cumbreinformativa.com", "type": "informacional"}
+{"web": "legler-online.com", "type": "transaccional"}
+{"web": "digitalsevilla.com", "type": "informacional"}
+{"web": "mamatieneunplan.com", "type": "informacional"}
+{"web": "pinterest.es", "type": "informacional"}
+{"web": "telemundo.com", "type": "informacional"}
+{"web": "bodasoutlet.es", "type": "transaccional"}
+{"web": "decopeques.com", "type": "informacional"}
+{"web": "afede.com", "type": "informacional"}
+{"web": "eregui.com", "type": "informacional"}
+{"web": "linguee.es", "type": "informacional"}
+{"web": "kukidsmodainfantil.es", "type": "transaccional"}
+{"web": "7mejor.top", "type": "informacional"}
+{"web": "mamaluzcajasdeluz.es", "type": "transaccional"}
+{"web": "bloghoptoys.es", "type": "informacional"}
+{"web": "eluniverso.com", "type": "informacional"}
+{"web": "es.ara.cat", "type": "informacional"}
+{"web": "gasteizhoy.com", "type": "informacional"}
+{"web": "chilango.com", "type": "informacional"}
+{"web": "eldiariomontanes.es", "type": "informacional"}
+{"web": "mamacontracorriente.com", "type": "informacional"}
+{"web": "mimamaesnovata.com", "type": "informacional"}
+{"web": "puromarketing.com", "type": "informacional"}
+{"web": "lidl.es", "type": "transaccional"}
+{"web": "chinpum.eu", "type": "transaccional"}
+{"web": "heraldodemexico.com.mx", "type": "informacional"}
+{"web": "divinity.es", "type": "informacional"}
+{"web": "imaginarium.es", "type": "transaccional"}
+{"web": "pompetes.es", "type": "transaccional"}
+{"web": "elfarodemelilla.es", "type": "informacional"}
+{"web": "sleepydays.es", "type": "transaccional"}
+{"web": "diariosur.es", "type": "informacional"}
+{"web": "economiadehoy.es", "type": "informacional"}
+{"web": "as.com", "type": "informacional"}
+{"web": "diariodenavarra.es", "type": "informacional"}
+{"web": "es.wikipedia.org", "type": "informacional"}
+{"web": "tratamientospsicologicos.es", "type": "informacional"}
+{"web": "kidshome.es", "type": "transaccional"}
+{"web": "hospitaldenens.com", "type": "transaccional"}
+{"web": "efesalud.com", "type": "informacional"}
+{"web": "www2.cruzroja.es", "type": "transaccional"}
+{"web": "desydes.com", "type": "informacional"}
+{"web": "saludextremadura.ses.es", "type": "informacional"}
+{"web": "letsfamily.es", "type": "informacional"}
+{"web": "blog.minilandbaby.com", "type": "informacional"}
+{"web": "educacioninicial.mx", "type": "informacional"}
+{"web": "educo.org", "type": "informacional"}
+{"web": "expertoanimal.com", "type": "informacional"}
+{"web": "psicohuma.com", "type": "informacional"}
+{"web": "pittinka.com", "type": "transaccional"}
+{"web": "clubfamilias.com", "type": "informacional"}
+{"web": "granujas.es", "type": "informacional"}
+{"web": "guiaaiju.com", "type": "informacional"}
+{"web": "granadahoy.com", "type": "informacional"}
+{"web": "etapainfantil.com", "type": "informacional"}
+{"web": "escuelababyluna.es", "type": "transaccional"}
+{"web": "pecas.net", "type": "informacional"}
+{"web": "helendoron.es", "type": "transaccional"}
+ | Total Tokens: 2624
+
+2023-06-02T10:40:51.703Z - Media_Category -  Total Fetch: /1: {"web": "diezminutos.es", "type": "informacional"}{"web": "elmundo.es", "type": "informacional"}{"web": "elperiodico.com", "type": "informacional"}{"web": "diariodesevilla.es", "type": "informacional"}{"web": "mejorconsalud.as.com", "type": "informacional"}{"web": "bebesymas.com", "type": "informacional"}{"web": "caranddriver.com", "type": "informacional"}{"web": "lavanguardia.com", "type": "informacional"}{"web": "hacerfamilia.com", "type": "informacional"}{"web": "abc.es", "type": "informacional"}{"web": "cronicaglobal.elespanol.com", "type": "informacional"}{"web": "computerhoy.com", "type": "informacional"}{"web": "serpadres.es", "type": "informacional"}{"web": "mesajuegos.com", "type": "transaccional"}{"web": "moltexbaby.com", "type": "transaccional"}{"web": "trucosdefamilia.com", "type": "informacional"}
+ | Total Tokens: 493
+
+2023-06-02T10:42:50.664Z - Media_Category -  Total Fetch: /1: {"web": "diezminutos.es", "type": "informacional"}
+{"web": "elmundo.es", "type": "informacional"}
+{"web": "elperiodico.com", "type": "informacional"}
+{"web": "diariodesevilla.es", "type": "informacional"}
+{"web": "mejorconsalud.as.com", "type": "informacional"}
+{"web": "bebesymas.com", "type": "informacional"}
+{"web": "caranddriver.com", "type": "informacional"}
+{"web": "lavanguardia.com", "type": "informacional"}
+{"web": "hacerfamilia.com", "type": "informacional"}
+{"web": "abc.es", "type": "informacional"}
+{"web": "cronicaglobal.elespanol.com", "type": "informacional"}
+{"web": "computerhoy.com", "type": "informacional"}
+{"web": "serpadres.es", "type": "informacional"}
+{"web": "mesajuegos.com", "type": "transaccional"}
+{"web": "moltexbaby.com", "type": "transaccional"}
+{"web": "trucosdefamilia.com", "type": "informacional"}
+ | Total Tokens: 493
+
+2023-06-02T10:47:20.407Z - Media_Category -  Total Fetch: /2: {"web": "diezminutos.es", "type": "informacional"}
+{"web": "elmundo.es", "type": "informacional"}
+{"web": "elperiodico.com", "type": "informacional"}
+{"web": "diariodesevilla.es", "type": "informacional"}
+{"web": "mejorconsalud.as.com", "type": "informacional"}
+{"web": "bebesymas.com", "type": "informacional"}
+{"web": "caranddriver.com", "type": "informacional"}
+{"web": "lavanguardia.com", "type": "informacional"}
+{"web": "hacerfamilia.com", "type": "informacional"}
+{"web": "abc.es", "type": "informacional"}
+{"web": "cronicaglobal.elespanol.com", "type": "informacional"}
+{"web": "computerhoy.com", "type": "informacional"}
+{"web": "serpadres.es", "type": "informacional"}
+{"web": "mesajuegos.com", "type": "informacional"}
+{"web": "moltexbaby.com", "type": "informacional"}
+{"web": "trucosdefamilia.com", "type": "informacional"}
+{"web": "eldebate.com", "type": "informacional"}
+{"web": "kinderkraft.es", "type": "transaccional"}
+{"web": "eresmama.com", "type": "informacional"}
+{"web": "ocu.org", "type": "informacional"}
+{"web": "youtube.com", "type": "informacional"}
+{"web": "criarconsentidocomun.com", "type": "informacional"}
+{"web": "guarderiaevergreen.com", "type": "informacional"}
+{"web": "hola.com", "type": "informacional"}
+{"web": "juguear.com", "type": "informacional"}
+{"web": "juguetilandia.com", "type": "transaccional"}
+{"web": "periodismo.com", "type": "informacional"}
+{"web": "juegaycrece.com", "type": "informacional"}
+{"web": "creciendofelices.com", "type": "informacional"}
+{"web": "kidshealth.org", "type": "informacional"}
+{"web": "tuconducta.com", "type": "informacional"}
+{"web": "centropediatria.es", "type": "informacional"}
+{"web": "traveler.es", "type": "informacional"}
+{"web": "guiainfantil.com", "type": "informacional"}
+{"web": "petitoh.com", "type": "transaccional"}
+{"web": "juguetest.com", "type": "transaccional"}
+{"web": "juguetesabracadabra.es", "type": "transaccional"}
+{"web": "artesaniaporelmundo.com", "type": "transaccional"}
+{"web": "linguee.co", "type": "informacional"}
+{"web": "albithinia.com", "type": "transaccional"}
+{"web": "elconfidencial.com", "type": "informacional"}
+{"web": "es.quora.com", "type": "informacional"}
+{"web": "amazon.es", "type": "transaccional"}
+{"web": "tiendasmgi.es", "type": "transaccional"}
+{"web": "reviewbox.es", "type": "informacional"}
+{"web": "nenuco.es", "type": "transaccional"}
+{"web": "unjugueteunailusion.com", "type": "transaccional"}
+{"web": "elespanol.com", "type": "informacional"}
+{"web": "bbmundo.com", "type": "informacional"}
+{"web": "dondeir.com", "type": "transaccional"}
+{"web": "bebes.uno", "type": "informacional"}
+{"web": "bebecenter.es", "type": "transaccional"}
+{"web": "down21.org", "type": "informacional"}
+{"web": "elbebe.com", "type": "informacional"}
+{"web": "embarazoymas.net", "type": "informacional"}
+{"web": "tikodoco.com", "type": "transaccional"}
+{"web": "ideal.es", "type": "informacional"}
+{"web": "elpais.com", "type": "informacional"}
+{"web": "holatelcel.com", "type": "informacional"}
+{"web": "conmishijos.com", "type": "informacional"}
+{"web": "injusa.com", "type": "transaccional"}
+{"web": "alamy.es", "type": "transaccional"}
+{"web": "minikidz.es", "type": "transaccional"}
+{"web": "miprimeraescuela.es", "type": "informacional"}
+{"web": "moraigthestore.com", "type": "transaccional"}
+{"web": "eldiadecordoba.es", "type": "informacional"}
+{"web": "modashopping.com", "type": "transaccional"}
+{"web": "recreoviral.com", "type": "informacional"}
+{"web": "madridlowcost.es", "type": "informacional"}
+{"web": "planetamama.com.ar", "type": "informacional"}
+{"web": "miradesmenudes.com", "type": "informacional"}
+{"web": "madridsecreto.co", "type": "informacional"}
+{"web": "elcorteingles.es", "type": "transaccional"}
+{"web": "ceivalencia.com", "type": "transaccional"}
+{"web": "ataacars.com", "type": "transaccional"}
+{"web": "juguetesonline.com", "type": "transaccional"}
+{"web": "heraldo.es", "type": "informacional"}
+{"web": "eldiariodestefa.es", "type": "informacional"}
+{"web": "cucutoys.es", "type": "transaccional"}
+{"web": "elblogdetubebe.com", "type": "informacional"}
+{"web": "debate.com.mx", "type": "informacional"}
+{"web": "sportcity.com.mx", "type": "transaccional"}
+{"web": "lainformacion.com", "type": "informacional"}
+{"web": "larazon.es", "type": "informacional"}
+{"web": "alavera.es", "type": "transaccional"}
+{"web": "businessinsider.es", "type": "informacional"}
+{"web": "okdiario.com", "type": "informacional"}
+{"web": "harasdadinco.cl", "type": "transaccional"}
+{"web": "jugueteriapoly.es", "type": "transaccional"}
+{"web": "larepublica.co", "type": "informacional"}
+{"web": "mercadoseinvestigacion.com", "type": "transaccional"}
+{"web": "es.metallirari.com", "type": "transaccional"}
+{"web": "shopping.mattel.com", "type": "transaccional"}
+{"web": "diariodecadiz.es", "type": "informacional"}
+{"web": "verne.elpais.com", "type": "informacional"}
+{"web": "sopitas.com", "type": "informacional"}
+{"web": "redhistoria.com", "type": "informacional"}
+{"web": "revistagq.com", "type": "informacional"}
+{"web": "avenidaretail.com", "type": "transaccional"}
+{"web": "revistaempresarial.com", "type": "informacional"}
+{"web": "elmira.es", "type": "informacional"}
+{"web": "iblismagazine.club", "type": "informacional"}
+{"web": "elfinanciero.com.mx", "type": "informacional"}
+{"web": "juguetesmajos.com", "type": "transaccional"}
+{"web": "agenciapi.co", "type": "informacional"}
+{"web": "shopdisney.es", "type": "transaccional"}
+{"web": "es.aliexpress.com", "type": "transaccional"}
+{"web": "compramejor.es", "type": "transaccional"}
+{"web": "trendencias.com", "type": "informacional"}
+{"web": "noticiassalamanca.com", "type": "informacional"}
+ | Total Tokens: 2618
+
+2023-06-02T10:47:29.475Z - Media_Category -  Total Fetch: /2: {"web": "kidslife.it", "type":"informacional"}{"web": "lne.es", "type":"informacional"}{"web": "impactotic.co", "type":"informacional"}{"web": "es.digitaltrends.com", "type":"informacional"}{"web": "cronica.com.mx", "type":"informacional"}{"web": "elpasein.es", ...
+ | Total Tokens: 803
+
+2023-06-02T10:54:05.992Z - Media_Category -  Total Fetch: /2: {"web": "diezminutos.es", "type":"informacional"}
+{"web": "elmundo.es", "type":"informacional"}
+{"web": "elperiodico.com", "type":"informacional"}
+{"web": "diariodesevilla.es", "type":"informacional"}
+{"web": "mejorconsalud.as.com", "type":"informacional"}
+{"web": "bebesymas.com", "type":"informacional"}
+{"web": "caranddriver.com", "type":"informacional"}
+{"web": "lavanguardia.com", "type":"informacional"}
+{"web": "hacerfamilia.com", "type":"informacional"}
+{"web": "abc.es", "type":"informacional"}
+{"web": "cronicaglobal.elespanol.com", "type":"informacional"}
+{"web": "computerhoy.com", "type":"informacional"}
+{"web": "serpadres.es", "type":"informacional"}
+{"web": "mesajuegos.com", "type":"informacional"}
+{"web": "moltexbaby.com", "type":"informacional"}
+{"web": "trucosdefamilia.com", "type":"informacional"}
+{"web": "eldebate.com", "type":"informacional"}
+{"web": "kinderkraft.es", "type":"transaccional"}
+{"web": "eresmama.com", "type":"informacional"}
+{"web": "ocu.org", "type":"informacional"}
+{"web": "youtube.com", "type":"informacional"}
+{"web": "criarconsentidocomun.com", "type":"informacional"}
+{"web": "guarderiaevergreen.com", "type":"informacional"}
+{"web": "hola.com", "type":"informacional"}
+{"web": "juguear.com", "type":"transaccional"}
+{"web": "juguetilandia.com", "type":"transaccional"}
+{"web": "periodismo.com", "type":"informacional"}
+{"web": "juegaycrece.com", "type":"informacional"}
+{"web": "creciendofelices.com", "type":"informacional"}
+{"web": "kidshealth.org", "type":"informacional"}
+{"web": "tuconducta.com", "type":"transaccional"}
+{"web": "centropediatria.es", "type":"transaccional"}
+{"web": "traveler.es", "type":"informacional"}
+{"web": "guiainfantil.com", "type":"informacional"}
+{"web": "petitoh.com", "type":"transaccional"}
+{"web": "juguetest.com", "type":"transaccional"}
+{"web": "juguetesabracadabra.es", "type":"transaccional"}
+{"web": "artesaniaporelmundo.com", "type":"informacional"}
+{"web": "linguee.co", "type":"informacional"}
+{"web": "albithinia.com", "type":"transaccional"}
+{"web": "elconfidencial.com", "type":"informacional"}
+{"web": "es.quora.com", "type":"informacional"}
+{"web": "amazon.es", "type":"transaccional"}
+{"web": "tiendasmgi.es", "type":"transaccional"}
+{"web": "reviewbox.es", "type":"informacional"}
+{"web": "nenuco.es", "type":"transaccional"}
+{"web": "unjugueteunailusion.com", "type":"transaccional"}
+{"web": "elespanol.com", "type":"informacional"}
+{"web": "bbmundo.com", "type":"informacional"}
+{"web": "dondeir.com", "type":"informacional"}
+{"web": "bebes.uno", "type":"transaccional"}
+{"web": "bebecenter.es", "type":"transaccional"}
+{"web": "down21.org", "type":"informacional"}
+{"web": "elbebe.com", "type":"informacional"}
+{"web": "embarazoymas.net", "type":"informacional"}
+{"web": "tikodoco.com", "type":"transaccional"}
+{"web": "ideal.es", "type":"informacional"}
+{"web": "elpais.com", "type":"informacional"}
+{"web": "holatelcel.com", "type":"informacional"}
+{"web": "conmishijos.com", "type":"informacional"}
+{"web": "injusa.com", "type":"transaccional"}
+{"web": "alamy.es", "type":"informacional"}
+{"web": "minikidz.es", "type":"transaccional"}
+{"web": "miprimeraescuela.es", "type":"informacional"}
+{"web": "moraigthestore.com", "type":"transaccional"}
+{"web": "eldiadecordoba.es", "type":"informacional"}
+{"web": "modashopping.com", "type":"transaccional"}
+{"web": "recreoviral.com", "type":"informacional"}
+{"web": "madridlowcost.es", "type":"informacional"}
+{"web": "planetamama.com.ar", "type":"informacional"}
+{"web": "miradesmenudes.com", "type":"informacional"}
+{"web": "madridsecreto.co", "type":"informacional"}
+{"web": "elcorteingles.es", "type":"transaccional"}
+{"web": "ceivalencia.com", "type":"transaccional"}
+{"web": "ataacars.com", "type":"transaccional"}
+{"web": "juguetesonline.com", "type":"transaccional"}
+{"web": "heraldo.es", "type":"informacional"}
+{"web": "eldiariodestefa.es", "type":"informacional"}
+{"web": "cucutoys.es", "type":"transaccional"}
+{"web": "elblogdetubebe.com", "type":"informacional"}
+{"web": "debate.com.mx", "type":"informacional"}
+{"web": "sportcity.com.mx", "type":"transaccional"}
+{"web": "lainformacion.com", "type":"informacional"}
+{"web": "larazon.es", "type":"informacional"}
+{"web": "alavera.es", "type":"informacional"}
+{"web": "businessinsider.es", "type":"informacional"}
+{"web": "okdiario.com", "type":"informacional"}
+{"web": "harasdadinco.cl", "type":"informacional"}
+{"web": "jugueteriapoly.es", "type":"transaccional"}
+{"web": "larepublica.co", "type":"informacional"}
+{"web": "mercadoseinvestigacion.com", "type":"informacional"}
+{"web": "es.metallirari.com", "type":"informacional"}
+{"web": "shopping.mattel.com", "type":"transaccional"}
+{"web": "diariodecadiz.es", "type":"informacional"}
+{"web": "verne.elpais.com", "type":"informacional"}
+{"web": "sopitas.com", "type":"informacional"}
+{"web": "redhistoria.com", "type":"informacional"}
+{"web": "revistagq.com", "type":"informacional"}
+{"web": "avenidaretail.com", "type":"transaccional"}
+{"web": "revistaempresarial.com", "type":"informacional"}
+{"web": "elmira.es", "type":"informacional"}
+{"web": "iblismagazine.club", "type":"informacional"}
+{"web": "elfinanciero.com.mx", "type":"informacional"}
+{"web": "juguetesmajos.com", "type":"transaccional"}
+{"web": "agenciapi.co", "type":"informacional"}
+{"web": "shopdisney.es", "type":"transaccional"}
+{"web": "es.aliexpress.com", "type":"transaccional"}
+{"web": "compramejor.es", "type":"transaccional"}
+{"web": "trendencias.com", "type":"informacional"}
+{"web": "noticiassalamanca.com", "type":"informacional"}
+ | Total Tokens: 2505
+
+2023-06-02T10:57:28.170Z - Media_Category -  Total Fetch: /2: {"web": "kidslife.it", "type":"transaccional"}
+{"web": "lne.es", "type":"informacional"}
+{"web": "impactotic.co", "type":"informacional"}
+{"web": "es.digitaltrends.com", "type":"informacional"}
+{"web": "cronica.com.mx", "type":"informacional"}
+{"web": "elpasein.es", "type":"informacional"}
+{"web": "noticiasbarquisimeto.com", "type":"informacional"}
+{"web": "diarioconvos.com", "type":"informacional"}
+{"web": "pocket-lint.com", "type":"informacional"}
+{"web": "elclarin.cl", "type":"informacional"}
+{"web": "diarimes.com", "type":"informacional"}
+{"web": "elcorreo.com", "type":"informacional"}
+{"web": "elindependiente.com", "type":"informacional"}
+{"web": "interempresas.net", "type":"informacional"}
+{"web": "salaguamotors.com", "type":"transaccional"}
+{"web": "valenciablog.com", "type":"informacional"}
+{"web": "milenio.com", "type":"informacional"}
+{"web": "laverdad.es", "type":"informacional"}
+{"web": "revistaespejo.com", "type":"informacional"}
+{"web": "es-es.facebook.com", "type":"informacional"}
+{"web": "luisgyg.com", "type":"informacional"}
+{"web": "20minutos.es", "type":"informacional"}
+{"web": "es.statista.com", "type":"informacional"}
+{"web": "regalosydetalles.es", "type":"transaccional"}
+{"web": "marketingnews.es", "type":"informacional"}
+{"web": "lego.com", "type":"transaccional"}
+{"web": "perfil.com", "type":"informacional"}
+{"web": "infobae.com", "type":"informacional"}
+{"web": "mag.elcomercio.pe", "type":"informacional"}
+{"web": "expansion.com", "type":"informacional"}
+{"web": "lafm.com.co", "type":"informacional"}
+{"web": "rtve.es", "type":"informacional"}
+{"web": "semana.com", "type":"informacional"}
+{"web": "mejorescomparativas.es", "type":"transaccional"}
+{"web": "compradvisor.com", "type":"transaccional"}
+{"web": "blog.bosquedefantasias.com", "type":"informacional"}
+{"web": "juguetescarrion.com", "type":"transaccional"}
+{"web": "amazon.com", "type":"transaccional"}
+{"web": "masola.org", "type":"informacional"}
+{"web": "biobiochile.cl", "type":"informacional"}
+{"web": "tiktok.com", "type":"informacional"}
+{"web": "planesconhijos.com", "type":"informacional"}
+{"web": "listado.mercadolibre.com.co", "type":"transaccional"}
+{"web": "lavozdechile.com", "type":"informacional"}
+{"web": "carrefour.es", "type":"transaccional"}
+{"web": "m.facebook.com", "type":"informacional"}
+{"web": "autonomico.elconfidencialdigital.com", "type":"informacional"}
+{"web": "tothewild.es", "type":"transaccional"}
+{"web": "timbitoys.com", "type":"transaccional"}
+{"web": "saposyprincesas.elmundo.es", "type":"informacional"}
+{"web": "malagahoy.es", "type":"informacional"}
+{"web": "sdpnoticias.com", "type":"informacional"}
+{"web": "cumbreinformativa.com", "type":"informacional"}
+{"web": "legler-online.com", "type":"transaccional"}
+{"web": "digitalsevilla.com", "type":"informacional"}
+{"web": "mamatieneunplan.com", "type":"informacional"}
+{"web": "pinterest.es", "type":"informacional"}
+{"web": "telemundo.com", "type":"informacional"}
+{"web": "bodasoutlet.es", "type":"transaccional"}
+{"web": "decopeques.com", "type":"informacional"}
+{"web": "afede.com", "type":"informacional"}
+{"web": "eregui.com", "type":"informacional"}
+{"web": "linguee.es", "type":"informacional"}
+{"web": "kukidsmodainfantil.es", "type":"transaccional"}
+{"web": "7mejor.top", "type":"informacional"}
+{"web": "mamaluzcajasdeluz.es", "type":"transaccional"}
+{"web": "bloghoptoys.es", "type":"informacional"}
+{"web": "eluniverso.com", "type":"informacional"}
+{"web": "es.ara.cat", "type":"informacional"}
+{"web": "gasteizhoy.com", "type":"informacional"}
+{"web": "chilango.com", "type":"informacional"}
+{"web": "eldiariomontanes.es", "type":"informacional"}
+{"web": "mamacontracorriente.com", "type":"informacional"}
+{"web": "mimamaesnovata.com", "type":"informacional"}
+{"web": "puromarketing.com", "type":"informacional"}
+{"web": "lidl.es", "type":"transaccional"}
+{"web": "chinpum.eu", "type":"transaccional"}
+{"web": "heraldodemexico.com.mx", "type":"informacional"}
+{"web": "divinity.es", "type":"informacional"}
+{"web": "imaginarium.es", "type":"transaccional"}
+{"web": "pompetes.es", "type":"transaccional"}
+{"web": "elfarodemelilla.es", "type":"informacional"}
+{"web": "sleepydays.es", "type":"transaccional"}
+{"web": "diariosur.es", "type":"informacional"}
+{"web": "economiadehoy.es", "type":"informacional"}
+{"web": "as.com", "type":"informacional"}
+{"web": "diariodenavarra.es", "type":"informacional"}
+{"web": "es.wikipedia.org", "type":"informacional"}
+{"web": "tratamientospsicologicos.es", "type":"informacional"}
+{"web": "kidshome.es", "type":"transaccional"}
+{"web": "hospitaldenens.com", "type":"informacional"}
+{"web": "efesalud.com", "type":"informacional"}
+{"web": "www2.cruzroja.es", "type":"informacional"}
+{"web": "desydes.com", "type":"informacional"}
+{"web": "saludextremadura.ses.es", "type":"informacional"}
+{"web": "letsfamily.es", "type":"informacional"}
+{"web": "blog.minilandbaby.com", "type":"informacional"}
+{"web": "educacioninicial.mx", "type":"informacional"}
+{"web": "educo.org", "type":"informacional"}
+{"web": "expertoanimal.com", "type":"informacional"}
+{"web": "psicohuma.com", "type":"informacional"}
+{"web": "pittinka.com", "type":"informacional"}
+{"web": "clubfamilias.com", "type":"informacional"}
+{"web": "granujas.es", "type":"informacional"}
+{"web": "guiaaiju.com", "type":"informacional"}
+{"web": "granadahoy.com", "type":"informacional"}
+ | Total Tokens: 2423
+
+2023-06-02T11:12:03.302Z - Media_Category -  Total Fetch: /4: {"web": "diezminutos.es", "type":"informacional"}
+{"web": "elmundo.es", "type":"informacional"}
+{"web": "elperiodico.com", "type":"informacional"}
+{"web": "diariodesevilla.es", "type":"informacional"}
+{"web": "mejorconsalud.as.com", "type":"informacional"}
+{"web": "bebesymas.com", "type":"informacional"}
+{"web": "caranddriver.com", "type":"informacional"}
+{"web": "lavanguardia.com", "type":"informacional"}
+{"web": "hacerfamilia.com", "type":"informacional"}
+{"web": "abc.es", "type":"informacional"}
+{"web": "cronicaglobal.elespanol.com", "type":"informacional"}
+{"web": "computerhoy.com", "type":"informacional"}
+{"web": "serpadres.es", "type":"informacional"}
+{"web": "mesajuegos.com", "type":"informacional"}
+{"web": "moltexbaby.com", "type":"transaccional"}
+{"web": "trucosdefamilia.com", "type":"informacional"}
+{"web": "eldebate.com", "type":"informacional"}
+{"web": "kinderkraft.es", "type":"transaccional"}
+{"web": "eresmama.com", "type":"informacional"}
+{"web": "ocu.org", "type":"informacional"}
+{"web": "youtube.com", "type":"informacional"}
+{"web": "criarconsentidocomun.com", "type":"informacional"}
+{"web": "guarderiaevergreen.com", "type":"transaccional"}
+{"web": "hola.com", "type":"informacional"}
+{"web": "juguear.com", "type":"informacional"}
+{"web": "juguetilandia.com", "type":"transaccional"}
+{"web": "periodismo.com", "type":"informacional"}
+{"web": "juegaycrece.com", "type":"informacional"}
+{"web": "creciendofelices.com", "type":"informacional"}
+{"web": "kidshealth.org", "type":"informacional"}
+{"web": "tuconducta.com", "type":"informacional"}
+{"web": "centropediatria.es", "type":"informacional"}
+{"web": "traveler.es", "type":"informacional"}
+{"web": "guiainfantil.com", "type":"informacional"}
+{"web": "petitoh.com", "type":"transaccional"}
+{"web": "juguetest.com", "type":"transaccional"}
+{"web": "juguetesabracadabra.es", "type":"transaccional"}
+{"web": "artesaniaporelmundo.com", "type":"transaccional"}
+{"web": "linguee.co", "type":"informacional"}
+{"web": "albithinia.com", "type":"transaccional"}
+{"web": "elconfidencial.com", "type":"informacional"}
+{"web": "es.quora.com", "type":"informacional"}
+{"web": "amazon.es", "type":"transaccional"}
+{"web": "tiendasmgi.es", "type":"transaccional"}
+{"web": "reviewbox.es", "type":"transaccional"}
+{"web": "nenuco.es", "type":"transaccional"}
+{"web": "unjugueteunailusion.com", "type":"transaccional"}
+{"web": "elespanol.com", "type":"informacional"}
+{"web": "bbmundo.com", "type":"informacional"}
+{"web": "dondeir.com", "type":"informacional"}
+{"web": "bebes.uno", "type":"transaccional"}
+{"web": "bebecenter.es", "type":"transaccional"}
+{"web": "down21.org", "type":"informacional"}
+{"web": "elbebe.com", "type":"informacional"}
+{"web": "embarazoymas.net", "type":"informacional"}
+{"web": "tikodoco.com", "type":"informacional"}
+{"web": "ideal.es", "type":"informacional"}
+{"web": "elpais.com", "type":"informacional"}
+{"web": "holatelcel.com", "type":"informacional"}
+{"web": "conmishijos.com", "type":"informacional"}
+{"web": "injusa.com", "type":"transaccional"}
+{"web": "alamy.es", "type":"informacional"}
+{"web": "minikidz.es", "type":"transaccional"}
+{"web": "miprimeraescuela.es", "type":"informacional"}
+{"web": "moraigthestore.com", "type":"transaccional"}
+{"web": "eldiadecordoba.es", "type":"informacional"}
+{"web": "modashopping.com", "type":"transaccional"}
+{"web": "recreoviral.com", "type":"informacional"}
+{"web": "madridlowcost.es", "type":"informacional"}
+{"web": "planetamama.com.ar", "type":"informacional"}
+{"web": "miradesmenudes.com", "type":"informacional"}
+{"web": "madridsecreto.co", "type":"informacional"}
+{"web": "elcorteingles.es", "type":"transaccional"}
+{"web": "ceivalencia.com", "type":"informacional"}
+{"web": "ataacars.com", "type":"transaccional"}
+{"web": "juguetesonline.com", "type":"transaccional"}
+{"web": "heraldo.es", "type":"informacional"}
+{"web": "eldiariodestefa.es", "type":"informacional"}
+{"web": "cucutoys.es", "type":"transaccional"}
+{"web": "elblogdetubebe.com", "type":"informacional"}
+{"web": "debate.com.mx", "type":"informacional"}
+{"web": "sportcity.com.mx", "type":"transaccional"}
+{"web": "lainformacion.com", "type":"informacional"}
+{"web": "larazon.es", "type":"informacional"}
+{"web": "alavera.es", "type":"transaccional"}
+{"web": "businessinsider.es", "type":"informacional"}
+{"web": "okdiario.com", "type":"informacional"}
+{"web": "harasdadinco.cl", "type":"informacional"}
+{"web": "jugueteriapoly.es", "type":"transaccional"}
+{"web": "larepublica.co", "type":"informacional"}
+{"web": "mercadoseinvestigacion.com", "type":"transaccional"}
+{"web": "es.metallirari.com", "type":"informacional"}
+{"web": "shopping.mattel.com", "type":"transaccional"}
+{"web": "diariodecadiz.es", "type":"informacional"}
+{"web": "verne.elpais.com", "type":"informacional"}
+{"web": "sopitas.com", "type":"informacional"}
+{"web": "redhistoria.com", "type":"informacional"}
+{"web": "revistagq.com", "type":"informacional"}
+{"web": "avenidaretail.com", "type":"transaccional"}
+{"web": "revistaempresarial.com", "type":"informacional"}
+{"web": "elmira.es", "type":"informacional"}
+{"web": "iblismagazine.club", "type":"informacional"}
+{"web": "elfinanciero.com.mx", "type":"informacional"}
+{"web": "juguetesmajos.com", "type":"transaccional"}
+{"web": "agenciapi.co", "type":"informacional"}
+{"web": "shopdisney.es", "type":"transaccional"}
+{"web": "es.aliexpress.com", "type":"transaccional"}
+{"web": "compramejor.es", "type":"transaccional"}
+{"web": "trendencias.com", "type":"informacional"}
+{"web": "noticiassalamanca.com", "type":"informacional"}
+ | Total Tokens: 2506
+
+2023-06-02T11:15:36.670Z - Media_Category -  Total Fetch: /4: {"web": "kidslife.it", "type": "informacional"}
+{"web": "lne.es", "type": "informacional"}
+{"web": "impactotic.co", "type": "informacional"}
+{"web": "es.digitaltrends.com", "type": "informacional"}
+{"web": "cronica.com.mx", "type": "informacional"}
+{"web": "elpasein.es", "type": "informacional"}
+{"web": "noticiasbarquisimeto.com", "type": "informacional"}
+{"web": "diarioconvos.com", "type": "informacional"}
+{"web": "pocket-lint.com", "type": "informacional"}
+{"web": "elclarin.cl", "type": "informacional"}
+{"web": "diarimes.com", "type": "informacional"}
+{"web": "elcorreo.com", "type": "informacional"}
+{"web": "elindependiente.com", "type": "informacional"}
+{"web": "interempresas.net", "type": "informacional"}
+{"web": "salaguamotors.com", "type": "transaccional"}
+{"web": "valenciablog.com", "type": "informacional"}
+{"web": "milenio.com", "type": "informacional"}
+{"web": "laverdad.es", "type": "informacional"}
+{"web": "revistaespejo.com", "type": "informacional"}
+{"web": "es-es.facebook.com", "type": "informacional"}
+{"web": "luisgyg.com", "type": "informacional"}
+{"web": "20minutos.es", "type": "informacional"}
+{"web": "es.statista.com", "type": "informacional"}
+{"web": "regalosydetalles.es", "type": "transaccional"}
+{"web": "marketingnews.es", "type": "informacional"}
+{"web": "lego.com", "type": "transaccional"}
+{"web": "perfil.com", "type": "informacional"}
+{"web": "infobae.com", "type": "informacional"}
+{"web": "mag.elcomercio.pe", "type": "informacional"}
+{"web": "expansion.com", "type": "informacional"}
+{"web": "lafm.com.co", "type": "informacional"}
+{"web": "rtve.es", "type": "informacional"}
+{"web": "semana.com", "type": "informacional"}
+{"web": "mejorescomparativas.es", "type": "informacional"}
+{"web": "compradvisor.com", "type": "informacional"}
+{"web": "blog.bosquedefantasias.com", "type": "informacional"}
+{"web": "juguetescarrion.com", "type": "transaccional"}
+{"web": "amazon.com", "type": "transaccional"}
+{"web": "masola.org", "type": "informacional"}
+{"web": "biobiochile.cl", "type": "informacional"}
+{"web": "tiktok.com", "type": "informacional"}
+{"web": "planesconhijos.com", "type": "transaccional"}
+{"web": "listado.mercadolibre.com.co", "type": "transaccional"}
+{"web": "lavozdechile.com", "type": "informacional"}
+{"web": "carrefour.es", "type": "transaccional"}
+{"web": "m.facebook.com", "type": "informacional"}
+{"web": "autonomico.elconfidencialdigital.com", "type": "informacional"}
+{"web": "tothewild.es", "type": "transaccional"}
+{"web": "timbitoys.com", "type": "transaccional"}
+{"web": "saposyprincesas.elmundo.es", "type": "informacional"}
+{"web": "malagahoy.es", "type": "informacional"}
+{"web": "sdpnoticias.com", "type": "informacional"}
+{"web": "cumbreinformativa.com", "type": "informacional"}
+{"web": "legler-online.com", "type": "transaccional"}
+{"web": "digitalsevilla.com", "type": "informacional"}
+{"web": "mamatieneunplan.com", "type": "informacional"}
+{"web": "pinterest.es", "type": "informacional"}
+{"web": "telemundo.com", "type": "informacional"}
+{"web": "bodasoutlet.es", "type": "transaccional"}
+{"web": "decopeques.com", "type": "informacional"}
+{"web": "afede.com", "type": "informacional"}
+{"web": "eregui.com", "type": "informacional"}
+{"web": "linguee.es", "type": "informacional"}
+{"web": "kukidsmodainfantil.es", "type": "transaccional"}
+{"web": "7mejor.top", "type": "informacional"}
+{"web": "mamaluzcajasdeluz.es", "type": "transaccional"}
+{"web": "bloghoptoys.es", "type": "informacional"}
+{"web": "eluniverso.com", "type": "informacional"}
+{"web": "es.ara.cat", "type": "informacional"}
+{"web": "gasteizhoy.com", "type": "informacional"}
+{"web": "chilango.com", "type": "informacional"}
+{"web": "eldiariomontanes.es", "type": "informacional"}
+{"web": "mamacontracorriente.com", "type": "informacional"}
+{"web": "mimamaesnovata.com", "type": "informacional"}
+{"web": "puromarketing.com", "type": "informacional"}
+{"web": "lidl.es", "type": "transaccional"}
+{"web": "chinpum.eu", "type": "transaccional"}
+{"web": "heraldodemexico.com.mx", "type": "informacional"}
+{"web": "divinity.es", "type": "informacional"}
+{"web": "imaginarium.es", "type": "transaccional"}
+{"web": "pompetes.es", "type": "transaccional"}
+{"web": "elfarodemelilla.es", "type": "informacional"}
+{"web": "sleepydays.es", "type": "transaccional"}
+{"web": "diariosur.es", "type": "informacional"}
+{"web": "economiadehoy.es", "type": "informacional"}
+{"web": "as.com", "type": "informacional"}
+{"web": "diariodenavarra.es", "type": "informacional"}
+{"web": "es.wikipedia.org", "type": "informacional"}
+{"web": "tratamientospsicologicos.es", "type": "informacional"}
+{"web": "kidshome.es", "type": "transaccional"}
+{"web": "hospitaldenens.com", "type": "informacional"}
+{"web": "efesalud.com", "type": "informacional"}
+{"web": "www2.cruzroja.es", "type": "informacional"}
+{"web": "desydes.com", "type": "informacional"}
+{"web": "saludextremadura.ses.es", "type": "informacional"}
+{"web": "letsfamily.es", "type": "informacional"}
+{"web": "blog.minilandbaby.com", "type": "informacional"}
+{"web": "educacioninicial.mx", "type": "informacional"}
+{"web": "educo.org", "type": "informacional"}
+{"web": "expertoanimal.com", "type": "informacional"}
+{"web": "psicohuma.com", "type": "informacional"}
+{"web": "pittinka.com", "type": "transaccional"}
+{"web": "clubfamilias.com", "type": "transaccional"}
+{"web": "granujas.es", "type": "transaccional"}
+{"web": "guiaaiju.com", "type": "informacional"}
+{"web": "granadahoy.com", "type": "informacional"}
+{"web": "etapainfantil.com", "type": "informacional"}
+{"web": "escuelababyluna.es", "type": "transaccional"}
+{"web": "pecas.net", "type": "informacional"}
+{"web": "helendoron.es", "type": "transaccional"}
+ | Total Tokens: 2624
+
+2023-06-02T11:19:13.811Z - Media_Category -  Total Fetch: /4: {"web": "recreamos.com", "type": "informacional"}
+{"web": "mamahacemagia.com", "type": "informacional"}
+{"web": "verdecora.es", "type": "transaccional"}
+{"web": "mamapsicologainfantil.com", "type": "informacional"}
+{"web": "escolainfantilmeravelles.com", "type": "informacional"}
+{"web": "nortehispana.com", "type": "transaccional"}
+{"web": "redcanina.es", "type": "informacional"}
+{"web": "madrid.es", "type": "informacional"}
+{"web": "minutusshop.com", "type": "transaccional"}
+{"web": "lacasadelpeque.com", "type": "transaccional"}
+{"web": "elnortedecastilla.es", "type": "informacional"}
+{"web": "feandalucia.ccoo.es", "type": "informacional"}
+{"web": "eltiempo.com", "type": "informacional"}
+{"web": "estudiotecmadrid.es", "type": "informacional"}
+{"web": "farmacia-veterinaria.com.es", "type": "transaccional"}
+{"web": "titoytu.com", "type": "transaccional"}
+{"web": "menudospeques.net", "type": "informacional"}
+{"web": "webconsultas.com", "type": "informacional"}
+{"web": "mediquo.com", "type": "informacional"}
+{"web": "brainsnursery.com", "type": "informacional"}
+{"web": "laprensa.hn", "type": "informacional"}
+{"web": "nuestropsicologoenmadrid.com", "type": "informacional"}
+{"web": "adrada.es", "type": "transaccional"}
+{"web": "preinfant.org", "type": "informacional"}
+{"web": "bbgrenadine.com", "type": "transaccional"}
+{"web": "ludca.com", "type": "informacional"}
+{"web": "edukame.com", "type": "informacional"}
+{"web": "pequebierzo.es", "type": "informacional"}
+{"web": "canijoscuentistas.com", "type": "informacional"}
+{"web": "consumer.es", "type": "informacional"}
+{"web": "queideaspararegalar.com", "type": "informacional"}
+{"web": "curiosite.es", "type": "transaccional"}
+{"web": "giftexperts.com", "type": "transaccional"}
+{"web": "regalador.com", "type": "transaccional"}
+{"web": "aldealibros.com", "type": "transaccional"}
+{"web": "viviendomontessori.com", "type": "informacional"}
+{"web": "cruzroja.es", "type": "informacional"}
+{"web": "loscuentosdemama.com", "type": "informacional"}
+{"web": "superanimaciones.com", "type": "informacional"}
+{"web": "barcelonacolours.com", "type": "informacional"}
+{"web": "cdc.gov", "type": "informacional"}
+{"web": "sitly.es", "type": "transaccional"}
+{"web": "stanfordchildrens.org", "type": "informacional"}
+{"web": "psicologiaparaninos.com", "type": "informacional"}
+{"web": "educaciontrespuntocero.com", "type": "informacional"}
+{"web": "xataka.com", "type": "informacional"}
+{"web": "mensajenunabotella.es", "type": "transaccional"}
+{"web": "padresfrikis.com", "type": "informacional"}
+{"web": "margothm.es", "type": "informacional"}
+{"web": "mheducation.es", "type": "informacional"}
+{"web": "cigna.com", "type": "transaccional"}
+{"web": "blog.cambridge.es", "type": "informacional"}
+{"web": "mayoclinic.org", "type": "informacional"}
+{"web": "robotsparaninos.com", "type": "informacional"}
+{"web": "si.easp.es", "type": "transaccional"}
+{"web": "decathlon.es", "type": "transaccional"}
+{"web": "psicopsi.com", "type": "informacional"}
+{"web": "jugarencasa.com", "type": "informacional"}
+{"web": "dpto.educacion.navarra.es", "type": "informacional"}
+{"web": "deportae.com", "type": "informacional"}
+{"web": "unicef.org", "type": "informacional"}
+{"web": "elle.com", "type": "informacional"}
+{"web": "pozuelodealarcon.org", "type": "informacional"}
+{"web": "cmdsport.com", "type": "informacional"}
+{"web": "consumidor.ftc.gov", "type": "informacional"}
+{"web": "parabebes.com", "type": "informacional"}
+{"web": "siquia.com", "type": "transaccional"}
+{"web": "raicespsicologia.com", "type": "informacional"}
+{"web": "supertics.com", "type": "transaccional"}
+{"web": "mundodeportivo.com", "type": "informacional"}
+{"web": "jugarmola.com", "type": "informacional"}
+{"web": "redalyc.org", "type": "informacional"}
+{"web": "www2.ed.gov", "type": "informacional"}
+{"web": "bbc.com", "type": "informacional"}
+{"web": "novodistribuciones.com", "type": "transaccional"}
+{"web": "childmind.org", "type": "informacional"}
+{"web": "javiertouron.es", "type": "informacional"}
+{"web": "mundopsicologos.com", "type": "informacional"}
+{"web": "cuentosparacrecer.org", "type": "informacional"}
+{"web": "cinfasalud.cinfa.com", "type": "informacional"}
+{"web": "sorprendele.com", "type": "transaccional"}
+{"web": "tintoneti.es", "type": "transaccional"}
+{"web": "pequeocio.com", "type": "informacional"}
+{"web": "disfruti.com", "type": "transaccional"}
+{"web": "jugarijugar.com", "type": "informacional"}
+{"web": "mipapaesgeek.com", "type": "informacional"}
+{"web": "todopapas.com", "type": "informacional"}
+{"web": "aprendiendomatematicas.com", "type": "informacional"}
+{"web": "ccfprosario.com.ar", "type": "informacional"}
+{"web": "bayardeducacion.com", "type": "informacional"}
+{"web": "toysmart.co", "type": "transaccional"}
+{"web": "mamisybebes.com", "type": "informacional"}
+{"web": "mochiadictos.com", "type": "transaccional"}
+{"web": "esmadrid.com", "type": "informacional"}
+{"web": "elsevier.es", "type": "informacional"}
+{"web": "blogdelfotografo.com", "type": "informacional"}
+{"web": "eldiariodelaeducacion.com", "type": "informacional"}
+{"web": "educacion.editorialaces.com", "type": "informacional"}
+{"web": "churchofjesuschrist.org", "type": "informacional"}
+{"web": "mapfretecuidamos.com", "type": "transaccional"}
+{"web": "healthychildren.org", "type": "informacional"}
+{"web": "espaciopsicofamiliar.es", "type": "informacional"}
+{"web": "clubpequeslectores.com", "type": "informacional"}
+{"web": "alvarobilbao.com", "type": "informacional"}
+{"web": "lauratarraga.com", "type": "informacional"}
+{"web": "latercera.com", "type": "informacional"}
+{"web": "mibebeyyo.mx", "type": "informacional"}
+{"web": "lingokids.com", "type": "transaccional"}
+{"web": "blog-es.kinedu.com", "type": "informacional"}
+{"web": "soyaire.com", "type": "transaccional"}
+ | Total Tokens: 2696
+
+2023-06-02T11:19:43.235Z - Media_Category -  Total Fetch: /4: {"web": "dinamics.coop", "type": "transaccional"}
+{"web": "xn--6aos-hqa.com", "type": "transaccional"}
+{"web": "implika.es", "type": "transaccional"}
+{"web": "uvadoc.uva.es", "type": "informacional"}
+{"web": "espacioautismo.com", "type": "informacional"}
+{"web": "bebeamordor.com", "type": "transaccional"}
+{"web": "andaconmigo.com", "type": "transaccional"}
+{"web": "factoriacultural.es", "type": "informacional"}
+{"web": "blog.xcaret.com", "type": "informacional"}
+{"web": "waece.org", "type": "informacional"}
+{"web": "clarin.com", "type": "informacional"}
+{"web": "psicologasgs.com", "type": "informacional"}
+{"web": "libertiapsicologia.com", "type": "informacional"}
+{"web": "psico.mx", "type": "informacional"}
+{"web": "incluyeme.com", "type": "transaccional"}
+ | Total Tokens: 465
+
+2023-06-02T11:26:53.100Z - Media_Category -  Total Fetch: /4: {"web": "diezminutos.es", "type": "informacional"}
+{"web": "elmundo.es", "type": "informacional"}
+{"web": "elperiodico.com", "type": "informacional"}
+{"web": "diariodesevilla.es", "type": "informacional"}
+{"web": "mejorconsalud.as.com", "type": "informacional"}
+{"web": "bebesymas.com", "type": "informacional"}
+{"web": "caranddriver.com", "type": "informacional"}
+{"web": "lavanguardia.com", "type": "informacional"}
+{"web": "hacerfamilia.com", "type": "informacional"}
+{"web": "abc.es", "type": "informacional"}
+{"web": "cronicaglobal.elespanol.com", "type": "informacional"}
+{"web": "computerhoy.com", "type": "informacional"}
+{"web": "serpadres.es", "type": "informacional"}
+{"web": "mesajuegos.com", "type": "informacional"}
+{"web": "moltexbaby.com", "type": "transaccional"}
+{"web": "trucosdefamilia.com", "type": "informacional"}
+{"web": "eldebate.com", "type": "informacional"}
+{"web": "kinderkraft.es", "type": "transaccional"}
+{"web": "eresmama.com", "type": "informacional"}
+{"web": "ocu.org", "type": "informacional"}
+{"web": "youtube.com", "type": "informacional"}
+{"web": "criarconsentidocomun.com", "type": "informacional"}
+{"web": "guarderiaevergreen.com", "type": "transaccional"}
+{"web": "hola.com", "type": "informacional"}
+{"web": "juguear.com", "type": "transaccional"}
+{"web": "juguetilandia.com", "type": "transaccional"}
+{"web": "periodismo.com", "type": "informacional"}
+{"web": "juegaycrece.com", "type": "informacional"}
+{"web": "creciendofelices.com", "type": "informacional"}
+{"web": "kidshealth.org", "type": "informacional"}
+{"web": "tuconducta.com", "type": "informacional"}
+{"web": "centropediatria.es", "type": "informacional"}
+{"web": "traveler.es", "type": "informacional"}
+{"web": "guiainfantil.com", "type": "informacional"}
+{"web": "petitoh.com", "type": "transaccional"}
+{"web": "juguetest.com", "type": "transaccional"}
+{"web": "juguetesabracadabra.es", "type": "transaccional"}
+{"web": "artesaniaporelmundo.com", "type": "transaccional"}
+{"web": "linguee.co", "type": "informacional"}
+{"web": "albithinia.com", "type": "transaccional"}
+{"web": "elconfidencial.com", "type": "informacional"}
+{"web": "es.quora.com", "type": "informacional"}
+{"web": "amazon.es", "type": "transaccional"}
+{"web": "tiendasmgi.es", "type": "transaccional"}
+{"web": "reviewbox.es", "type": "informacional"}
+{"web": "nenuco.es", "type": "transaccional"}
+{"web": "unjugueteunailusion.com", "type": "transaccional"}
+{"web": "elespanol.com", "type": "informacional"}
+{"web": "bbmundo.com", "type": "informacional"}
+{"web": "dondeir.com", "type": "informacional"}
+{"web": "bebes.uno", "type": "informacional"}
+{"web": "bebecenter.es", "type": "transaccional"}
+{"web": "down21.org", "type": "informacional"}
+{"web": "elbebe.com", "type": "informacional"}
+{"web": "embarazoymas.net", "type": "informacional"}
+{"web": "tikodoco.com", "type": "transaccional"}
+{"web": "ideal.es", "type": "informacional"}
+{"web": "elpais.com", "type": "informacional"}
+{"web": "holatelcel.com", "type": "informacional"}
+{"web": "conmishijos.com", "type": "informacional"}
+{"web": "injusa.com", "type": "transaccional"}
+{"web": "alamy.es", "type": "informacional"}
+{"web": "minikidz.es", "type": "transaccional"}
+{"web": "miprimeraescuela.es", "type": "informacional"}
+{"web": "moraigthestore.com", "type": "transaccional"}
+{"web": "eldiadecordoba.es", "type": "informacional"}
+{"web": "modashopping.com", "type": "transaccional"}
+{"web": "recreoviral.com", "type": "informacional"}
+{"web": "madridlowcost.es", "type": "informacional"}
+{"web": "planetamama.com.ar", "type": "informacional"}
+{"web": "miradesmenudes.com", "type": "informacional"}
+{"web": "madridsecreto.co", "type": "informacional"}
+{"web": "elcorteingles.es", "type": "transaccional"}
+{"web": "ceivalencia.com", "type": "informacional"}
+{"web": "ataacars.com", "type": "transaccional"}
+{"web": "juguetesonline.com", "type": "transaccional"}
+{"web": "heraldo.es", "type": "informacional"}
+{"web": "eldiariodestefa.es", "type": "informacional"}
+{"web": "cucutoys.es", "type": "transaccional"}
+{"web": "elblogdetubebe.com", "type": "informacional"}
+{"web": "debate.com.mx", "type": "informacional"}
+{"web": "sportcity.com.mx", "type": "transaccional"}
+{"web": "lainformacion.com", "type": "informacional"}
+{"web": "larazon.es", "type": "informacional"}
+{"web": "alavera.es", "type": "transaccional"}
+{"web": "businessinsider.es", "type": "informacional"}
+{"web": "okdiario.com", "type": "informacional"}
+{"web": "harasdadinco.cl", "type": "informacional"}
+{"web": "jugueteriapoly.es", "type": "transaccional"}
+{"web": "larepublica.co", "type": "informacional"}
+{"web": "mercadoseinvestigacion.com", "type": "informacional"}
+{"web": "es.metallirari.com", "type": "informacional"}
+{"web": "shopping.mattel.com", "type": "transaccional"}
+{"web": "diariodecadiz.es", "type": "informacional"}
+{"web": "verne.elpais.com", "type": "informacional"}
+{"web": "sopitas.com", "type": "informacional"}
+{"web": "redhistoria.com", "type": "informacional"}
+{"web": "revistagq.com", "type": "informacional"}
+{"web": "avenidaretail.com", "type": "transaccional"}
+{"web": "revistaempresarial.com", "type": "informacional"}
+{"web": "elmira.es", "type": "informacional"}
+{"web": "iblismagazine.club", "type": "informacional"}
+{"web": "elfinanciero.com.mx", "type": "informacional"}
+{"web": "juguetesmajos.com", "type": "transaccional"}
+{"web": "agenciapi.co", "type": "informacional"}
+{"web": "shopdisney.es", "type": "transaccional"}
+{"web": "es.aliexpress.com", "type": "transaccional"}
+{"web": "compramejor.es", "type": "transaccional"}
+{"web": "trendencias.com", "type": "informacional"}
+{"web": "noticiassalamanca.com", "type": "informacional"}
+ | Total Tokens: 2615
+
+2023-06-02T11:30:16.341Z - Media_Category -  Total Fetch: /4: {"web": "kidslife.it", "type":"informacional"}
+{"web": "lne.es", "type":"informacional"}
+{"web": "impactotic.co", "type":"informacional"}
+{"web": "es.digitaltrends.com", "type":"informacional"}
+{"web": "cronica.com.mx", "type":"informacional"}
+{"web": "elpasein.es", "type":"informacional"}
+{"web": "noticiasbarquisimeto.com", "type":"informacional"}
+{"web": "diarioconvos.com", "type":"informacional"}
+{"web": "pocket-lint.com", "type":"informacional"}
+{"web": "elclarin.cl", "type":"informacional"}
+{"web": "diarimes.com", "type":"informacional"}
+{"web": "elcorreo.com", "type":"informacional"}
+{"web": "elindependiente.com", "type":"informacional"}
+{"web": "interempresas.net", "type":"informacional"}
+{"web": "salaguamotors.com", "type":"transaccional"}
+{"web": "valenciablog.com", "type":"informacional"}
+{"web": "milenio.com", "type":"informacional"}
+{"web": "laverdad.es", "type":"informacional"}
+{"web": "revistaespejo.com", "type":"informacional"}
+{"web": "es-es.facebook.com", "type":"informacional"}
+{"web": "luisgyg.com", "type":"informacional"}
+{"web": "20minutos.es", "type":"informacional"}
+{"web": "es.statista.com", "type":"informacional"}
+{"web": "regalosydetalles.es", "type":"transaccional"}
+{"web": "marketingnews.es", "type":"informacional"}
+{"web": "lego.com", "type":"transaccional"}
+{"web": "perfil.com", "type":"informacional"}
+{"web": "infobae.com", "type":"informacional"}
+{"web": "mag.elcomercio.pe", "type":"informacional"}
+{"web": "expansion.com", "type":"informacional"}
+{"web": "lafm.com.co", "type":"informacional"}
+{"web": "rtve.es", "type":"informacional"}
+{"web": "semana.com", "type":"informacional"}
+{"web": "mejorescomparativas.es", "type":"informacional"}
+{"web": "compradvisor.com", "type":"transaccional"}
+{"web": "blog.bosquedefantasias.com", "type":"informacional"}
+{"web": "juguetescarrion.com", "type":"transaccional"}
+{"web": "amazon.com", "type":"transaccional"}
+{"web": "masola.org", "type":"informacional"}
+{"web": "biobiochile.cl", "type":"informacional"}
+{"web": "tiktok.com", "type":"informacional"}
+{"web": "planesconhijos.com", "type":"informacional"}
+{"web": "listado.mercadolibre.com.co", "type":"transaccional"}
+{"web": "lavozdechile.com", "type":"informacional"}
+{"web": "carrefour.es", "type":"transaccional"}
+{"web": "m.facebook.com", "type":"informacional"}
+{"web": "autonomico.elconfidencialdigital.com", "type":"informacional"}
+{"web": "tothewild.es", "type":"transaccional"}
+{"web": "timbitoys.com", "type":"transaccional"}
+{"web": "saposyprincesas.elmundo.es", "type":"informacional"}
+{"web": "malagahoy.es", "type":"informacional"}
+{"web": "sdpnoticias.com", "type":"informacional"}
+{"web": "cumbreinformativa.com", "type":"informacional"}
+{"web": "legler-online.com", "type":"transaccional"}
+{"web": "digitalsevilla.com", "type":"informacional"}
+{"web": "mamatieneunplan.com", "type":"informacional"}
+{"web": "pinterest.es", "type":"informacional"}
+{"web": "telemundo.com", "type":"informacional"}
+{"web": "bodasoutlet.es", "type":"transaccional"}
+{"web": "decopeques.com", "type":"informacional"}
+{"web": "afede.com", "type":"informacional"}
+{"web": "eregui.com", "type":"informacional"}
+{"web": "linguee.es", "type":"informacional"}
+{"web": "kukidsmodainfantil.es", "type":"transaccional"}
+{"web": "7mejor.top", "type":"informacional"}
+{"web": "mamaluzcajasdeluz.es", "type":"transaccional"}
+{"web": "bloghoptoys.es", "type":"informacional"}
+{"web": "eluniverso.com", "type":"informacional"}
+{"web": "es.ara.cat", "type":"informacional"}
+{"web": "gasteizhoy.com", "type":"informacional"}
+{"web": "chilango.com", "type":"informacional"}
+{"web": "eldiariomontanes.es", "type":"informacional"}
+{"web": "mamacontracorriente.com", "type":"informacional"}
+{"web": "mimamaesnovata.com", "type":"informacional"}
+{"web": "puromarketing.com", "type":"informacional"}
+{"web": "lidl.es", "type":"transaccional"}
+{"web": "chinpum.eu", "type":"transaccional"}
+{"web": "heraldodemexico.com.mx", "type":"informacional"}
+{"web": "divinity.es", "type":"informacional"}
+{"web": "imaginarium.es", "type":"transaccional"}
+{"web": "pompetes.es", "type":"transaccional"}
+{"web": "elfarodemelilla.es", "type":"informacional"}
+{"web": "sleepydays.es", "type":"transaccional"}
+{"web": "diariosur.es", "type":"informacional"}
+{"web": "economiadehoy.es", "type":"informacional"}
+{"web": "as.com", "type":"informacional"}
+{"web": "diariodenavarra.es", "type":"informacional"}
+{"web": "es.wikipedia.org", "type":"informacional"}
+{"web": "tratamientospsicologicos.es", "type":"informacional"}
+{"web": "kidshome.es", "type":"transaccional"}
+{"web": "hospitaldenens.com", "type":"transaccional"}
+{"web": "efesalud.com", "type":"informacional"}
+{"web": "www2.cruzroja.es", "type":"informacional"}
+{"web": "desydes.com", "type":"informacional"}
+{"web": "saludextremadura.ses.es", "type":"informacional"}
+{"web": "letsfamily.es", "type":"informacional"}
+{"web": "blog.minilandbaby.com", "type":"informacional"}
+{"web": "educacioninicial.mx", "type":"informacional"}
+{"web": "educo.org", "type":"informacional"}
+{"web": "expertoanimal.com", "type":"informacional"}
+{"web": "psicohuma.com", "type":"informacional"}
+{"web": "pittinka.com", "type":"transaccional"}
+{"web": "clubfamilias.com", "type":"informacional"}
+{"web": "granujas.es", "type":"transaccional"}
+{"web": "guiaaiju.com", "type":"informacional"}
+{"web": "granadahoy.com", "type":"informacional"}
+{"web": "etapainfantil.com", "type":"informacional"}
+{"web": "escuelababyluna.es", "type":"transaccional"}
+{"web": "pecas.net", "type":"informacional"}
+{"web": "helendoron.es", "type":"transaccional"}
+ | Total Tokens: 2514
+
+2023-06-02T11:33:55.698Z - Media_Category -  Total Fetch: /4: {"web": "recreamos.com", "type": "informacional"}
+{"web": "mamahacemagia.com", "type": "informacional"}
+{"web": "verdecora.es", "type": "transaccional"}
+{"web": "mamapsicologainfantil.com", "type": "informacional"}
+{"web": "escolainfantilmeravelles.com", "type": "informacional"}
+{"web": "nortehispana.com", "type": "transaccional"}
+{"web": "redcanina.es", "type": "informacional"}
+{"web": "madrid.es", "type": "informacional"}
+{"web": "minutusshop.com", "type": "transaccional"}
+{"web": "lacasadelpeque.com", "type": "transaccional"}
+{"web": "elnortedecastilla.es", "type": "informacional"}
+{"web": "feandalucia.ccoo.es", "type": "informacional"}
+{"web": "eltiempo.com", "type": "informacional"}
+{"web": "estudiotecmadrid.es", "type": "informacional"}
+{"web": "farmacia-veterinaria.com.es", "type": "transaccional"}
+{"web": "titoytu.com", "type": "transaccional"}
+{"web": "menudospeques.net", "type": "informacional"}
+{"web": "webconsultas.com", "type": "informacional"}
+{"web": "mediquo.com", "type": "transaccional"}
+{"web": "brainsnursery.com", "type": "informacional"}
+{"web": "laprensa.hn", "type": "informacional"}
+{"web": "nuestropsicologoenmadrid.com", "type": "informacional"}
+{"web": "adrada.es", "type": "informacional"}
+{"web": "preinfant.org", "type": "informacional"}
+{"web": "bbgrenadine.com", "type": "transaccional"}
+{"web": "ludca.com", "type": "transaccional"}
+{"web": "edukame.com", "type": "informacional"}
+{"web": "pequebierzo.es", "type": "informacional"}
+{"web": "canijoscuentistas.com", "type": "informacional"}
+{"web": "consumer.es", "type": "informacional"}
+{"web": "queideaspararegalar.com", "type": "informacional"}
+{"web": "curiosite.es", "type": "transaccional"}
+{"web": "giftexperts.com", "type": "transaccional"}
+{"web": "regalador.com", "type": "transaccional"}
+{"web": "aldealibros.com", "type": "transaccional"}
+{"web": "viviendomontessori.com", "type": "informacional"}
+{"web": "cruzroja.es", "type": "informacional"}
+{"web": "loscuentosdemama.com", "type": "informacional"}
+{"web": "superanimaciones.com", "type": "transaccional"}
+{"web": "barcelonacolours.com", "type": "informacional"}
+{"web": "cdc.gov", "type": "informacional"}
+{"web": "sitly.es", "type": "transaccional"}
+{"web": "stanfordchildrens.org", "type": "informacional"}
+{"web": "psicologiaparaninos.com", "type": "informacional"}
+{"web": "educaciontrespuntocero.com", "type": "informacional"}
+{"web": "xataka.com", "type": "informacional"}
+{"web": "mensajenunabotella.es", "type": "transaccional"}
+{"web": "padresfrikis.com", "type": "informacional"}
+{"web": "margothm.es", "type": "informacional"}
+{"web": "mheducation.es", "type": "informacional"}
+{"web": "cigna.com", "type": "informacional"}
+{"web": "blog.cambridge.es", "type": "informacional"}
+{"web": "mayoclinic.org", "type": "informacional"}
+{"web": "robotsparaninos.com", "type": "transaccional"}
+{"web": "si.easp.es", "type": "informacional"}
+{"web": "decathlon.es", "type": "transaccional"}
+{"web": "psicopsi.com", "type": "informacional"}
+{"web": "jugarencasa.com", "type": "informacional"}
+{"web": "dpto.educacion.navarra.es", "type": "informacional"}
+{"web": "deportae.com", "type": "informacional"}
+{"web": "unicef.org", "type": "informacional"}
+{"web": "elle.com", "type": "informacional"}
+{"web": "pozuelodealarcon.org", "type": "informacional"}
+{"web": "cmdsport.com", "type": "informacional"}
+{"web": "consumidor.ftc.gov", "type": "informacional"}
+{"web": "parabebes.com", "type": "informacional"}
+{"web": "siquia.com", "type": "transaccional"}
+{"web": "raicespsicologia.com", "type": "informacional"}
+{"web": "supertics.com", "type": "transaccional"}
+{"web": "mundodeportivo.com", "type": "informacional"}
+{"web": "jugarmola.com", "type": "informacional"}
+{"web": "redalyc.org", "type": "informacional"}
+{"web": "www2.ed.gov", "type": "informacional"}
+{"web": "bbc.com", "type": "informacional"}
+{"web": "novodistribuciones.com", "type": "transaccional"}
+{"web": "childmind.org", "type": "informacional"}
+{"web": "javiertouron.es", "type": "informacional"}
+{"web": "mundopsicologos.com", "type": "informacional"}
+{"web": "cuentosparacrecer.org", "type": "informacional"}
+{"web": "cinfasalud.cinfa.com", "type": "informacional"}
+{"web": "sorprendele.com", "type": "transaccional"}
+{"web": "tintoneti.es", "type": "informacional"}
+{"web": "pequeocio.com", "type": "informacional"}
+{"web": "disfruti.com", "type": "transaccional"}
+{"web": "jugarijugar.com", "type": "informacional"}
+{"web": "mipapaesgeek.com", "type": "informacional"}
+{"web": "todopapas.com", "type": "informacional"}
+{"web": "aprendiendomatematicas.com", "type": "informacional"}
+{"web": "ccfprosario.com.ar", "type": "informacional"}
+{"web": "bayardeducacion.com", "type": "informacional"}
+{"web": "toysmart.co", "type": "transaccional"}
+{"web": "mamisybebes.com", "type": "informacional"}
+{"web": "mochiadictos.com", "type": "transaccional"}
+{"web": "esmadrid.com", "type": "informacional"}
+{"web": "elsevier.es", "type": "informacional"}
+{"web": "blogdelfotografo.com", "type": "informacional"}
+{"web": "eldiariodelaeducacion.com", "type": "informacional"}
+{"web": "educacion.editorialaces.com", "type": "informacional"}
+{"web": "churchofjesuschrist.org", "type": "informacional"}
+{"web": "mapfretecuidamos.com", "type": "transaccional"}
+{"web": "healthychildren.org", "type": "informacional"}
+{"web": "espaciopsicofamiliar.es", "type": "informacional"}
+{"web": "clubpequeslectores.com", "type": "informacional"}
+{"web": "alvarobilbao.com", "type": "informacional"}
+{"web": "lauratarraga.com", "type": "informacional"}
+{"web": "latercera.com", "type": "informacional"}
+{"web": "mibebeyyo.mx", "type": "informacional"}
+{"web": "lingokids.com", "type": "transaccional"}
+{"web": "blog-es.kinedu.com", "type": "informacional"}
+{"web": "soyaire.com", "type": "transaccional"}
+ | Total Tokens: 2696
+
+2023-06-02T11:34:25.357Z - Media_Category -  Total Fetch: /4: {"web": "dinamics.coop", "type": "transaccional"}
+{"web": "xn--6aos-hqa.com", "type": "transaccional"}
+{"web": "implika.es", "type": "transaccional"}
+{"web": "uvadoc.uva.es", "type": "informacional"}
+{"web": "espacioautismo.com", "type": "informacional"}
+{"web": "bebeamordor.com", "type": "informacional"}
+{"web": "andaconmigo.com", "type": "transaccional"}
+{"web": "factoriacultural.es", "type": "informacional"}
+{"web": "blog.xcaret.com", "type": "informacional"}
+{"web": "waece.org", "type": "informacional"}
+{"web": "clarin.com", "type": "informacional"}
+{"web": "psicologasgs.com", "type": "informacional"}
+{"web": "libertiapsicologia.com", "type": "informacional"}
+{"web": "psico.mx", "type": "informacional"}
+{"web": "incluyeme.com", "type": "transaccional"}
+ | Total Tokens: 464
+
+2023-06-02T11:45:07.214Z - Media_Category -  Total Fetch: /1: {"web": "diezminutos.es", "type":"informational"}{"web": "elmundo.es", "type":"informational"}{"web": "elperiodico.com", "type":"informational"}{"web": "diariodesevilla.es", "type":"informational"}{"web": "mejorconsalud.as.com", "type":"informational"}{"web": "bebesymas.com", "type":"informational"}{"web": "caranddriver.com", "type":"informational"}{"web": "lavanguardia.com", "type":"informational"}{"web": "hacerfamilia.com", "type":"informational"}
+ | Total Tokens: 324
+
+2023-06-02T11:46:58.450Z - Media_Category -  Total Fetch: /1: {"web":"diezminutos.es","type":"informacional"}{"web":"elmundo.es","type":"informacional"}{"web":"elperiodico.com","type":"informacional"}{"web":"diariodesevilla.es","type":"informacional"}{"web":"mejorconsalud.as.com","type":"informacional"}{"web":"bebesymas.com","type":"informacional"}{"web":"caranddriver.com","type":"informacional"}{"web":"lavanguardia.com","type":"informacional"}{"web":"hacerfamilia.com","type":"informacional"}
+ | Total Tokens: 306
+
+2023-06-02T11:48:05.199Z - Media_Category -  Total Fetch: /1: {"web": "diezminutos.es", "type":"informacional"}{"web": "elmundo.es", "type":"informacional"}{"web": "elperiodico.com", "type":"informacional"}{"web": "diariodesevilla.es", "type":"informacional"}{"web": "mejorconsalud.as.com", "type":"informacional"}{"web": "bebesymas.com", "type":"informacional"}{"web": "caranddriver.com", "type":"informacional"}{"web": "lavanguardia.com", "type":"informacional"}{"web": "hacerfamilia.com", "type":"informacional"}
+ | Total Tokens: 324
+
+2023-06-02T11:56:02.897Z - Media_Category -  Total Fetch: /1: {"web": "diezminutos.es", "type":"informacional"}{"web": "elmundo.es", "type":"informacional"}{"web": "elperiodico.com", "type":"informacional"}{"web": "diariodesevilla.es", "type":"informacional"}{"web": "mejorconsalud.as.com", "type":"informacional"}{"web": "bebesymas.com", "type":"informacional"}{"web": "caranddriver.com", "type":"informacional"}{"web": "lavanguardia.com", "type":"informacional"}{"web": "hacerfamilia.com", "type":"informacional"}
+ | Total Tokens: 324
+
+2023-06-02T12:04:43.860Z - Media_Category -  Total Fetch: /1: {"web": "diezminutos.es", "type": "informacional"}{"web": "elmundo.es", "type": "informacional"}{"web": "elperiodico.com", "type": "informacional"}{"web": "diariodesevilla.es", "type": "informacional"}{"web": "mejorconsalud.as.com", "type": "informacional"}{"web": "bebesymas.com", "type": "informacional"}{"web": "caranddriver.com", "type": "informacional"}
+ | Total Tokens: 288
+
+2023-06-02T12:05:24.884Z - Media_Category -  Total Fetch: /4: {"web": "diezminutos.es", "type": "informacional"}{"web": "elmundo.es", "type": "informacional"}
+ | Total Tokens: 169
+
+2023-06-02T12:05:29.217Z - Media_Category -  Total Fetch: /4: {"web": "elperiodico.com", "type":"informacional"}{"web": "diariodesevilla.es", "type":"informacional"}
+ | Total Tokens: 171
+
+2023-06-02T12:05:35.728Z - Media_Category -  Total Fetch: /4: {"web": "mejorconsalud.as.com", "type":"informacional"}{"web": "bebesymas.com", "type":"informacional"}
+ | Total Tokens: 177
+
+2023-06-02T12:05:38.413Z - Media_Category -  Total Fetch: /4: {"web": "caranddriver.com", "type": "informacional"}
+ | Total Tokens: 148
+
+2023-06-02T12:14:05.410Z - Media_Category -  Total Fetch: /4: {"web": "diezminutos.es", "type": "informacional"}{"web": "elmundo.es", "type": "informacional"}
+ | Total Tokens: 169
+
+2023-06-02T12:14:10.179Z - Media_Category -  Total Fetch: /4: {"web": "elperiodico.com", "type": "informacional"}{"web": "diariodesevilla.es", "type": "informacional"}
+ | Total Tokens: 173
+
+2023-06-02T12:14:15.176Z - Media_Category -  Total Fetch: /4: {"web": "mejorconsalud.as.com", "type": "informacional"}{"web": "bebesymas.com", "type": "informacional"}
+ | Total Tokens: 179
+
+2023-06-02T12:14:17.896Z - Media_Category -  Total Fetch: /4: {"web": "caranddriver.com", "type": "informacional"}
+ | Total Tokens: 148
+
+2023-06-02T12:14:58.875Z - Media_Category -  Total Fetch: /24: {"web": "diezminutos.es", "type": "informacional"}{"web": "elmundo.es", "type": "informacional"}
+ | Total Tokens: 169
+
+2023-06-02T12:15:03.533Z - Media_Category -  Total Fetch: /24: {"web": "elperiodico.com", "type":"informacional"}{"web": "diariodesevilla.es", "type":"informacional"}
+ | Total Tokens: 171
+
+2023-06-02T12:15:09.483Z - Media_Category -  Total Fetch: /24: {"web": "mejorconsalud.as.com", "type": "informacional"}{"web": "bebesymas.com", "type": "informacional"}
+ | Total Tokens: 179
+
+2023-06-02T12:15:14.452Z - Media_Category -  Total Fetch: /24: {"web": "caranddriver.com", "type": "informacional"}{"web": "lavanguardia.com", "type": "informacional"}
+ | Total Tokens: 169
+
+2023-06-02T12:15:18.786Z - Media_Category -  Total Fetch: /24: {"web": "hacerfamilia.com", "type":"informacional"}{"web": "abc.es", "type":"informacional"}
+ | Total Tokens: 167
+
+2023-06-02T12:15:23.820Z - Media_Category -  Total Fetch: /24: {"web": "cronicaglobal.elespanol.com", "type":"informacional"}{"web": "computerhoy.com", "type":"informacional"}
+ | Total Tokens: 177
+
+2023-06-02T12:21:57.738Z - Media_Category -  Total Fetch: /4: {"web": "diezminutos.es", "type": "informacional"}
+{"web": "elmundo.es", "type": "informacional"}
+{"web": "elperiodico.com", "type": "informacional"}
+{"web": "diariodesevilla.es", "type": "informacional"}
+{"web": "mejorconsalud.as.com", "type": "informacional"}
+{"web": "bebesymas.com", "type": "informacional"}
+{"web": "caranddriver.com", "type": "informacional"}
+{"web": "lavanguardia.com", "type": "informacional"}
+{"web": "hacerfamilia.com", "type": "informacional"}
+{"web": "abc.es", "type": "informacional"}
+{"web": "cronicaglobal.elespanol.com", "type": "informacional"}
+{"web": "computerhoy.com", "type": "informacional"}
+{"web": "serpadres.es", "type": "informacional"}
+{"web": "mesajuegos.com", "type": "informacional"}
+{"web": "moltexbaby.com", "type": "transaccional"}
+{"web": "trucosdefamilia.com", "type": "informacional"}
+{"web": "eldebate.com", "type": "informacional"}
+{"web": "kinderkraft.es", "type": "transaccional"}
+{"web": "eresmama.com", "type": "transaccional"}
+{"web": "ocu.org", "type": "informacional"}
+{"web": "youtube.com", "type": "informacional"}
+{"web": "criarconsentidocomun.com", "type": "informacional"}
+{"web": "guarderiaevergreen.com", "type": "transaccional"}
+{"web": "hola.com", "type": "informacional"}
+{"web": "juguear.com", "type": "transaccional"}
+{"web": "juguetilandia.com", "type": "transaccional"}
+{"web": "periodismo.com", "type": "informacional"}
+{"web": "juegaycrece.com", "type": "informacional"}
+{"web": "creciendofelices.com", "type": "informacional"}
+{"web": "kidshealth.org", "type": "informacional"}
+{"web": "tuconducta.com", "type": "informacional"}
+{"web": "centropediatria.es", "type": "informacional"}
+{"web": "traveler.es", "type": "informacional"}
+{"web": "guiainfantil.com", "type": "informacional"}
+{"web": "petitoh.com", "type": "transaccional"}
+{"web": "juguetest.com", "type": "transaccional"}
+{"web": "juguetesabracadabra.es", "type": "transaccional"}
+{"web": "artesaniaporelmundo.com", "type": "transaccional"}
+{"web": "linguee.co", "type": "informacional"}
+{"web": "albithinia.com", "type": "transaccional"}
+{"web": "elconfidencial.com", "type": "informacional"}
+{"web": "es.quora.com", "type": "informacional"}
+{"web": "amazon.es", "type": "transaccional"}
+{"web": "tiendasmgi.es", "type": "transaccional"}
+{"web": "reviewbox.es", "type": "informacional"}
+{"web": "nenuco.es", "type": "transaccional"}
+{"web": "unjugueteunailusion.com", "type": "transaccional"}
+{"web": "elespanol.com", "type": "informacional"}
+{"web": "bbmundo.com", "type": "informacional"}
+{"web": "dondeir.com", "type": "informacional"}
+{"web": "bebes.uno", "type": "informacional"}
+{"web": "bebecenter.es", "type": "transaccional"}
+{"web": "down21.org", "type": "informacional"}
+{"web": "elbebe.com", "type": "informacional"}
+{"web": "embarazoymas.net", "type": "informacional"}
+{"web": "tikodoco.com", "type": "transaccional"}
+{"web": "ideal.es", "type": "informacional"}
+{"web": "elpais.com", "type": "informacional"}
+{"web": "holatelcel.com", "type": "informacional"}
+{"web": "conmishijos.com", "type": "informacional"}
+{"web": "injusa.com", "type": "transaccional"}
+{"web": "alamy.es", "type": "informacional"}
+{"web": "minikidz.es", "type": "transaccional"}
+{"web": "miprimeraescuela.es", "type": "informacional"}
+{"web": "moraigthestore.com", "type": "transaccional"}
+{"web": "eldiadecordoba.es", "type": "informacional"}
+{"web": "modashopping.com", "type": "informacional"}
+{"web": "recreoviral.com", "type": "informacional"}
+{"web": "madridlowcost.es", "type": "informacional"}
+{"web": "planetamama.com.ar", "type": "informacional"}
+{"web": "miradesmenudes.com", "type": "transaccional"}
+{"web": "madridsecreto.co", "type": "informacional"}
+{"web": "elcorteingles.es", "type": "transaccional"}
+{"web": "ceivalencia.com", "type": "informacional"}
+{"web": "ataacars.com", "type": "transaccional"}
+{"web": "juguetesonline.com", "type": "transaccional"}
+{"web": "heraldo.es", "type": "informacional"}
+{"web": "eldiariodestefa.es", "type": "informacional"}
+{"web": "cucutoys.es", "type": "transaccional"}
+{"web": "elblogdetubebe.com", "type": "informacional"}
+{"web": "debate.com.mx", "type": "informacional"}
+{"web": "sportcity.com.mx", "type": "transaccional"}
+{"web": "lainformacion.com", "type": "informacional"}
+{"web": "larazon.es", "type": "informacional"}
+{"web": "alavera.es", "type": "transaccional"}
+{"web": "businessinsider.es", "type": "informacional"}
+{"web": "okdiario.com", "type": "informacional"}
+{"web": "harasdadinco.cl", "type": "transaccional"}
+{"web": "jugueteriapoly.es", "type": "transaccional"}
+{"web": "larepublica.co", "type": "informacional"}
+{"web": "mercadoseinvestigacion.com", "type": "informacional"}
+{"web": "es.metallirari.com", "type": "informacional"}
+{"web": "shopping.mattel.com", "type": "transaccional"}
+{"web": "diariodecadiz.es", "type": "informacional"}
+{"web": "verne.elpais.com", "type": "informacional"}
+{"web": "sopitas.com", "type": "informacional"}
+{"web": "redhistoria.com", "type": "informacional"}
+{"web": "revistagq.com", "type": "informacional"}
+{"web": "avenidaretail.com", "type": "transaccional"}
+{"web": "revistaempresarial.com", "type": "informacional"}
+{"web": "elmira.es", "type": "informacional"}
+{"web": "iblismagazine.club", "type": "informacional"}
+{"web": "elfinanciero.com.mx", "type": "informacional"}
+{"web": "juguetesmajos.com", "type": "transaccional"}
+{"web": "agenciapi.co", "type": "informacional"}
+{"web": "shopdisney.es", "type": "transaccional"}
+{"web": "es.aliexpress.com", "type": "transaccional"}
+{"web": "compramejor.es", "type": "informacional"}
+{"web": "trendencias.com", "type": "informacional"}
+{"web": "noticiassalamanca.com", "type": "informacional"}
+ | Total Tokens: 2616
+
+2023-06-02T12:26:05.864Z - Media_Category -  Total Fetch: /4: {"web": "kidslife.it", "type": "informacional"}
+{"web": "lne.es", "type": "informacional"}
+{"web": "impactotic.co", "type": "informacional"}
+{"web": "es.digitaltrends.com", "type": "informacional"}
+{"web": "cronica.com.mx", "type": "informacional"}
+{"web": "elpasein.es", "type": "informacional"}
+{"web": "noticiasbarquisimeto.com", "type": "informacional"}
+{"web": "diarioconvos.com", "type": "informacional"}
+{"web": "pocket-lint.com", "type": "informacional"}
+{"web": "elclarin.cl", "type": "informacional"}
+{"web": "diarimes.com", "type": "informacional"}
+{"web": "elcorreo.com", "type": "informacional"}
+{"web": "elindependiente.com", "type": "informacional"}
+{"web": "interempresas.net", "type": "informacional"}
+{"web": "salaguamotors.com", "type": "transaccional"}
+{"web": "valenciablog.com", "type": "informacional"}
+{"web": "milenio.com", "type": "informacional"}
+{"web": "laverdad.es", "type": "informacional"}
+{"web": "revistaespejo.com", "type": "informacional"}
+{"web": "es-es.facebook.com", "type": "informacional"}
+{"web": "luisgyg.com", "type": "informacional"}
+{"web": "20minutos.es", "type": "informacional"}
+{"web": "es.statista.com", "type": "informacional"}
+{"web": "regalosydetalles.es", "type": "transaccional"}
+{"web": "marketingnews.es", "type": "informacional"}
+{"web": "lego.com", "type": "transaccional"}
+{"web": "perfil.com", "type": "informacional"}
+{"web": "infobae.com", "type": "informacional"}
+{"web": "mag.elcomercio.pe", "type": "informacional"}
+{"web": "expansion.com", "type": "informacional"}
+{"web": "lafm.com.co", "type": "informacional"}
+{"web": "rtve.es", "type": "informacional"}
+{"web": "semana.com", "type": "informacional"}
+{"web": "mejorescomparativas.es", "type": "informacional"}
+{"web": "compradvisor.com", "type": "transaccional"}
+{"web": "blog.bosquedefantasias.com", "type": "informacional"}
+{"web": "juguetescarrion.com", "type": "transaccional"}
+{"web": "amazon.com", "type": "transaccional"}
+{"web": "masola.org", "type": "informacional"}
+{"web": "biobiochile.cl", "type": "informacional"}
+{"web": "tiktok.com", "type": "informacional"}
+{"web": "planesconhijos.com", "type": "informacional"}
+{"web": "listado.mercadolibre.com.co", "type": "transaccional"}
+{"web": "lavozdechile.com", "type": "informacional"}
+{"web": "carrefour.es", "type": "transaccional"}
+{"web": "m.facebook.com", "type": "informacional"}
+{"web": "autonomico.elconfidencialdigital.com", "type": "informacional"}
+{"web": "tothewild.es", "type": "informacional"}
+{"web": "timbitoys.com", "type": "transaccional"}
+{"web": "saposyprincesas.elmundo.es", "type": "informacional"}
+{"web": "malagahoy.es", "type": "informacional"}
+{"web": "sdpnoticias.com", "type": "informacional"}
+{"web": "cumbreinformativa.com", "type": "informacional"}
+{"web": "legler-online.com", "type": "transaccional"}
+{"web": "digitalsevilla.com", "type": "informacional"}
+{"web": "mamatieneunplan.com", "type": "informacional"}
+{"web": "pinterest.es", "type": "informacional"}
+{"web": "telemundo.com", "type": "informacional"}
+{"web": "bodasoutlet.es", "type": "transaccional"}
+{"web": "decopeques.com", "type": "informacional"}
+{"web": "afede.com", "type": "transaccional"}
+{"web": "eregui.com", "type": "informacional"}
+{"web": "linguee.es", "type": "informacional"}
+{"web": "kukidsmodainfantil.es", "type": "transaccional"}
+{"web": "7mejor.top", "type": "informacional"}
+{"web": "mamaluzcajasdeluz.es", "type": "transaccional"}
+{"web": "bloghoptoys.es", "type": "informacional"}
+{"web": "eluniverso.com", "type": "informacional"}
+{"web": "es.ara.cat", "type": "informacional"}
+{"web": "gasteizhoy.com", "type": "informacional"}
+{"web": "chilango.com", "type": "informacional"}
+{"web": "eldiariomontanes.es", "type": "informacional"}
+{"web": "mamacontracorriente.com", "type": "informacional"}
+{"web": "mimamaesnovata.com", "type": "informacional"}
+{"web": "puromarketing.com", "type": "informacional"}
+{"web": "lidl.es", "type": "transaccional"}
+{"web": "chinpum.eu", "type": "transaccional"}
+{"web": "heraldodemexico.com.mx", "type": "informacional"}
+{"web": "divinity.es", "type": "informacional"}
+{"web": "imaginarium.es", "type": "transaccional"}
+{"web": "pompetes.es", "type": "transaccional"}
+{"web": "elfarodemelilla.es", "type": "informacional"}
+{"web": "sleepydays.es", "type": "transaccional"}
+{"web": "diariosur.es", "type": "informacional"}
+{"web": "economiadehoy.es", "type": "informacional"}
+{"web": "as.com", "type": "informacional"}
+{"web": "diariodenavarra.es", "type": "informacional"}
+{"web": "es.wikipedia.org", "type": "informacional"}
+{"web": "tratamientospsicologicos.es", "type": "informacional"}
+{"web": "kidshome.es", "type": "transaccional"}
+{"web": "hospitaldenens.com", "type": "transaccional"}
+{"web": "efesalud.com", "type": "informacional"}
+{"web": "www2.cruzroja.es", "type": "informacional"}
+{"web": "desydes.com", "type": "transaccional"}
+{"web": "saludextremadura.ses.es", "type": "informacional"}
+{"web": "letsfamily.es", "type": "informacional"}
+{"web": "blog.minilandbaby.com", "type": "informacional"}
+{"web": "educacioninicial.mx", "type": "informacional"}
+{"web": "educo.org", "type": "transaccional"}
+{"web": "expertoanimal.com", "type": "informacional"}
+{"web": "psicohuma.com", "type": "informacional"}
+{"web": "pittinka.com", "type": "transaccional"}
+{"web": "clubfamilias.com", "type": "informacional"}
+{"web": "granujas.es", "type": "transaccional"}
+{"web": "guiaaiju.com", "type": "informacional"}
+{"web": "granadahoy.com", "type": "informacional"}
+{"web": "etapainfantil.com", "type": "informacional"}
+{"web": "escuelababyluna.es", "type": "transaccional"}
+{"web": "pecas.net", "type": "informacional"}
+{"web": "helendoron.es", "type": "transaccional"}
+ | Total Tokens: 2626
+
+2023-06-02T12:29:51.212Z - Media_Category -  Total Fetch: /4: {"web": "recreamos.com", "type": "informacional"}
+{"web": "mamahacemagia.com", "type": "informacional"}
+{"web": "verdecora.es", "type": "transaccional"}
+{"web": "mamapsicologainfantil.com", "type": "informacional"}
+{"web": "escolainfantilmeravelles.com", "type": "informacional"}
+{"web": "nortehispana.com", "type": "transaccional"}
+{"web": "redcanina.es", "type": "informacional"}
+{"web": "madrid.es", "type": "informacional"}
+{"web": "minutusshop.com", "type": "transaccional"}
+{"web": "lacasadelpeque.com", "type": "transaccional"}
+{"web": "elnortedecastilla.es", "type": "informacional"}
+{"web": "feandalucia.ccoo.es", "type": "informacional"}
+{"web": "eltiempo.com", "type": "informacional"}
+{"web": "estudiotecmadrid.es", "type": "informacional"}
+{"web": "farmacia-veterinaria.com.es", "type": "transaccional"}
+{"web": "titoytu.com", "type": "transaccional"}
+{"web": "menudospeques.net", "type": "informacional"}
+{"web": "webconsultas.com", "type": "informacional"}
+{"web": "mediquo.com", "type": "informacional"}
+{"web": "brainsnursery.com", "type": "transaccional"}
+{"web": "laprensa.hn", "type": "informacional"}
+{"web": "nuestropsicologoenmadrid.com", "type": "informacional"}
+{"web": "adrada.es", "type": "informacional"}
+{"web": "preinfant.org", "type": "informacional"}
+{"web": "bbgrenadine.com", "type": "transaccional"}
+{"web": "ludca.com", "type": "transaccional"}
+{"web": "edukame.com", "type": "informacional"}
+{"web": "pequebierzo.es", "type": "informacional"}
+{"web": "canijoscuentistas.com", "type": "informacional"}
+{"web": "consumer.es", "type": "informacional"}
+{"web": "queideaspararegalar.com", "type": "informacional"}
+{"web": "curiosite.es", "type": "transaccional"}
+{"web": "giftexperts.com", "type": "transaccional"}
+{"web": "regalador.com", "type": "transaccional"}
+{"web": "aldealibros.com", "type": "transaccional"}
+{"web": "viviendomontessori.com", "type": "informacional"}
+{"web": "cruzroja.es", "type": "informacional"}
+{"web": "loscuentosdemama.com", "type": "informacional"}
+{"web": "superanimaciones.com", "type": "transaccional"}
+{"web": "barcelonacolours.com", "type": "informacional"}
+{"web": "cdc.gov", "type": "informacional"}
+{"web": "sitly.es", "type": "transaccional"}
+{"web": "stanfordchildrens.org", "type": "informacional"}
+{"web": "psicologiaparaninos.com", "type": "informacional"}
+{"web": "educaciontrespuntocero.com", "type": "informacional"}
+{"web": "xataka.com", "type": "informacional"}
+{"web": "mensajenunabotella.es", "type": "transaccional"}
+{"web": "padresfrikis.com", "type": "informacional"}
+{"web": "margothm.es", "type": "informacional"}
+{"web": "mheducation.es", "type": "informacional"}
+{"web": "cigna.com", "type": "informacional"}
+{"web": "blog.cambridge.es", "type": "informacional"}
+{"web": "mayoclinic.org", "type": "informacional"}
+{"web": "robotsparaninos.com", "type": "transaccional"}
+{"web": "si.easp.es", "type": "informacional"}
+{"web": "decathlon.es", "type": "transaccional"}
+{"web": "psicopsi.com", "type": "informacional"}
+{"web": "jugarencasa.com", "type": "transaccional"}
+{"web": "dpto.educacion.navarra.es", "type": "informacional"}
+{"web": "deportae.com", "type": "informacional"}
+{"web": "unicef.org", "type": "informacional"}
+{"web": "elle.com", "type": "informacional"}
+{"web": "pozuelodealarcon.org", "type": "informacional"}
+{"web": "cmdsport.com", "type": "informacional"}
+{"web": "consumidor.ftc.gov", "type": "informacional"}
+{"web": "parabebes.com", "type": "informacional"}
+{"web": "siquia.com", "type": "transaccional"}
+{"web": "raicespsicologia.com", "type": "informacional"}
+{"web": "supertics.com", "type": "transaccional"}
+{"web": "mundodeportivo.com", "type": "informacional"}
+{"web": "jugarmola.com", "type": "transaccional"}
+{"web": "redalyc.org", "type": "informacional"}
+{"web": "www2.ed.gov", "type": "informacional"}
+{"web": "bbc.com", "type": "informacional"}
+{"web": "novodistribuciones.com", "type": "transaccional"}
+{"web": "childmind.org", "type": "informacional"}
+{"web": "javiertouron.es", "type": "informacional"}
+{"web": "mundopsicologos.com", "type": "informacional"}
+{"web": "cuentosparacrecer.org", "type": "informacional"}
+{"web": "cinfasalud.cinfa.com", "type": "informacional"}
+{"web": "sorprendele.com", "type": "transaccional"}
+{"web": "tintoneti.es", "type": "informacional"}
+{"web": "pequeocio.com", "type": "informacional"}
+{"web": "disfruti.com", "type": "transaccional"}
+{"web": "jugarijugar.com", "type": "informacional"}
+{"web": "mipapaesgeek.com", "type": "informacional"}
+{"web": "todopapas.com", "type": "informacional"}
+{"web": "aprendiendomatematicas.com", "type": "informacional"}
+{"web": "ccfprosario.com.ar", "type": "informacional"}
+{"web": "bayardeducacion.com", "type": "transaccional"}
+{"web": "toysmart.co", "type": "transaccional"}
+{"web": "mamisybebes.com", "type": "informacional"}
+{"web": "mochiadictos.com", "type": "transaccional"}
+{"web": "esmadrid.com", "type": "informacional"}
+{"web": "elsevier.es", "type": "transaccional"}
+{"web": "blogdelfotografo.com", "type": "informacional"}
+{"web": "eldiariodelaeducacion.com", "type": "informacional"}
+{"web": "educacion.editorialaces.com", "type": "informacional"}
+{"web": "churchofjesuschrist.org", "type": "informacional"}
+{"web": "mapfretecuidamos.com", "type": "transaccional"}
+{"web": "healthychildren.org", "type": "informacional"}
+{"web": "espaciopsicofamiliar.es", "type": "informacional"}
+{"web": "clubpequeslectores.com", "type": "transaccional"}
+{"web": "alvarobilbao.com", "type": "informacional"}
+{"web": "lauratarraga.com", "type": "informacional"}
+{"web": "latercera.com", "type": "informacional"}
+{"web": "mibebeyyo.mx", "type": "informacional"}
+{"web": "lingokids.com", "type": "transaccional"}
+{"web": "blog-es.kinedu.com", "type": "informacional"}
+{"web": "soyaire.com", "type": "transaccional"}
+ | Total Tokens: 2701
+
+2023-06-02T12:30:24.236Z - Media_Category -  Total Fetch: /4: {"web": "dinamics.coop", "type": "transaccional"}
+{"web": "xn--6aos-hqa.com", "type": "transaccional"}
+{"web": "implika.es", "type": "transaccional"}
+{"web": "uvadoc.uva.es", "type": "informacional"}
+{"web": "espacioautismo.com", "type": "informacional"}
+{"web": "bebeamordor.com", "type": "informacional"}
+{"web": "andaconmigo.com", "type": "transaccional"}
+{"web": "factoriacultural.es", "type": "informacional"}
+{"web": "blog.xcaret.com", "type": "informacional"}
+{"web": "waece.org", "type": "informacional"}
+{"web": "clarin.com", "type": "informacional"}
+{"web": "psicologasgs.com", "type": "informacional"}
+{"web": "libertiapsicologia.com", "type": "informacional"}
+{"web": "psico.mx", "type": "informacional"}
+{"web": "incluyeme.com", "type": "transaccional"}
+ | Total Tokens: 464
