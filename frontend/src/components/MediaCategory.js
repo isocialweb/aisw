@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import RenderButton from "./toolsComponents/RenderButton";
 import ToolInfo from "./toolsComponents/ToolInfo";
 import DownloadCsvTable from "./toolsComponents/DownloadCsvTable";
-import { splitArrayIntoGroups, parseString, parseStringMediaCategory } from "@/utils/textUtils";
+import { splitArrayIntoGroups, parseString} from "@/utils/textUtils";
 import { api } from "@/utils/api";
 export default function MediaCategory() {
   //Variables principales (keywords, topics, urls, etc..)
