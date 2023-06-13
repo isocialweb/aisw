@@ -24,7 +24,7 @@ export default function MediaCategory() {
     const groups = splitArrayIntoGroups(cleanDomains, 110);
     const prompts = groups.map(
       (group) =>
-        `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Devuelve la respuesta ESTRICTAMENTE una tabla en el formato solicitado sin cabeceras: | web | tipo |`
+        `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Devuelve la respuesta ESTRICTAMENTE una tabla en el formato solicitado sin encabezados y en cada columna la siguiente información: | web | tipo |`
     );
     setFetchIndex(prompts.length);
     return prompts;
@@ -68,7 +68,7 @@ export default function MediaCategory() {
       if (res !== null) {
         const table = extractTableFromResponse(res.response);
         const objects = createObjectsFromArray(table);
-        // console.log("Objetos", objects);
+        console.log("Objetos", objects);
         const newData = [...accumulatedData, ...objects];
         setResponse(newData);
         setFetchCount(fetchCount + 1);
@@ -78,7 +78,7 @@ export default function MediaCategory() {
         processPrompts(index + 1, newData, prompts);
       }
     } catch (error) {
-      // console.log("Error:", error);
+      console.log("Error:", error);
       setButtonState("error");
     }
   }
@@ -87,13 +87,13 @@ export default function MediaCategory() {
     setButtonState("loading");
     createSplitPrompts().then((prompts) => processPrompts(0, [], prompts));
   }
- 
+  
   
   function hadleReload() {
     window.location.reload();
   }
  
-  // if(response.length>0){console.log("response",response)}
+  if(response.length>0){console.log("response",response)}
   return (
     <div className="mb-24">
       <div className="mb-5">
