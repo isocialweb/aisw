@@ -24,12 +24,31 @@ export default function MediaCategory() {
     const groups = splitArrayIntoGroups(cleanDomains, 110);
     const prompts = groups.map(
       (group) =>
-        `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Devuelve la respuesta ESTRICTAMENTE en el formato solicitado: {"web": "valor", "type":"valor"}{"web": "valor", "type":"valor"} sin saltos de linea, sin [], sin comas entre }{ NO ME DEVUELVAS NADA QUE NO SEA ESTE FORMATO `
+        `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Devuelve la respuesta ESTRICTAMENTE una tabla en el formato solicitado sin cabeceras: | web | tipo |`
     );
     setFetchIndex(prompts.length);
     return prompts;
   }
 
+  function createObjectsFromArray(table) {
+    const rows = table.split("\n"); // Divide la tabla en filas
+    const objects = rows.map((row) => {
+      const columns = row.split("|").map((column) => column.trim()); // Divide la fila en columnas
+      return {
+        web: columns[1],
+        type: columns[2],
+      };
+    });
+    return objects;
+  }
+
+  function extractTableFromResponse(response) {
+    const startIndex = response.indexOf("|"); // Encuentra el índice del primer "|" en la respuesta
+    const endIndex = response.lastIndexOf("|"); // Encuentra el índice del último "|" en la respuesta
+    const table = response.substring(startIndex, endIndex + 1); // Extrae la parte de la respuesta que contiene la tabla de resultados
+    return table;
+  }
+  
   //Esta función valida que el índice acumulado sea igual que el largo de prompts. Si es así seteará el resultado en FinalPrompts
   async function processPrompts(index, accumulatedData, prompts) {
     if (index === prompts.length) {
@@ -46,14 +65,18 @@ export default function MediaCategory() {
         fetchIndex: prompts.length,
         functionName,
       });
-      const newData = accumulatedData.concat(res.response);
-      console.log("New Data",newData)
-      setResponse(newData);
-      setFetchCount(fetchCount + 1);
-      if (index === prompts.length - 1) {
-        setButtonState("done");
+      if (res !== null) {
+        const table = extractTableFromResponse(res.response);
+        const objects = createObjectsFromArray(table);
+        // console.log("Objetos", objects);
+        const newData = [...accumulatedData, ...objects];
+        setResponse(newData);
+        setFetchCount(fetchCount + 1);
+        if (index === prompts.length - 1) {
+          setButtonState("done");
+        }
+        processPrompts(index + 1, newData, prompts);
       }
-      processPrompts(index + 1, newData, prompts);
     } catch (error) {
       // console.log("Error:", error);
       setButtonState("error");
@@ -64,20 +87,12 @@ export default function MediaCategory() {
     setButtonState("loading");
     createSplitPrompts().then((prompts) => processPrompts(0, [], prompts));
   }
-  // Cuando FinalPrompts renderice parsearemos la String resultate a objeto de JS
-  useEffect(() => {
-    console.log("preParse",finalPrompts)
-    const regexFormat = /\{\"web\":\s*\".*?\",\s*\"type\":\".*?\"\}/g
-    const cleanedFinalPrompts = finalPrompts.replace(regexFormat,"")
-    setResponse(parseString(cleanedFinalPrompts, setButtonState));
-    // console.log("finalPrompt:", finalPrompts)
-  }, [finalPrompts]);
-
+ 
   
   function hadleReload() {
     window.location.reload();
   }
-
+ 
   // if(response.length>0){console.log("response",response)}
   return (
     <div className="mb-24">
