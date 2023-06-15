@@ -114,13 +114,13 @@ export default function MediaCategory() {
     createSplitPrompts().then((prompts) => processPrompts(0, [], prompts));
   }
 
+  
+  
   function hadleReload() {
     window.location.reload();
   }
+ 
 
-  if (response.length > 0) {
-    console.log("response", response);
-  }
   return (
     <div className="mb-24">
       <div className="mb-5">
