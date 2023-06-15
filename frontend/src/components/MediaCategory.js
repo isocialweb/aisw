@@ -1,8 +1,12 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import RenderButton from "./toolsComponents/RenderButton";
 import ToolInfo from "./toolsComponents/ToolInfo";
 import DownloadCsvTable from "./toolsComponents/DownloadCsvTable";
-import { splitArrayIntoGroups, parseString} from "@/utils/textUtils";
+import {
+  splitArrayIntoGroups,
+  
+} from "@/utils/textUtils";
+
 import { api } from "@/utils/api";
 export default function MediaCategory() {
   //Variables principales (keywords, topics, urls, etc..)
@@ -16,18 +20,37 @@ export default function MediaCategory() {
   const [finalPrompts, setFinalPrompts] = useState("");
   const [response, setResponse] = useState([]);
   const [buttonState, setButtonState] = useState("default");
-    //Variables counter
+  //Variables counter
   const [fetchCount, setFetchCount] = useState(0);
   const [fetchIndex, setFetchIndex] = useState(0);
   //Esta función convierte las cleanKeywords en paquetes de n que queramos y luego los mapea para separar los prompts en tantos como larga sea la array de grupos de KW
   async function createSplitPrompts() {
-    const groups = splitArrayIntoGroups(cleanDomains, 110);
+    const groups = splitArrayIntoGroups(cleanDomains, 300);
     const prompts = groups.map(
       (group) =>
-        `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Devuelve la respuesta ESTRICTAMENTE una tabla en el formato solicitado sin cabeceras: | web | tipo |`
+        `Clasifica SOLO en informacional (periodicos, magazines, revistas, blogs, medios de comunicación) o SOLO transaccional (ecommerce, servicios, alquiler...)(esta clave se llamará type) las siguientes webs "${group}". Devuelve la respuesta ESTRICTAMENTE una tabla en el formato solicitado sin encabezados y en cada columna la siguiente información: | web | tipo |`
     );
     setFetchIndex(prompts.length);
     return prompts;
+  }
+
+  function normalizeTableData(tableData) {
+    const domainPattern = /^(?:[a-z]+\.)?[a-z][a-z-]+[a-z]\.[a-z\.]{2,6}/i;
+    return tableData
+      .split("\n")
+      .filter((row) => !row.includes("-"))
+      .map((row) => {
+        row = row.replace(/"/g, "");
+        if (!row.startsWith("|")) {
+          return "|" + row;
+        }
+        if (!row.endsWith("|")) {
+          row = row + "|"; // Añade "|" al final si no existe
+        }
+        return row;
+      })
+      .filter((row) => domainPattern.test(row.split("|")[1].trim()))
+      .join("\n");
   }
 
   function createObjectsFromArray(table) {
@@ -48,7 +71,7 @@ export default function MediaCategory() {
     const table = response.substring(startIndex, endIndex + 1); // Extrae la parte de la respuesta que contiene la tabla de resultados
     return table;
   }
-  
+
   //Esta función valida que el índice acumulado sea igual que el largo de prompts. Si es así seteará el resultado en FinalPrompts
   async function processPrompts(index, accumulatedData, prompts) {
     if (index === prompts.length) {
@@ -66,19 +89,22 @@ export default function MediaCategory() {
         functionName,
       });
       if (res !== null) {
-        const table = extractTableFromResponse(res.response);
+        const normalizedResponse = normalizeTableData(res.response);
+
+        const table = extractTableFromResponse(normalizedResponse);
+
         const objects = createObjectsFromArray(table);
-        // console.log("Objetos", objects);
+
         const newData = [...accumulatedData, ...objects];
         setResponse(newData);
-        setFetchCount(fetchCount + 1);
+        setFetchCount((prevCount) => prevCount + 1);
         if (index === prompts.length - 1) {
           setButtonState("done");
         }
         processPrompts(index + 1, newData, prompts);
       }
     } catch (error) {
-      // console.log("Error:", error);
+      console.log("Error:", error);
       setButtonState("error");
     }
   }
@@ -87,13 +113,14 @@ export default function MediaCategory() {
     setButtonState("loading");
     createSplitPrompts().then((prompts) => processPrompts(0, [], prompts));
   }
- 
-  
+
   function hadleReload() {
     window.location.reload();
   }
- 
-  // if(response.length>0){console.log("response",response)}
+
+  if (response.length > 0) {
+    console.log("response", response);
+  }
   return (
     <div className="mb-24">
       <div className="mb-5">
@@ -120,29 +147,31 @@ export default function MediaCategory() {
       </div>
 
       {buttonState === "done" && response !== null ? (
-        <div className="flex flex-col items-center content-center w-3/5 pt-24 mx-auto justify-items-center ">
-          <table className="table w-full mx-auto ">
-            <thead className="text-center">
-              <tr>
-                <th className="tracking-wider text-white">Web</th>
-                <th className="tracking-wider text-white">Tipo</th>
-              </tr>
-            </thead>
-            <tbody className="text-center">
-              {response.map((row) => (
+        <div>
+          <div className="flex flex-col items-center content-center w-3/5 pt-24 mx-auto justify-items-center ">
+            <table className="table w-full mx-auto ">
+              <thead className="text-center">
                 <tr>
-                  <td className="text-white " key={row.web}>
-                    {row.web}
-                  </td>
-                  <td className="text-white " key={row.type}>
-                    {row.type}
-                  </td>
+                  <th className="tracking-wider text-white">Web</th>
+                  <th className="tracking-wider text-white">Tipo</th>
                 </tr>
-              ))}{" "}
-              */
-            </tbody>
-          </table>
-          <DownloadCsvTable response={response} />
+              </thead>
+              <tbody className="text-center">
+                {response.map((row) => (
+                  <tr>
+                    <td className="text-white " key={row.web}>
+                      {row.web}
+                    </td>
+                    <td className="text-white " key={row.type}>
+                      {row.type}
+                    </td>
+                  </tr>
+                ))}{" "}
+                */
+              </tbody>
+            </table>
+            <DownloadCsvTable response={response} />
+          </div>
         </div>
       ) : (
         buttonState === "error" && (

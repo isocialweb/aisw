@@ -17,7 +17,7 @@ function RenderButton(props) {
       (
       <>
       <p className='text-[#E5408E] font-bold text-l text-center'>STEP {props.fetchCount+1} OF {props.fetchIndex}</p>
-      <progress class="progress progress-secondary w-56 bg-[#212d47]" value={props.fetchCount+1} max={props.fetchIndex}></progress>
+      <progress className="progress progress-secondary w-56 bg-[#212d47]" value={props.fetchCount+1} max={props.fetchIndex}></progress>
       </>
       
       )}
