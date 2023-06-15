@@ -10,6 +10,9 @@ const configuration = new Configuration({
 });
 const openai = new OpenAIApi(configuration);
 
+const gpt3516k= "gpt-3.5-turbo-16k"
+const gpt35= "gpt-3.5-turbo"
+
 async function chat(req, res) {
   console.time("chat");
   console.log(colors.bgGreen("Inicio petición a OpenAI"));
@@ -20,7 +23,7 @@ async function chat(req, res) {
   
   try {
     const response = await openai.createChatCompletion({
-      model: "gpt-3.5-turbo",
+      model: gpt3516k,
       messages: [{ role: "user", content: prompt }],
     });
 
