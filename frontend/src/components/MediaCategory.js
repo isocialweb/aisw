@@ -6,6 +6,7 @@ import {
   splitArrayIntoGroups,
   
 } from "@/utils/textUtils";
+
 import { api } from "@/utils/api";
 export default function MediaCategory() {
   //Variables principales (keywords, topics, urls, etc..)
