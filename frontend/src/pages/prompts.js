@@ -1,6 +1,6 @@
 import React from 'react'
 
-import NavBar from '@/components/NavBar'
+import NavBar from '@/components/ui/NavBar'
 import Footer from '@/components/ui/home/Footer'
 import PromptsUi from '@/components/prompts/PromptsUi'
 

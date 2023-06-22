@@ -1,7 +1,7 @@
 // import { response } from 'express';
 import { useState, useEffect } from 'react';
-import AsanaCard from '@/components/AsanaCard';
-import NavBar from '@/components/NavBar';
+import AsanaCard from '@/components/ui/AsanaCard';
+import NavBar from '@/components/ui/NavBar';
 import { api } from '@/utils/api';
 import axios from 'axios';
 import withAuth from '@/components/withAuth';

@@ -1,12 +1,12 @@
 import React from 'react'
-import ProductsCategory from '@/components/ProductsCategory_ok'
-import NavBar from '@/components/NavBar'
+import Prospector from '@/components/Prospector'
+import NavBar from '@/components/ui/NavBar'
 
 function Product_Category() {
   return (
     <div>
         <NavBar/>
-        <ProductsCategory/>
+        <Prospector/>
     </div>
   )
 }

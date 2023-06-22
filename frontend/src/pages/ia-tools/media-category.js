@@ -1,6 +1,6 @@
 import React from 'react'
 import MediaCategory from '@/components/MediaCategory'
-import NavBar from '@/components/NavBar'
+import NavBar from '@/components/ui/NavBar'
 
 function Product_Category() {
   return (

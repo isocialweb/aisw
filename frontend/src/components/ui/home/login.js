@@ -28,7 +28,7 @@ async function fetchInfo() {
     const response = await api("user/login", "POST", credentials)
     
     setUserSession(response)
-    router.push('/tools')
+    router.push('/ia-tools')
     return response
   } catch (error) {
     console.error("Error en la llamada a la API:", error);
