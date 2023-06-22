@@ -1,6 +1,6 @@
 import OpportunityKw from "@/components/opportunityKw";
-import NavBar from "@/components/NavBar";
-import QualityRater from "@/components/QualityRater";
+import NavBar from "@/components/ui/NavBar";
+
 
 
 

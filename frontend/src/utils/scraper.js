@@ -8,7 +8,7 @@ export default async function scraper(url) {
   const html = await response.text();
   const $ = cheerio.load(html);
   const bodyArticle = $('article').text()
-
+  const fullUrl= url
   const regexDomain = /^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n]+)/;
   const domain = url.match(regexDomain)[1];
 
@@ -48,14 +48,15 @@ export default async function scraper(url) {
     title,
     description,
     // body,
-    domain
+    domain,
     // altTexts
+    fullUrl
   }
 
 
 
 
-  // console.log(results)
+  console.log(results)
   return(results)
 
 

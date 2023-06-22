@@ -1,6 +1,5 @@
 import OpportunityKw from "@/components/opportunityKw";
-import NavBar from "@/components/NavBar";
-
+import NavBar from "@/components/ui/NavBar";
 
 
 
@@ -9,7 +8,7 @@ function Opportunity_Kw() {
   return (
     <>
     <NavBar></NavBar>
-    <QualityRater/>
+    <OpportunityKw/>
     </>
   )
 }

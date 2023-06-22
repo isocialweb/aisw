@@ -7,6 +7,7 @@ async function scraper(url) {
   const response = await fetch(url,{ timeout: 5000 });
   const html = await response.text();
   const $ = cheerio.load(html);
+  const fullUrl = url
   const bodyArticle = $('article').text()
   function removeTags(text) {
     return text.replace(/<[^>]*>/g, '').replace(/[\r\n]+/g, ' ').trim();
@@ -52,14 +53,15 @@ async function scraper(url) {
     title,
     description,
     body,
-    domain
+    domain,
+    fullUrl
     // altTexts
   }
 
 
 
 
-  
+  console.log(results)
   return(results)
 
 

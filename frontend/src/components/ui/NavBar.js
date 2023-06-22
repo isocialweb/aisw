@@ -29,7 +29,7 @@ useEffect(() => {
     <div className=" navbar  bg-clip-padding backdrop-filter backdrop-blur-sm
     px-10 z-50 ">
   <div className="flex-1">
-    <Link href="/tools">
+    <Link href="/ia-tools">
     <Image src="/aisw.png"
      alt="AISW Logo"
      width={90}
@@ -41,7 +41,7 @@ useEffect(() => {
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1 font-medium text-white bg-transparent">
-      <li><Link href="/tools">Tools</Link></li>
+      <li><Link href="/ia-tools">Tools</Link></li>
       <li><Link href="/suggestions">Suggestions</Link></li>
       <li><Link href="/prompts">Prompts</Link></li>
       <li></li>
