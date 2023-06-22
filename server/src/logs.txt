@@ -2294,3 +2294,15 @@
 {"web": "psico.mx", "type": "informacional"}
 {"web": "incluyeme.com", "type": "transaccional"}
  | Total Tokens: 464
+
+2023-06-21T15:06:43.281Z - SearchIntent -  Total Fetch: /1: | comprar zapatillas | Transaccional | Conversión |
+| tiendas de deporte cerca de mi | Informacional | Descubrimiento |
+ | Total Tokens: 143
+
+2023-06-21T15:27:58.259Z - BulkTitleMeta -  Total Fetch: /1: | keyword               | title                                        | metadescription                                                              | H1                                    |
+|-----------------------|----------------------------------------------|----------------------------------------------------------------------------|---------------------------------------|
+| mejores zapatillas    | Descubre las mejores zapatillas del mercado   | Encuentra las zapatillas más adecuadas a tus necesidades y estilo de vida    | Encuentra las mejores zapatillas      |
+| antiguos alumnos      | Reencuentro con los antiguos alumnos         | Revive los momentos especiales con tus antiguos compañeros de escuela        | Reencuentro con los antiguos alumnos  |
+| accesorios bicicleta  | Los mejores accesorios para tu bicicleta     | Descubre todos los accesorios necesarios para mejorar tu experiencia en bici | Mejora tu bicicleta con accesorios    |
+| trucos skate          | Aprende los mejores trucos de skate          | Conviértete en un experto del skate con nuestros consejos y trucos           | Aprende los mejores trucos de skate   |
+ | Total Tokens: 367

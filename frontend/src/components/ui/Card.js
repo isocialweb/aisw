@@ -66,6 +66,14 @@ function Card(props) {
     
     ""}
 
+{
+    props.type === "iaTool" ? (<p className=" badge badge-outline mt-2  text-[#E031A6]" key="seo-badge" >ia tool</p>)
+    : 
+    props.type === "noniaTool" ? (<p className=" mt-2 badge badge-outline  text-[#FD6121]" key="ppc-badge">not ia tool</p>)
+    :   
+    
+    ""}
+
 </div>
 {Icon && <Icon className="text-white" size={20} />}
 </div>

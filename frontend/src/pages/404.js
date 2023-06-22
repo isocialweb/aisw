@@ -1,5 +1,5 @@
 import Link from "next/link"
-import NavBar from "@/components/NavBar"
+import NavBar from "@/components/ui/NavBar"
 
 export default function Custom404() {
     return (

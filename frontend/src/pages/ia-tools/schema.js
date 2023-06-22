@@ -1,6 +1,6 @@
 import React from 'react'
 import SchemaMarkup from '@/components/SchemaMarkup'
-import NavBar from '@/components/NavBar'
+import NavBar from '@/components/ui/NavBar'
 
 function schema() {
   return (

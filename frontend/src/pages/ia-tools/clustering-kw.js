@@ -1,5 +1,5 @@
 import Clustering from "@/components/ClusteringKw";
-import NavBar from "@/components/NavBar";
+import NavBar from "@/components/ui/NavBar";
 
 import React from 'react'
 

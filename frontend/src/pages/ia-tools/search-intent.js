@@ -1,6 +1,6 @@
 import React from 'react'
 import SearchIntent from '@/components/SearchIntent'
-import NavBar from '@/components/NavBar'
+import NavBar from '@/components/ui/NavBar'
 
 function Search_Intent() {
   return (
