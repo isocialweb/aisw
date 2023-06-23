@@ -17,12 +17,15 @@ const getResult = async (req, res) => {
     const browser = await puppeteer.launch({args: ['--no-sandbox'], headless: 'new' });
     const page = await browser.newPage();
 
+    page.setDefaultTimeout(10000);
+
     try {
       const results = await navigateToQuery(page, query, lowerQuery, timesToExpand);
       await browser.close();
       const data = results.map((ppaa) => ({ keyword: key, ppaa }));
       return res.status(200).json({ data });
     } catch (error) {
+      page.setDefaultTimeout(15000);
       console.error('No se ha encontrado PPAA:', error);
       await browser.close();
       return res.status(200).json({ data: [] });
