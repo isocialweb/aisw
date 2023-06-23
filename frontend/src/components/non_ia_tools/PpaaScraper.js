@@ -4,18 +4,35 @@ import ToolInfo from '../toolsComponents/ToolInfo';
 import { api } from '@/utils/api';
 import RenderButton from '../toolsComponents/RenderButton';
 import DownloadCsvTable from '../toolsComponents/DownloadCsvTable';
+import Select from 'react-select'
+
+
+
 function PpaaScraper() {
   const [keywords, setKeywords] = useState("");
   const cleanKeywords = useMemo(() => keywords.split(/\r?\n/), [keywords]);
   const [ppaa, setPpaa] = useState([]);
   const [buttonState, setButtonState] = useState("default");
   const [scrapedData, setScrapedData] = useState([])
+  const [selectedCountry, setSelectedCountry] = useState("es");
 
+const countries = [
+  { code: "es", flag: "🇪🇸", name: "España" },
+  { code: "it", flag: "🇮🇹", name: "Italia" },
+  { code: "fr", flag: "🇫🇷", name: "Francia" },
+  { code: "gb", flag: "🇬🇧", name: "Reino Unido" },
+  { code: "us", flag: "🇺🇸", name: "Estados Unidos" },
+];
+
+const handleCountryChange = (event) => {
+  setSelectedCountry(event.target.value);
+};
 
   const fetchData = async (keyword) => {
     try {
       const data = await api("ppaa/", "POST", {
         key: keyword,
+        country: selectedCountry,
       });
       return data;
     } catch (error) {
@@ -63,7 +80,16 @@ function PpaaScraper() {
             title="PPAA Scraper"
             description="Dado un listado de KW, la herramienta nos devolverá PPAA de Google expandidos a aproximadamente entre 12 y 20 resultados"
           />
-
+          <section className='flex gap-5 justify-end items-center'>
+          <p>Eige el país de tu búsqueda</p>
+          <select classname= 'select select-primary' value={selectedCountry} onChange={handleCountryChange}>
+          {countries.map((country) => (
+          <option key={country.code} value={country.code}>
+        {country.flag} {country.name}
+        </option>
+  ))}
+      </select>
+      </section>
           <textarea
             placeholder="Introduce un listado de Keywords. Ejemplo: 'Mejores zapatillas deportivas' "
             className="textarea textarea-bordered w-3/5 h-[250px] mb-14 text-white"

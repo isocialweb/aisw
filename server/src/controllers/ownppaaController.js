@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer');
 const { clearQuery, codeSearchQuery, navigateToQuery } = require('../utils/ownPpaaScraperNotExpand');
 
 const getResult = async (req, res) => {
-  const { key, times = 15 } = req.body;
+  const { key, times = 15, country } = req.body;
 
   try {
     if (!key) {
@@ -20,7 +20,7 @@ const getResult = async (req, res) => {
     page.setDefaultTimeout(10000);
 
     try {
-      const results = await navigateToQuery(page, query, lowerQuery, timesToExpand);
+      const results = await navigateToQuery(page, query, lowerQuery, timesToExpand,  country);
       await browser.close();
       const data = results.map((ppaa) => ({ keyword: key, ppaa }));
       return res.status(200).json({ data });
