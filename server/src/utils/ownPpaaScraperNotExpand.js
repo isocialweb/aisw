@@ -35,9 +35,9 @@ const codeSearchQuery = (query) => {
     throw new Error('La consulta no es una cadena de texto válida');
   }
 };
-
-const navigateToQuery = async (page, query, lowerQuery,timesToExpand = 5) => {
-  await page.goto(`https://google.com/search?q=${query}`);
+// parametros &hl=es idioma y &gl=es país
+const navigateToQuery = async (page, query, lowerQuery,timesToExpand = 5, country = "es") => {
+  await page.goto(`https://google.com/search?q=${query}&gl=${country}`);
   console.log(`${colors.green('Query:')} ${query}`);
   await page.setViewport({ width: 1080, height: 1024 });
   await page.screenshot({
