@@ -14,7 +14,7 @@ const getResult = async (req, res) => {
     const lowerQuery = codeSearchQuery(rawQuery);
     const timesToExpand = Math.round(times * 0.6);
 
-    const browser = await puppeteer.launch({ headless: 'new' });
+    const browser = await puppeteer.launch({args: ['--no-sandbox'], headless: 'new' });
     const page = await browser.newPage();
 
     try {
