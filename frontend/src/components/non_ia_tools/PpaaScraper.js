@@ -82,7 +82,7 @@ const handleCountryChange = (event) => {
           />
           <section className='flex gap-5 justify-end items-center'>
           <p>Eige el país de tu búsqueda</p>
-          <select classname= 'select select-primary' value={selectedCountry} onChange={handleCountryChange}>
+          <select className= 'select select-primary bg-slate-800 text-white' value={selectedCountry} onChange={handleCountryChange}>
           {countries.map((country) => (
           <option key={country.code} value={country.code}>
         {country.flag} {country.name}
