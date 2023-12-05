@@ -13,6 +13,10 @@ async function urlScraper(req, res) {
       return res.status(200).json(data);
     } catch (error) {
       console.error(error);
+      if (error.code === 'ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED') {
+        // Manejo específico del error SSL
+        return res.status(500).json({ error: 'Error de SSL, no se puede establecer conexión segura' });
+     }
       return res.status(500).json({ error: 'Server error' });
     }
   }
@@ -31,6 +35,10 @@ async function urlScraper(req, res) {
       return res.status(200).json(data.title);
     } catch (error) {
       console.error(error);
+      if (error.code === 'ERR_SSL_UNSAFE_LEGACY_RENEGOTIATION_DISABLED') {
+        // Manejo específico del error SSL
+        return res.status(500).json({ error: 'Error de SSL, no se puede establecer conexión segura' });
+     }
       return res.status(500).json({ error: 'Server error' });
     }
   }
