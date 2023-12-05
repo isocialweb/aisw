@@ -2,8 +2,6 @@ import DownloadCsvTable from './toolsComponents/DownloadCsvTable';
 import { useState, useEffect, useRef } from 'react';
 import ReactHtmlParser from 'kt-react-html-parser';
 import ToolInfo from './toolsComponents/ToolInfo';
-import { PaperClipIcon } from '@heroicons/react/20/solid'
-import { CheckIcon } from '@heroicons/react/20/solid'
 import { api } from '@/utils/api';
 
 export default function SerpTitle() {
@@ -37,9 +35,9 @@ export default function SerpTitle() {
   };
 
 
-  const promptTitle = `Eres un especialista SEO. Dados los siguientes títulos: ${results.map((r) => r.title)} y los siguientes H1: ${results.map((r) => r.H1)}, genera 5 title SEO de 60 caracteres máximo nuevo, que agrupe las intenciones de búsqueda que atacan. Elimina siempre la marca de la web que puedan tener los títulos proporcionados antes de generar el nuevo título, que generalmente está al final del title. Tu respuesta debe ser únicamente un array de objetos de la siguiente forma: [{"title":"El título propuesto"},{"title":"El título propuesto"}]. No añadas texto al inicio ni al final ni ninguna expliación. Sólo devuelveme la array`
-  const promptMetaDescription = `Eres un especialista SEO. Teniendo en cuenta que el título que voy a usar es: ${selectedTitle} para mi artículo, que la Keyword principal es ${query} y que mi competencia usa las meta description siguientes: ${results.map((r) => r.description)}, genera 5 nuevas metadescription (de entre 100 y 160 caracteres máximo) que agrupe las intenciones de búsqueda que atacan y obtenga el mejor CTR. Que no incluyan los nombres de las marcas de los dominios. Tu respuesta debe ser un único p en html con la metaDescription, nada más como esto <p>Aquí irá la metadescription</p>.Tu respuesta debe ser únicamente un array de objetos de la siguiente forma: [{"metadescription":"La metadescription propuesta"},{"metadescription":"La metadescription propuesta}]. No añadas texto al inicio ni al final ni ninguna expliación. Sólo devuelveme la array`
-  const promptHeadings = `Eres un especialista SEO. Genera una jerarquía de encabezados para un único artículo de blog sobre ${query} teniendo en cuenta que usaré este título:${selectedTitle} y esta meta descripción: ${selectedMetaDescription}, el conjunto de h1 y h2 que te proporciono como referencia pertenencen a mi compentencia. Siempre y cuando tengan que ver con mi título, meta Description y query, genera unos nuevos, que tengan coherencia en estructura y contenido, y ataquen todas las necesidades. Importante Omite H2 o h3 genéricos como Entradas Recientes, Entradas Relacionadas, Categorías, newsletter, etc.. Por lo que no quiero que me devuelvas ninguno del tipo: Suscribete a newsletter o artículos relacionados. También ten en cuenta que si te paso un número en el título como las 3 mejores X no me puedes devolver encabezados tipo las 7 mejores x, es decir, que tengan coherencia los encabezados con el título y la metadescription que te doy. La jerarquía debe estar optimizada para el SEO y debe contener un máximo de 3 h3 dentro de cada h2 si son necesarios y un únido H1 para el artículo diferente al title. Respeta los className exactos que te proporciono en el ejemplo. No quiero h4 ni elementos que no sean encabezados (por ejemplo ul,li o similares).Omite en tu respuesta cualquier referencia a la marca de los siguientes dominios:${results.map((r) => r.domain)} Tu respuesta sólo deben ser los encabezados, ej: <h1 class="my-5 text-2xl ">El que sea</h1><h2 class="mt-5 text-lg">El que sea</h2><h2 class="mt-5 text-lg">El que sea</h2><h3 class="text-sm">El que sea</h3>Los className tienen que ser los mismos que te doy. Evita repeticiones. Estos son las referencias H1: ${results.map((r) => r.H1)}, H2 ${results.map((r) => r.H2.slice(0, 3))}`
+  const promptTitle = `Eres un especialista SEO. Dados los siguientes títulos: ${results.map((r) => r.title)} y los siguientes H1: ${results.map((r) => r.H1)}, genera 5 title SEO de 60 caracteres máximo nuevo, que agrupe las intenciones de búsqueda que atacan. Elimina siempre la marca de la web que puedan tener los títulos proporcionados antes de generar el nuevo título, que generalmente está al final del title. Tu respuesta debe ser únicamente un array de objetos de la siguiente forma: [{"title":"El título propuesto"},{"title":"El título propuesto"}]. No añadas texto al inicio ni al final ni ninguna expliación. No devuelvas nada tipo '''''json [] UNICAMENTE devuelveme la array`
+  const promptMetaDescription = `Eres un especialista SEO. Teniendo en cuenta que el título que voy a usar es: ${selectedTitle} para mi artículo, que la Keyword principal es ${query} y que mi competencia usa las meta description siguientes: ${results.map((r) => r.description)}, genera 5 nuevas metadescription (de entre 100 y 160 caracteres máximo) que agrupe las intenciones de búsqueda que atacan y obtenga el mejor CTR. Que no incluyan los nombres de las marcas de los dominios. Tu respuesta debe ser un único p en html con la metaDescription, nada más como esto <p>Aquí irá la metadescription</p>.Tu respuesta debe ser únicamente un array de objetos de la siguiente forma: [{"metadescription":"La metadescription propuesta"},{"metadescription":"La metadescription propuesta}]. No añadas texto al inicio ni al final ni ninguna expliación. Sólo devuelveme el array. No devuelvas nada tipo '''''json [] sólo el array`
+  const promptHeadings = `Eres un especialista SEO. Genera una jerarquía de encabezados para un único artículo de blog sobre ${query} teniendo en cuenta que usaré este título:${selectedTitle} y esta meta descripción: ${selectedMetaDescription}, el conjunto de h1 y h2 que te proporciono como referencia pertenencen a mi compentencia. Siempre y cuando tengan que ver con mi título, meta Description y query, genera unos nuevos, que tengan coherencia en estructura y contenido, y ataquen todas las necesidades. Importante Omite H2 o h3 genéricos como Entradas Recientes, Entradas Relacionadas, Categorías, newsletter, etc.. Por lo que no quiero que me devuelvas ninguno del tipo: Suscribete a newsletter o artículos relacionados. También ten en cuenta que si te paso un número en el título como las 3 mejores X no me puedes devolver encabezados tipo las 7 mejores x, es decir, que tengan coherencia los encabezados con el título y la metadescription que te doy. La jerarquía debe estar optimizada para el SEO y debe contener un máximo de 3 h3 dentro de cada h2 si son necesarios y un únido H1 para el artículo diferente al title. Respeta los className exactos que te proporciono en el ejemplo. No quiero h4 ni elementos que no sean encabezados (por ejemplo ul,li o similares).Omite en tu respuesta cualquier referencia a la marca de los siguientes dominios:${results.map((r) => r.domain)} Tu respuesta sólo deben ser los encabezados, ej: <h1 class="my-5 text-2xl ">El que sea</h1><h2 class="mt-5 text-lg">El que sea</h2><h2 class="mt-5 text-lg">El que sea</h2><h3 class="text-sm">El que sea</h3>Los className tienen que ser los mismos que te doy. Evita repeticiones. Estos son las referencias H1: ${results.map((r) => r.H1)}, H2 ${results.map((r) => r.H2.slice(0, 3))}. NO DEVUELVAS NADA TIPO '''''html''''`
 
 
   useEffect(() => {
@@ -101,7 +99,7 @@ export default function SerpTitle() {
   function getTitleData() {
     setButtonState('loading_title')
     setIsLoading(true)
-    getData(promptTitle)
+    getData(promptTitle, "chat/gpt4")
       .then((data) => {
         const parsedData = JSON.parse(data.response);
         setResponseTitle(parsedData);
@@ -128,7 +126,7 @@ export default function SerpTitle() {
   function getMetaDescriptionData() {
     setButtonState('loading_meta')
     setIsLoading(true)
-    getData(promptMetaDescription)
+    getData(promptMetaDescription, "chat/gpt4")
       .then((data) => {
         const parsedData = JSON.parse(data.response);
         setResponseMetaDescription(parsedData);
