@@ -2306,3 +2306,123 @@
 | accesorios bicicleta  | Los mejores accesorios para tu bicicleta     | Descubre todos los accesorios necesarios para mejorar tu experiencia en bici | Mejora tu bicicleta con accesorios    |
 | trucos skate          | Aprende los mejores trucos de skate          | Conviértete en un experto del skate con nuestros consejos y trucos           | Aprende los mejores trucos de skate   |
  | Total Tokens: 367
+
+2023-12-05T09:14:51.199Z - undefined -  Total Fetch: /undefined: [{"title":"Seguros para conductores noveles: El más barato del 2023"},
+{"title":"¿Cuál es el seguro de coche para novel más económico?"},
+{"title":"Seguro para conductor novel: Precio, características y opciones"},
+{"title":"Encontrar el seguro de coche para novato más barato"},
+{"title":"Comparación de seguros de coche para noveles económicos"}]
+ | Total Tokens: 396
+
+2023-12-05T09:15:18.541Z - undefined -  Total Fetch: /undefined: [{"metadescription":"Encuentra el seguro de coche ideal para conductores noveles. Conoce las opciones más asequibles y características destacadas."}, 
+{"metadescription":"Obtén el mejor precio en seguros de coche para conductores noveles. Descubre cómo ahorrar sin renunciar a la mejor cobertura."}, 
+{"metadescription":"¿Buscas un seguro de coche barato para conductores noveles? Compara las mejores opciones del mercado y ahorra en tu póliza."}, 
+{"metadescription":"Descubre secretos para ahorrar en seguros de coche para conductores noveles. Consejos, características y precios más competitivos."}, 
+{"metadescription":"Adquiere el seguro ideal para conductores de hasta 25 años. Explora las opciones más económicas y eficaces en nuestro artículo."}]
+ | Total Tokens: 588
+
+2023-12-05T09:19:26.034Z - undefined -  Total Fetch: /undefined: ```json
+[
+  {"title":"Seguro Coche Novato - Mejores Precios 2023"},
+  {"title":"Top Seguros para Noveles: Precios Bajos"},
+  {"title":"Comparativa Seguro Novato: El Más Barato"},
+  {"title":"Seguro Novato: Precios y Características"},
+  {"title":"Consejos para Seguro de Coche Novato Barato"}
+]
+```
+ | Total Tokens: 395
+
+2023-12-05T09:20:37.088Z - undefined -  Total Fetch: /undefined: ```json
+[
+    {"title":"Seguro Novato: Top Opciones Baratas | Nov 2023"},
+    {"title":"Mejor Seguro Coche Novato – Compara y Ahorra"},
+    {"title":"Seguro para Novato: Coberturas y Precios Bajos"},
+    {"title":"Ahorra en Seguro de Novato: Consejos y Ofertas"},
+    {"title":"Encuentra Seguro Novato: Calidad al Mejor Precio"}
+]
+```
+ | Total Tokens: 392
+
+2023-12-05T09:22:54.519Z - undefined -  Total Fetch: /undefined: [
+{"title":"Guía Completa para Conductores Novatos"},
+{"title":"Restricciones y Consejos para Novatos al Volante"},
+{"title":"Obligaciones y Multas para Conductores Novatos"},
+{"title":"Aprende Todo Sobre Ser Conductor de Moto Novato"},
+{"title":"Conductor Novato: Derechos, Deberes y Tips"}
+]
+ | Total Tokens: 371
+
+2023-12-05T09:23:28.661Z - undefined -  Total Fetch: /undefined: [
+{"metadescription":"Descubre las claves para conducir seguro como conductor novel: limitaciones, consejos y normativas esenciales para tus primeros viajes."},
+{"metadescription":"¿Eres conductor novel? Aprende las restricciones específicas y obtén consejos valiosos para manejar con confianza y evitar multas."},
+{"metadescription":"Conoce todas las restricciones que aplican a conductores noveles y consejos prácticos para dominar el volante de forma eficiente."},
+{"metadescription":"Guía esencial para conductores noveles: restricciones, puntos clave y estrategias para una conducción segura y adaptada a tu experiencia."},
+{"metadescription":"Evita errores comunes y entiende las limitaciones al conducir como novel con nuestros consejos expertos para nuevos conductores."}
+]
+ | Total Tokens: 592
+
+2023-12-05T09:25:01.281Z - undefined -  Total Fetch: /undefined: ```html
+<h1 class="my-5 text-2xl ">Guía Inicial para Conductores Noveles: Restricciones y Consejos Esenciales</h1>
+
+<h2 class="mt-5 text-lg">Identificando a un Conductor Novel: Definición y Duración</h2>
+<h3 class="text-sm">¿Qué caracteriza a los conductores noveles?</h3>
+<h3 class="text-sm">La evolución del conductor novel al experimentado</h3>
+<h3 class="text-sm">El período probatorio: ¿Cuánto tiempo soy considerado novel?</h3>
+
+<h2 class="mt-5 text-lg">Restricciones Vigentes para los Novatos del Volante</h2>
+<h3 class="text-sm">Límites de velocidad específicos para conductores noveles</h3>
+<h3 class="text-sm">Normativa sobre la tasa de alcoholemia para nuevos conductores</h3>
+<h3 class="text-sm">Sanciones y multas: Consecuencias de no respetar las restricciones</h3>
+
+<h2 class="mt-5 text-lg">Consejos Prácticos para Manejar con Seguridad y Confianza</h2>
+<h3 class="text-sm">Técnicas de conducción recomendadas para noveles</h3>
+<h3 class="text-sm">Cómo superar la ansiedad al conducir</h3>
+<h3 class="text-sm">Uso de la “L” de aprendizaje: Importancia y consejos</h3>
+
+<h2 class="mt-5 text-lg">Equipamiento y Preparación del Vehículo para Noveles</h2>
+<h3 class="text-sm">Ajustes indispensables antes de arrancar</h3>
+<h3 class="text-sm">Toolkits de emergencia: ¿Qué no puede faltar en tu coche?</h3>
+
+<h2 class="mt-5 text-lg">Entendiendo el Sistema de Puntos para Conductores Recientes</h2>
+<h3 class="text-sm">Inicio del camino: Puntos asignados al conductor novel</h3>
+<h3 class="text-sm">Cómo conservar o recuperar tus puntos siendo nuevo al volante</h3>
+```
+ | Total Tokens: 1223
+
+2023-12-05T09:26:47.003Z - undefined -  Total Fetch: /undefined: [
+{"title":"10 Claves y Trucos para Aprobar el Carnet de Conducir"},
+{"title":"Cómo Pasar el Teórico de Conducir: Guía Completa"},
+{"title":"Domina el Examen Práctico de Conducción: Tips Esenciales"},
+{"title":"Aprobar tu Carnet de Conducir: Estrategias Efectivas"},
+{"title":"Guía Rápida: Carnet de Conducir Teórico y Práctico"}
+]
+ | Total Tokens: 414
+
+2023-12-05T09:27:09.170Z - undefined -  Total Fetch: /undefined: [
+    {"metadescription":"Maximiza tus posibilidades de pasar el examen de conducir con estrategias efectivas y consejos prácticos para el éxito."},
+    {"metadescription":"Descubre técnicas clave para el examen práctico de conducir y consejos que te llevarán directo a la aprobación."},
+    {"metadescription":"Evita los errores comunes y asegura tu licencia de conducir con nuestra guía experta y recomendaciones prácticas."},
+    {"metadescription":"Consejos prácticos para afrontar con confianza el examen de conducir y superar todas las pruebas sin complicaciones."},
+    {"metadescription":"Logra tu carnet de conducir con nuestra ayuda: trucos, técnicas y consejos para un examen práctico sin fallos."}
+]
+ | Total Tokens: 556
+
+2023-12-05T09:27:56.368Z - undefined -  Total Fetch: /undefined: <h1 class="my-5 text-2xl">Conquista el Examen de Conducir: Estrategias Ganadoras</h1>
+
+<h2 class="mt-5 text-lg">Preparativos Previos al Examen Práctico de Conducción</h2>
+<h3 class="text-sm">Elegir la Mejor Autoescuela: ¿Qué Tener en Cuenta?</h3>
+<h3 class="text-sm">El Papel de la Teoría en la Práctica del Conducir</h3>
+<h3 class="text-sm">Simulacros de Examen: La Clave para la Confianza al Volante</h3>
+
+<h2 class="mt-5 text-lg">Durante el Examen Práctico: Técnicas y Comportamientos Esenciales</h2>
+<h3 class="text-sm">Manejo del Vehículo y Control de Nervios</h3>
+<h3 class="text-sm">Errores Comunes a Evitar en el Recorrido</h3>
+<h3 class="text-sm">Comunicación con el Examinador: Consejos Prácticos</h3>
+
+<h2 class="mt-5 text-lg">Consejos de Expertos para Dominar Cualquier Maniobra</h2>
+<h3 class="text-sm">Estacionamiento Paralelo y en Batería: Guía Paso a Paso</h3>
+<h3 class="text-sm">Técnicas de Giro y Dominio de Intersecciones</h3>
+<h3 class="text-sm">Conducción Eficiente: Ahorro de Combustible y Seguridad</h3>
+
+<h2 class="mt-5 text-lg">Análisis Post-Examen: Cómo Superar un Fracaso y Prepararse para el Retake</h2>
+ | Total Tokens: 1155
